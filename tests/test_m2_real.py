@@ -301,9 +301,18 @@ class TestM2RealGrounding(unittest.TestCase):
     def test_stan_pliku_footer_not_stale(self):
         # The trailing "Stan pliku" note must not still list grounded cards 2.3–2.6
         # as "remaining to verify" — that would contradict the card bodies and 7.2.
-        match = re.search(r"pozostałe karty\s*\(([^)]*)\)", self.text)
-        self.assertIsNotNone(match, "brak notki 'pozostałe karty' w stopce 'Stan pliku'")
-        remaining = match.group(1)
+        # (Semantic check: the footer's "remaining" clause, if present, must not name
+        # those cards — regardless of its exact wording.)
+        lines = self.text.splitlines()
+        start = None
+        for i, ln in enumerate(lines):
+            if ln.strip().startswith("_Stan pliku:"):
+                start = i
+                break
+        self.assertIsNotNone(start, "brak notki '_Stan pliku:' w stopce raportu")
+        footer = "\n".join(lines[start:])
+        match = re.search(r"pozosta(?:ją|je|ł|ły)[^\n]*", footer)
+        remaining = match.group(0) if match else ""
         for card_ref in ("2.3", "2.4", "2.5", "2.6"):
             self.assertNotIn(
                 card_ref, remaining,

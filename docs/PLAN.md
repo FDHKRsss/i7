@@ -57,7 +57,7 @@ PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pl
   i zieloną transformację (2,5–15 mln zł, oprocentowanie, umorzenie, start od IV kw. 2026), limit premii
   technologicznej BGK (~10 mln zł), kwota dotacji z Funduszu Pracy (6× przeciętne wynagrodzenie wg GUS)._
 - [x] M3 — **Programy regionalne** — stub
-- [ ] M3 — **Programy regionalne** — real
+- [x] M3 — **Programy regionalne** — real
   _Fundusze Europejskie dla województw 2021-2027 (16 regionów): typowe działania „cyfryzacja MŚP",
   bony na cyfryzację, wsparcie startupów. Co najmniej wspólny wzorzec + reprezentatywne nabory
   z kilku województw, każdy z linkiem do źródła._
@@ -85,12 +85,12 @@ Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `do
 - [x] 2.4 Kredyt technologiczny / premia technologiczna (BGK)
 - [x] 2.5 Fundusz Pracy — dotacje PUP
 - [x] 2.6 KPO — Fundusz Bezpieczeństwa i Obronności
-- [ ] 3.2 Małopolska — FEdM 1.11 (dotacja, cyfryzacja i Przemysł 4.0)
-- [ ] 3.3 Warmińsko-mazurskie — pożyczka na cyfryzację
-- [ ] 3.4 Podlaskie — pożyczka na cyfryzację
-- [ ] 3.5 Wielkopolskie — FEW 1.5 (komponent cyfryzacja)
-- [ ] 3.6 Mazowieckie — FEdM 1.3 (komponent cyfryzacja)
-- [ ] 3.7 Dolnośląskie — pożyczka rozwojowa (komponent cyfryzacja)
+- [x] 3.2 Małopolska — FEdM 1.11 (dotacja, cyfryzacja i Przemysł 4.0)
+- [x] 3.3 Warmińsko-mazurskie — pożyczka na cyfryzację
+- [x] 3.4 Podlaskie — pożyczka na cyfryzację
+- [x] 3.5 Wielkopolskie — FEW 1.5 (komponent cyfryzacja)
+- [x] 3.6 Mazowieckie — FEdM 1.3 (komponent cyfryzacja)
+- [x] 3.7 Dolnośląskie — pożyczka rozwojowa (komponent cyfryzacja)
 - [x] 4.1 EIC Accelerator — uziemione (budżety 2026: Open 414 mln € / Challenges 220 mln €)
 - [ ] 4.2 Program „Cyfrowa Europa" (DEP)
 - [ ] 4.3 NCC-PL / FSTP — granty cyberbezpieczeństwo dla MŚP
@@ -104,7 +104,7 @@ Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `do
 > FE uziemiony URL-em + datą dostępu), karty 2.1, 2.2 (korekta źródła finansowania na PO IR 2014–2020,
 > Działanie 6.2), 4.1 oraz **M2 real: karty 2.3 (pożyczki PARP), 2.4 (kredyt technologiczny BGK),
 > 2.5 (Fundusz Pracy) i 2.6 (KPO FBiO — nabór zawieszony od 14.10.2026)** (szczegóły w
-> `docs/ARCHITECTURE.md` § Stan realizacji). Pozostałe karty (3.2–3.7, 4.2–4.5) oraz uziemienie pytań
+> `docs/ARCHITECTURE.md` § Stan realizacji). 3.2–3.7 uziemione; pozostały 4.2–4.5 oraz uziemienie pytań
 > otwartych (7.2) — do dalszej weryfikacji w PASS 2.
 
 ## Zasady akceptacji kroku (definition of done)

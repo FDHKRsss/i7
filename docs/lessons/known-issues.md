@@ -18,8 +18,10 @@ _Recurring walls/gotchas and how to get past them. One bullet each._
   `ARCHITECTURE.md` § "Stan realizacji" + the test count. Derive test counts with `grep -c 'def test_'`
   over EVERY test file and enumerate them all in the `unittest` command — never from memory or a partial
   list. Non-standard filenames get silently omitted: include BOTH `test_mX_fix.py` AND `test_mX_real.py`
-  (recurred M4 3×, M5 2×, M2-real 1×). The authoritative count + command line live in `ARCHITECTURE.md`
-  § "Stan realizacji".
+  (recurred M4 3×, M5 2×, M2-real 1×, M1-real 1×). Also confirm the validation file is actually committed
+  (`git ls-files`), not just present on disk — the omitted `test_m1_real.py` (14 tests) was untracked/never
+  committed, so the committed repo was missing a whole test file. The authoritative count + command line
+  live in `ARCHITECTURE.md` § "Stan realizacji".
 - In-file status footers / progress lists (e.g. the `_Stan pliku_` note, or §7.2 open-items) are a second
   copy of the ground-state that silently falls stale after grounding — the footer still listed cards
   2.3–2.6 as "remaining to verify" after they were grounded. Update it in the SAME step as the grounding
