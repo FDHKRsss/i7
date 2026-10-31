@@ -217,8 +217,10 @@ oraz serwisów programów regionalnych):
 - **Warunek wspólny:** projekt realizowany na terenie danego województwa, status MŚP, wkład własny
   (w dotacjach) lub ocena zdolności kredytowej (w pożyczkach).
 
-**Typowe instrumenty regionalne na cyfryzację (2021–2027), wskazane w oficjalnym poradniku FE:**
-Źródło: [Portal Funduszy Europejskich — „Cyfryzacja" (jak firmy korzystają z funduszy)](https://www.funduszeeuropejskie.gov.pl/jak-firmy-korzystaja-z-funduszy/cyfryzacja/) (dostęp: 2026-10-31).
+**Typowe instrumenty regionalne na cyfryzację (2021–2027):** wiersze dotyczące pożyczek regionalnych
+wskazane są w oficjalnym poradniku FE „Cyfryzacja"; wiersz **małopolskie (dotacja, Działanie 1.11)**
+pochodzi z serwisu naborów FEdM — poradnik FE wymienia tam wyłącznie pożyczki regionalne, Małopolski brak.
+Źródła: [Portal Funduszy Europejskich — „Cyfryzacja" (jak firmy korzystają z funduszy)](https://www.funduszeeuropejskie.gov.pl/jak-firmy-korzystaja-z-funduszy/cyfryzacja/) (dostęp: 2026-10-31); [fundusze.malopolska.pl — Nabory](https://fundusze.malopolska.pl/nabory) (dostęp: 2026-10-31).
 
 | Województwo | Typowy instrument na cyfryzację MŚP | Forma / status |
 |---|---|---|
@@ -231,7 +233,10 @@ oraz serwisów programów regionalnych):
 | mazowieckie | Działanie 1.3 — Innowacyjność i konkurencyjność MŚP | pożyczka — nabór ciągły |
 | dolnośląskie | Pożyczka rozwojowa — Dolnośląskie | pożyczka — nabór ciągły |
 | podkarpackie | Pożyczka rozwojowa — Podkarpackie | pożyczka — nabór ciągły |
-| małopolskie | Priorytet 1, Działanie 1.11 „Rozwój MŚP w obszarze cyfryzacji i Przemysłu 4.0" | dotacja — nabory wg harmonogramu |
+| małopolskie † | Priorytet 1, Działanie 1.11 „Rozwój MŚP w obszarze cyfryzacji i Przemysłu 4.0" | dotacja — nabory wg harmonogramu |
+
+† Wiersz „małopolskie" nie występuje w poradniku FE „Cyfryzacja" (wymienione są tam wyłącznie pożyczki
+regionalne, Małopolski brak); źródło tego wiersza: [fundusze.malopolska.pl — Nabory](https://fundusze.malopolska.pl/nabory) (dostęp: 2026-10-31).
 
 ### 3.2. Małopolska — FEdM 2021–2027, Działanie 1.11 (cyfryzacja i Przemysł 4.0)
 
@@ -278,11 +283,11 @@ oraz serwisów programów regionalnych):
 | **Warunki / ograniczenia** | Status MŚP z województwa podlaskiego; ocena zdolności kredytowej; warunki ustala partner finansujący. |
 | **Link do źródła** | [BGK — Pożyczki z Funduszy Europejskich dla Podlaskiego](https://www.bgk.pl/produkty/podlaskie/) (dostęp: 2026-10-31); [funduszeuepodlaskie.pl](https://funduszeuepodlaskie.pl/) (dostęp: 2026-10-31) |
 
-### 3.5. Wielkopolskie — FEW 2021–2027, Działanie 1.5 (cyfryzacja przedsiębiorstw)
+### 3.5. Wielkopolskie — FEW 2021–2027, Działanie 1.5 (konkurencyjność i rozwój przedsiębiorstw — komponent cyfryzacja)
 
 | Parametr | Wartość |
 |---|---|
-| **Nazwa** | Fundusze Europejskie dla Wielkopolski 2021–2027 — Działanie 1.5 „Cyfryzacja przedsiębiorstw". |
+| **Nazwa** | Fundusze Europejskie dla Wielkopolski 2021–2027 — Działanie 1.5 „Wsparcie konkurencyjności i rozwoju przedsiębiorstw w dostosowaniu do wyzwań gospodarki — Instrumenty finansowe" (komponent cyfryzacja przedsiębiorstw). |
 | **Operator / instytucja** | Zarząd Województwa Wielkopolskiego (instytucja zarządzająca); instrumenty finansowe za pośrednictwem BGK/partnerów. |
 | **Źródło finansowania** | Fundusze Europejskie dla Wielkopolski 2021–2027 (EFRR). |
 | **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** — MŚP (mikro / małe / średnie). |
@@ -292,6 +297,8 @@ oraz serwisów programów regionalnych):
 | **Termin / status naboru** | **Nabór ciągły** dla instrumentu pożyczkowego; harmonogram naborów dotacyjnych FEW — do weryfikacji (dostępność na koniec 2026). |
 | **Warunki / ograniczenia** | Status MŚP z województwa wielkopolskiego; ocena zdolności (pożyczka) lub wkład własny (dotacja); warunki ustala instytucja. |
 | **Link do źródła** | [funduszeue.wielkopolskie.pl — Nabory](https://funduszeue.wielkopolskie.pl/nabory) (dostęp: 2026-10-31) |
+
+> **Rozbieżność nazw:** serwis naborów FEW ([funduszeue.wielkopolskie.pl/nabory](https://funduszeue.wielkopolskie.pl/nabory), dostęp: 2026-10-31) nazywa to działanie „Wsparcie konkurencyjności i rozwoju przedsiębiorstw w dostosowaniu do wyzwań gospodarki — Instrumenty finansowe"; portal Funduszy Europejskich (poradnik „Cyfryzacja", zob. sekcję 3.1) opisuje je jako instrument na „cyfryzację przedsiębiorstw". Obie nazwy dotyczą tego samego Działania 1.5 — rozbieżność między dwoma oficjalnymi źródłami odnotowana.
 
 ### 3.6. Mazowieckie — FEdM 2021–2027, Działanie 1.3 (innowacyjność i konkurencyjność MŚP)
 
