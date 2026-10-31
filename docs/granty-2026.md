@@ -80,6 +80,8 @@ cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulam
 
 **Korekta źródła finansowania (PASS 2):** program „Bony na cyfryzację" (karta 2.2, edycja 2021) jest finansowany z **Programu Operacyjnego Inteligentny Rozwój 2014–2020 (PO IR), Działanie 6.2** — a nie z FENG 2021–2027 — i jest oznaczony jako zakończony.
 
+**Uziemienie PASS 2 (2026-10-31):** karty 2.3 (pożyczki PARP), 2.5 (Fundusz Pracy) i 2.6 (KPO FBiO) zweryfikowane w źródłach oficjalnych (FENG/PARP, psz.praca.gov.pl, kpo.gov.pl/BGK); karta 2.4 (kredyt technologiczny) — potwierdzono mechanizm i termin kolejnego naboru. Szczegóły w polach kart i w sekcji 7.2.
+
 ### 2.1. FENG — Ścieżka SMART (PARP)
 
 | Parametr | Wartość |
@@ -120,10 +122,10 @@ cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulam
 | **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność** — MŚP i duże przedsiębiorstwa. |
 | **Na co (zakres)** | **Transformacja cyfrowa** (cyfryzacja procesów, wdrażanie technologii cyfrowych) oraz transformacja zielona. |
 | **Forma wsparcia** | Pożyczka preferencyjna z możliwością częściowego umorzenia kapitału. |
-| **Kwota / intensywność** | 2,5–15 mln zł na projekt; oprocentowanie ok. 0,5%/rok; spłata do 15 lat; umorzenie do ok. 15% kapitału (do weryfikacji w dokumentacji PARP). |
-| **Termin / status naboru** | Nabór uruchamiany od IV kw. 2026 (do weryfikacji — termin i tryb u Partnerów Finansujących). |
-| **Warunki / ograniczenia** | Projekt z komponentem cyfrowym lub zielonym; ocena zdolności finansowej; warunki udzielania ustalają Partnerzy Finansujący. |
-| **Link do źródła** | [PARP — Pożyczki na cyfrową i zieloną transformację](https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw) (dostęp: 2026-10-31) |
+| **Kwota / intensywność** | Pożyczka 2,5–15 mln zł na projekt; oprocentowanie 0,5% w skali roku; okres spłaty do 15 lat z karencją do 24 miesięcy; bez wkładu własnego; warunkowe umorzenie do 15% kapitału. |
+| **Termin / status naboru** | Pożyczek udzielają Partnerzy Finansujący wyłonieni przez PARP w postępowaniu przetargowym (instrument ogłoszony 12.12.2025). Szczegółowy harmonogram przyjmowania wniosków — u danego Partnera Finansującego (do potwierdzenia). |
+| **Warunki / ograniczenia** | Projekt z komponentem cyfrowym lub zielonym; ocena zdolności finansowej; bez wkładu własnego; warunki udzielania (w tym warunkowe umorzenie do 15% kapitału) ustalają Partnerzy Finansujący. |
+| **Link do źródła** | [PARP — Pożyczki na cyfrową i zieloną transformację](https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw) (dostęp: 2026-10-31); [FENG/PARP — „Pożyczki do 15 mln zł na cyfrową i zieloną transformację przedsiębiorstw" (komunikat)](https://feng.parp.gov.pl/component/content/article/89735:pozyczki-do-15-mln-zl-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw) (dostęp: 2026-10-31) |
 
 ### 2.4. FENG — Kredyt technologiczny / premia technologiczna (BGK)
 
@@ -135,10 +137,10 @@ cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulam
 | **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność** o statusie MŚP (mikro / małe / średnie). |
 | **Na co (zakres)** | Wdrożenie nowej technologii (w tym **technologii cyfrowej**) i uruchomienie na jej podstawie produkcji lub usług — obejmuje inwestycje w nowoczesne rozwiązania IT. |
 | **Forma wsparcia** | **Premia technologiczna** spłacająca część kredytu technologicznego zaciągniętego w banku (forma pomocy bezzwrotnej na spłatę kapitału). |
-| **Kwota / intensywność** | Premia do ok. 10 mln zł (do weryfikacji — limit zależny od naboru). |
-| **Termin / status naboru** | Nabory cykliczne / ciągłe prowadzone przez BGK i banki; aktualne terminy w harmonogramie naborów FENG. |
+| **Kwota / intensywność** | Premia technologiczna do ok. 10 mln zł na projekt (wg źródeł informacyjnych o zasadach FENG — dokładny limit do potwierdzenia w dokumentacji naboru planowanego na IV kw. 2026). |
+| **Termin / status naboru** | Nabory cykliczne; następny nabór planowany na IV kwartał 2026 r. — dokumentacja naboru nieopublikowana (stan na czerwiec 2026; termin do potwierdzenia w BGK / harmonogramie FENG). |
 | **Warunki / ograniczenia** | Wdrożenie technologii o charakterze innowacyjnym; projekt inwestycyjny realizowany z kredytu; pomoc wg mapy pomocy regionalnej. |
-| **Link do źródła** | [BGK — Kredyt technologiczny](https://www.bgk.pl/produkty/kredyt-technologiczny/) (dostęp: 2026-10-31) |
+| **Link do źródła** | [BGK — Kredyt technologiczny](https://www.bgk.pl/produkty/kredyt-technologiczny/) (dostęp: 2026-10-31); [BGK — FENG 2021–2027 (formy wsparcia)](https://www.bgk.pl/programy-i-fundusze/fundusze/fundusze-europejskie/projekty/feng-2021-2027/) (dostęp: 2026-10-31) |
 
 ### 2.5. Fundusz Pracy — dofinansowanie podjęcia działalności gospodarczej (powiatowe urzędy pracy)
 
@@ -150,9 +152,9 @@ cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulam
 | **Kto może się ubiegać** | **Osoby fizyczne**: bezrobotni, absolwenci CIS/KIS oraz poszukujący pracy opiekunowie osób niepełnosprawnych (nieprowadzący działalności). |
 | **Na co (zakres)** | Rozpoczęcie działalności gospodarczej — również **działalności cyfrowej / produktów cyfrowych** (e-usługi, oprogramowanie, handel online): wyposażenie stanowiska, koszty pomocy prawnej, konsultacji i doradztwa. |
 | **Forma wsparcia** | Dotacja bezzwrotna (jednorazowe środki). |
-| **Kwota / intensywność** | Do 6-krotności przeciętnego wynagrodzenia (w 2026 r. ok. 50–57 tys. zł — do weryfikacji wg komunikatu GUS o przeciętnym wynagrodzeniu). |
+| **Kwota / intensywność** | Do 6-krotności przeciętnego wynagrodzenia (limit ustawowy — art. 46 ust. 1 pkt 2 ustawy o promocji zatrudnienia). Konkretna kwota zależy od komunikatu GUS o przeciętnym wynagrodzeniu obowiązującym w dniu zawarcia umowy (w 2026 r. rzędowo ok. 50–57 tys. zł — do potwierdzenia wg komunikatu GUS). |
 | **Termin / status naboru** | **Ciągły** — wnioski przyjmowane wg zasad i budżetu danego PUP (alokacje roczne Funduszu Pracy). |
-| **Warunki / ograniczenia** | Prowadzenie działalności min. 12 miesięcy (bez zawieszania dłużej niż 6 mies. łącznie); ustanowienie zabezpieczenia; pomoc de minimis; zwrot środków wykorzystanych niezgodnie z przeznaczeniem. |
+| **Warunki / ograniczenia** | Prowadzenie działalności min. 12 miesięcy (bez zawieszania dłużej niż 6 mies. łącznie) oraz niepodejmowanie zatrudnienia w tym okresie; ustanowienie zabezpieczenia; pomoc de minimis; zwrot środków wykorzystanych niezgodnie z przeznaczeniem (z odsetkami ustawowymi). |
 | **Link do źródła** | [psz.praca.gov.pl — Dofinansowanie podjęcia działalności gospodarczej](https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej) (dostęp: 2026-10-31) |
 
 ### 2.6. KPO — komponent cyfrowy i instrumenty dla firm
@@ -164,16 +166,16 @@ przedsiębiorców w obszarze technologii istotny jest wyodrębniony instrument p
 
 | Parametr | Wartość |
 |---|---|
-| **Nazwa** | KPO — Fundusz Bezpieczeństwa i Obronności (A2.7.1) — pożyczki dla przedsiębiorstw (komponent cyberbezpieczeństwa). |
-| **Operator / instytucja** | Ministerstwo Funduszy i Polityki Regionalnej (instytucja odpowiedzialna). |
-| **Źródło finansowania** | Krajowy Plan Odbudowy i Zwiększania Odporności (KPO). |
-| **Kto może się ubiegać** | **Osoby prawne** (przedsiębiorstwa; pula ok. 2 500 mln zł) oraz sektor kolejowy (osobna pula). |
-| **Na co (zakres)** | M.in. projekty z zakresu **cyberbezpieczeństwa** i usług teleinformatycznych (obok produkcji sprzętu wojskowego/dual-use i bezpieczeństwa infrastruktury) — **częściowo w zakresie celu** (cyfryzacja), ale zorientowane obronnie/dual-use. |
-| **Forma wsparcia** | Pożyczka. |
-| **Kwota / intensywność** | Pula dla przedsiębiorców 2 500 mln zł; warunki pojedynczej pożyczki — do weryfikacji. |
-| **Termin / status naboru** | Do weryfikacji w serwisie KPO (status naboru na koniec 2026). |
-| **Warunki / ograniczenia** | Kwalifikowalność projektu w obszarach wymienionych w naborze (m.in. cyberbezpieczeństwo); charakter dual-use. |
-| **Link do źródła** | [kpo.gov.pl — Nabory dla przedsiębiorców](https://www.kpo.gov.pl/strony/o-kpo/wsparcie/nabory-dla-przedsiebiorcow/) (dostęp: 2026-10-31) |
+| **Nazwa** | KPO — Fundusz Bezpieczeństwa i Obronności (A2.7.1, „FBiO") — pożyczki dla przedsiębiorstw (m.in. komponent cyberbezpieczeństwa). |
+| **Operator / instytucja** | Ministerstwo Funduszy i Polityki Regionalnej (MFiPR, instytucja odpowiedzialna); pożyczki realizuje BGK; część kapitałowa — spółka Chrobry S.A. |
+| **Źródło finansowania** | Krajowy Plan Odbudowy i Zwiększania Odporności (KPO), inwestycja A2.7.1 — alokacja ok. 23 mld zł. |
+| **Kto może się ubiegać** | **Osoby prawne** — przedsiębiorstwa (pula 2 500 mln zł) oraz sektor kolejowy (osobna pula 2 000 mln zł). |
+| **Na co (zakres)** | M.in. projekty z zakresu **cyberbezpieczeństwa**, ciągłości usług teleinformatycznych i łączności oraz zakup oprogramowania i usług IT zwiększających możliwości produkcyjne — **częściowo w zakresie celu** (cyfryzacja), ale zorientowane obronnie/dual-use. Priorytet „inwestycje w cyberbezpieczeństwo" = ok. 2,52 mld zł; „modernizacja przedsiębiorstw (m.in. B+R)" = ok. 4,16 mld zł. |
+| **Forma wsparcia** | Pożyczka (część pożyczkowa FBiO); równolegle część kapitałowa (equity) przez Chrobry S.A. |
+| **Kwota / intensywność** | Pula pożyczek dla przedsiębiorców 2 500 mln zł; warunki pojedynczej pożyczki — na stronach naborów BGK. |
+| **Termin / status naboru** | **Zawieszony** — nabór wniosków o pożyczki z FBiO dla przedsiębiorców zawieszony od **14.10.2026 r.** (komunikat BGK z 8.10.2026; wnioski przyjmowane do 13.10.2026). Nie liczymy jako „dostępny do końca 2026". |
+| **Warunki / ograniczenia** | Kwalifikowalność projektu w obszarach wymienionych w naborze (m.in. cyberbezpieczeństwo, dual-use); pomoc publiczna; szczegóły w dokumentacji naboru BGK. |
+| **Link do źródła** | [kpo.gov.pl — Fundusz Bezpieczeństwa i Obronności (A2.7.1)](https://www.kpo.gov.pl/strony/o-kpo/reformy-i-inwestycje-mfipr-w-kpo/inwestycje/fundusz-bezpieczenstwa-i-obronnosci/) (dostęp: 2026-10-31); [kpo.gov.pl — Nabory dla przedsiębiorców](https://www.kpo.gov.pl/strony/o-kpo/wsparcie/nabory-dla-przedsiebiorcow/) (dostęp: 2026-10-31); [BGK — Pożyczka z FBiO dla przedsiębiorców](https://www.bgk.pl/produkty/pozyczka-z-funduszu-bezpieczenstwa-i-obronnosci-dla-przedsiebiorcow/) (dostęp: 2026-10-31) |
 
 ### 2.7. NCBR i PFR — rola i instrumenty (kontekst)
 
@@ -422,10 +424,10 @@ Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje si
 |---|---|---|---|---|---|---|
 | Ścieżka SMART (PARP) — karta 2.1 | os. prawna + os. fiz. (JDG), MŚP | B+R → produkty cyfrowe / technologie cyfrowe | dotacja bezzwrotna | do 50 mln zł; badania przemysłowe 60–80%, prace rozwojowe 35–60% | otwarty: 29.10–29.12.2026 | [feng.parp.gov.pl](https://feng.parp.gov.pl/) |
 | Bony na cyfryzację (PARP) — karta 2.2 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja procesów, oprogramowanie, e-commerce | dotacja (voucher) | do 85%; 51–255 tys. zł (koszty 60–300 tys. zł) — edycja 2021 | poza zakresem 2026 (edycja 2021, nabór 20.09–20.10.2021) | [parp.gov.pl](https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje) |
-| Pożyczki na cyfrową i zieloną transformację (PARP) — karta 2.3 | os. prawna + os. fiz. (JDG), MŚP i duże | transformacja cyfrowa | pożyczka preferencyjna (z umorzeniem) | 2,5–15 mln zł (do weryfikacji) | od IV kw. 2026 (do weryfikacji) | [parp.gov.pl](https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw) |
-| Kredyt technologiczny / premia (BGK) — karta 2.4 | os. prawna + os. fiz. (JDG), MŚP | wdrożenie technologii (m.in. cyfrowej) | premia spłacająca kredyt | do ok. 10 mln zł (do weryfikacji) | cykliczny / ciągły | [bgk.pl](https://www.bgk.pl/produkty/kredyt-technologiczny/) |
+| Pożyczki na cyfrową i zieloną transformację (PARP) — karta 2.3 | os. prawna + os. fiz. (JDG), MŚP i duże | transformacja cyfrowa | pożyczka preferencyjna (z umorzeniem) | 2,5–15 mln zł; 0,5%/rok; do 15 lat; umorzenie do 15% | udzielają Partnerzy Finansujący (ogłoszenie XII 2025) | [parp.gov.pl](https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw) |
+| Kredyt technologiczny / premia (BGK) — karta 2.4 | os. prawna + os. fiz. (JDG), MŚP | wdrożenie technologii (m.in. cyfrowej) | premia spłacająca kredyt | do ok. 10 mln zł (do potwierdzenia w naborze IV kw. 2026) | cykliczny; kolejny nabór planowany IV kw. 2026 | [bgk.pl](https://www.bgk.pl/produkty/kredyt-technologiczny/) |
 | Fundusz Pracy — dotacje PUP — karta 2.5 | os. fiz. (bezrobotni, absolwenci CIS/KIS itp.) | start działalności (m.in. cyfrowej) | dotacja bezzwrotna | do 6× przeciętne wynagrodzenie | ciągły | [psz.praca.gov.pl](https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej) |
-| KPO — Fundusz Bezpieczeństwa i Obronności — karta 2.6 | os. prawna (przedsiębiorstwa) | cyberbezpieczeństwo (dual-use) | pożyczka | pula 2 500 mln zł | do weryfikacji | [kpo.gov.pl](https://www.kpo.gov.pl/strony/o-kpo/wsparcie/nabory-dla-przedsiebiorcow/) |
+| KPO — Fundusz Bezpieczeństwa i Obronności — karta 2.6 | os. prawna (przedsiębiorstwa; sektor kolejowy) | cyberbezpieczeństwo / dual-use (częściowo cyfrowe) | pożyczka | pula 2 500 mln zł (przedsiębiorcy) | zawieszony od 14.10.2026 | [kpo.gov.pl](https://www.kpo.gov.pl/strony/o-kpo/reformy-i-inwestycje-mfipr-w-kpo/inwestycje/fundusz-bezpieczenstwa-i-obronnosci/) |
 | Małopolska FEdM 1.11 — karta 3.2 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja i Przemysł 4.0 | dotacja bezzwrotna | do weryfikacji | nabory wg harmonogramu — do weryfikacji | [fundusze.malopolska.pl](https://fundusze.malopolska.pl/nabory) |
 | Warmińsko-mazurskie — pożyczka na cyfryzację — karta 3.3 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja | pożyczka z umorzeniem | do 1,5 mln zł | ciągły | [bgk.pl](https://www.bgk.pl/fundusze-europejskie-dla-warmii-i-mazur-2021-2027/) |
 | Podlaskie — pożyczka na cyfryzację — karta 3.4 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja | pożyczka | do weryfikacji | ciągły | [bgk.pl](https://www.bgk.pl/produkty/podlaskie/) |
@@ -460,15 +462,18 @@ Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje si
 ### 5.4. Status i terminy naborów do końca 2026
 
 - **Otwarty teraz (można składać do końca 2026):** Ścieżka SMART (2.1) — nabór 29.10.2026–29.12.2026.
-- **Nabór ciągły (bez terminu końcowego przed końcem 2026):** Fundusz Pracy (2.5), Kredyt technologiczny
-  / premia BGK (2.4), regionalne pożyczki na cyfryzację (3.3 Warmińsko-mazurskie, 3.4 Podlaskie,
-  3.5 Wielkopolskie, 3.6 Mazowieckie, 3.7 Dolnośląskie) oraz EIC Accelerator (4.1, tryb rolling).
+- **Nabór ciągły (bez terminu końcowego przed końcem 2026):** Fundusz Pracy (2.5), regionalne pożyczki na
+  cyfryzację (3.3 Warmińsko-mazurskie, 3.4 Podlaskie, 3.5 Wielkopolskie, 3.6 Mazowieckie,
+  3.7 Dolnośląskie) oraz EIC Accelerator (4.1, tryb rolling).
 - **Nabory cykliczne / okresowe (otwarte lub planowane w 2026 — status do weryfikacji):** Program
   „Cyfrowa Europa" DEP (4.2), NCC-PL / FSTP (4.3).
-- **Planowany / uruchamiany:** Pożyczki na cyfrową i zieloną transformację (2.3) — start od IV kw. 2026.
-- **Do weryfikacji (status na koniec 2026):** KPO — Fundusz Bezpieczeństwa i Obronności (2.6), Małopolska
-  dotacja FEdM 1.11 (3.2), EIT Digital Accelerator (4.4).
-- **Zakończone (nie liczymy jako „dostępne"; podane dla kontekstu):** Bony na cyfryzację PARP — edycja
+- **Uruchomiony / udzielany przez partnerów:** Pożyczki na cyfrową i zieloną transformację (2.3) — pożyczki
+  udzielają Partnerzy Finansujący wyłonieni przez PARP (instrument ogłoszony 12.12.2025).
+- **Planowany / uruchamiany w IV kw. 2026:** Kredyt technologiczny / premia BGK (2.4) — kolejny nabór
+  planowany na IV kwartał 2026 (dokumentacja nieopublikowana).
+- **Do weryfikacji (status na koniec 2026):** Małopolska dotacja FEdM 1.11 (3.2), EIT Digital Accelerator (4.4).
+- **Zakończone / zawieszone (nie liczymy jako „dostępne"; podane dla kontekstu):** KPO — Fundusz
+  Bezpieczeństwa i Obronności (2.6, nabór zawieszony od 14.10.2026), Bony na cyfryzację PARP — edycja
   2021 (2.2, nabór do 20.10.2021), nabór NCBR Ścieżka SMART dla konsorcjów (do 16.10.2026), część
   naborów dotacyjnych mazowieckich (3.6), nabór NCC-PL ogłoszony 1.08.2025.
 
@@ -488,9 +493,13 @@ kartach jako „(do weryfikacji)" zostaną uziemione w PASS 2.
 3a. PARP — Ogłoszenie o konkursie „Bony na cyfryzację" (Działanie 6.2): <https://www.parp.gov.pl/component/content/article/73731:wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje-ogloszenie-o-konkursie> (dostęp: 2026-10-31)
 3b. PARP — Lista projektów wybranych „Bony na cyfryzację" (Działanie 6.2 PO IR, konkurs 1/2021): <https://en.parp.gov.pl/component/grants/news/lista-projektow-wybranych-do-dofinansowania-w-ramach-bonow-na-cyfryzacje> (dostęp: 2026-10-31)
 4. PARP — Pożyczki na cyfrową i zieloną transformację: <https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw> (dostęp: 2026-10-31)
+4a. FENG/PARP — „Pożyczki do 15 mln zł na cyfrową i zieloną transformację przedsiębiorstw" (komunikat): <https://feng.parp.gov.pl/component/content/article/89735:pozyczki-do-15-mln-zl-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw> (dostęp: 2026-10-31)
 5. BGK — Kredyt technologiczny: <https://www.bgk.pl/produkty/kredyt-technologiczny/> (dostęp: 2026-10-31)
+5a. BGK — FENG 2021–2027 (formy wsparcia dla firm): <https://www.bgk.pl/programy-i-fundusze/fundusze/fundusze-europejskie/projekty/feng-2021-2027/> (dostęp: 2026-10-31)
 6. Publiczne Służby Zatrudnienia — Dofinansowanie podjęcia działalności gospodarczej: <https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej> (dostęp: 2026-10-31)
 7. KPO — Nabory dla przedsiębiorców: <https://www.kpo.gov.pl/strony/o-kpo/wsparcie/nabory-dla-przedsiebiorcow/> (dostęp: 2026-10-31)
+7a. KPO — Fundusz Bezpieczeństwa i Obronności (A2.7.1): <https://www.kpo.gov.pl/strony/o-kpo/reformy-i-inwestycje-mfipr-w-kpo/inwestycje/fundusz-bezpieczenstwa-i-obronnosci/> (dostęp: 2026-10-31)
+7b. BGK — Pożyczka z Funduszu Bezpieczeństwa i Obronności dla przedsiębiorców: <https://www.bgk.pl/produkty/pozyczka-z-funduszu-bezpieczenstwa-i-obronnosci-dla-przedsiebiorcow/> (dostęp: 2026-10-31)
 8. NCBR (strona główna): <https://www.ncbr.gov.pl/> (dostęp: 2026-10-31)
 9. Polski Fundusz Rozwoju (PFR): <https://pfr.pl/> (dostęp: 2026-10-31)
 
@@ -552,17 +561,21 @@ Wniosek: raport jest **kompletny jako draft, spójny i samodzielnie czytelny**; 
 
 ### 7.2. Zastrzeżenia i pytania otwarte
 
-Pozycje wymagające weryfikacji źródłowej w PASS 2 (obecnie oznaczone „do weryfikacji" / „do ustalenia"):
+Pozycje do weryfikacji źródłowej. W PASS 2 (2026-10-31) uziemiono pozycje 1, 3 i 4 oraz częściowo 2 — przekreślenie oznacza pozycję zamkniętą; pozostałe (5–10) nadal „do weryfikacji" / „do ustalenia":
 
-1. **Pożyczki PARP na cyfrową i zieloną transformację (2.3)** — oprocentowanie, poziom umorzenia oraz
-   dokładny termin uruchomienia („od IV kw. 2026") — do weryfikacji w dokumentacji PARP / u partnerów
-   finansujących.
-2. **Kredyt technologiczny BGK (2.4)** — aktualny limit premii technologicznej (ok. 10 mln zł) oraz
-   bieżący harmonogram naborów — do weryfikacji.
-3. **Fundusz Pracy (2.5)** — dokładna kwota dotacji (6-krotność przeciętnego wynagrodzenia wg GUS) — do
-   weryfikacji w komunikacie GUS.
-4. **KPO — Fundusz Bezpieczeństwa i Obronności (2.6)** — status naboru i warunki pożyczek na koniec 2026
-   — do ustalenia w serwisie KPO.
+1. ~~**Pożyczki PARP na cyfrową i zieloną transformację (2.3)**~~ — **uziemione (PASS 2, 2026-10-31):**
+   2,5–15 mln zł, oprocentowanie 0,5%/rok, spłata do 15 lat (karencja do 24 mies.), warunkowe umorzenie
+   do 15% (FENG/PARP, komunikat 12.12.2025). Pozostało do potwierdzenia: harmonogram wniosków u konkretnego
+   Partnera Finansującego.
+2. **Kredyt technologiczny BGK (2.4)** — częściowo uziemione: potwierdzono mechanizm (premia spłaca część
+   kredytu) i termin kolejnego naboru (IV kw. 2026, dokumentacja nieopublikowana). Do potwierdzenia w
+   dokumentacji naboru: dokładny limit premii (ok. 10 mln zł).
+3. ~~**Fundusz Pracy (2.5)**~~ — **uziemione:** potwierdzono limit „do 6-krotności przeciętnego wynagrodzenia"
+   (limit ustawowy) i beneficjentów (psz.praca.gov.pl). Kwota w PLN pozostaje zależna od komunikatu GUS o
+   przeciętnym wynagrodzeniu (nie podajemy sztywnej kwoty).
+4. ~~**KPO — Fundusz Bezpieczeństwa i Obronności (2.6)**~~ — **uziemione:** alokacja ok. 23 mld zł, pula
+   przedsiębiorców 2 500 mln zł; **nabór zawieszony od 14.10.2026** (komunikat BGK z 8.10.2026) — nie
+   liczymy jako „dostępny do końca 2026".
 5. **Bony na cyfryzację PARP (2.2)** — czy na koniec 2026 istnieje otwarty ogólnopolski nabór (edycja
    2021 jest zakończona) — do weryfikacji w harmonogramie PARP.
 6. **Pożyczki regionalne (3.3–3.7)** — dokładne kwoty, oprocentowanie i dostępność środków na koniec 2026

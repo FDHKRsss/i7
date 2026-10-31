@@ -15,3 +15,7 @@ _Recurring walls/gotchas and how to get past them. One bullet each._
   over EVERY test file (incl. `test_mX_fix.py`) and enumerate them all in the `unittest` command — never
   from memory or a partial list. This recurred across M4 (3×) and M5 (2×); the authoritative count and
   command line live in `ARCHITECTURE.md` § "Stan realizacji".
+- Self-audit / verification sections tend to over-claim: a "see §7.2" cross-reference (e.g. "all ungrounded
+  fragments are openly marked") must correspond 1:1 to the actual open-items list, or the audit itself is
+  inconsistent and gets flagged. Before asserting such a sentence, verify it against the real report
+  content, not against an aspiration.

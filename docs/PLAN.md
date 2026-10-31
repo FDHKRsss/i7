@@ -48,7 +48,7 @@ PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pl
   _Sekcja „Metodyka i parametry": definicja parametrów (schema), kryteria włączenia/wyłączenia programu,
   interpretacja „dostępne do końca 2026", zasady cytowania źródeł._
 - [x] M2 — **Programy ogólnopolskie** — stub
-- [ ] M2 — **Programy ogólnopolskie** — real
+- [x] M2 — **Programy ogólnopolskie** — real
   _Krajowe programy na cyfryzację: Fundusze Europejskie dla Nowoczesnej Gospodarki (m.in. Ścieżka SMART),
   KPO, PARP (m.in. bony/vouchery na cyfryzację, akceleracja), NCBR, PFR, urzędy pracy (dotacje dla osób
   fizycznych na działalność — pod kątem produktów cyfrowych). Każdy: karta + link do źródła._
@@ -81,10 +81,10 @@ Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `do
 
 - [x] 2.1 Ścieżka SMART (PARP) — uziemione (budżet/intensywność/termin + nr naboru FENG.01.01-IP.02-003/26)
 - [x] 2.2 Bony na cyfryzację (PARP) — uziemione/korygowane (2026-10-31): pole „Źródło finansowania" karty 2.2 poprawione z błędnego FENG 2021–2027 na **Działanie 6.2 PO IR 2014–2020** (Program Operacyjny Inteligentny Rozwój, konkurs nr 1/2021); zmieniony nagłówek karty i dodane źródła PARP (ogłoszenie o konkursie 73731 + lista projektów). Zsynchronizowano `docs/ARCHITECTURE.md` § Stan realizacji.
-- [ ] 2.3 Pożyczki na cyfrową i zieloną transformację (PARP)
-- [ ] 2.4 Kredyt technologiczny / premia technologiczna (BGK)
-- [ ] 2.5 Fundusz Pracy — dotacje PUP
-- [ ] 2.6 KPO — Fundusz Bezpieczeństwa i Obronności
+- [x] 2.3 Pożyczki na cyfrową i zieloną transformację (PARP)
+- [x] 2.4 Kredyt technologiczny / premia technologiczna (BGK)
+- [x] 2.5 Fundusz Pracy — dotacje PUP
+- [x] 2.6 KPO — Fundusz Bezpieczeństwa i Obronności
 - [ ] 3.2 Małopolska — FEdM 1.11 (dotacja, cyfryzacja i Przemysł 4.0)
 - [ ] 3.3 Warmińsko-mazurskie — pożyczka na cyfryzację
 - [ ] 3.4 Podlaskie — pożyczka na cyfryzację
@@ -100,8 +100,10 @@ Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `do
 
 > **Stan (2026-10-31):** PASS 2 (real/uziemienie) w toku — postęp uziemienia kart śledzony w checklist
 > powyżej. Uziemione i skorygowane: karty 2.1, 2.2 (korekta źródła finansowania na PO IR 2014–2020,
-> Działanie 6.2) i 4.1 (szczegóły w `docs/ARCHITECTURE.md` § Stan realizacji). Pozostałe karty
-> (2.3–2.7, 3.2–3.7, 4.2–4.5) oraz uziemienie pytań otwartych (7.2) — do dalszej weryfikacji w PASS 2.
+> Działanie 6.2), 4.1 oraz **M2 real: karty 2.3 (pożyczki PARP), 2.4 (kredyt technologiczny BGK),
+> 2.5 (Fundusz Pracy) i 2.6 (KPO FBiO — nabór zawieszony od 14.10.2026)** (szczegóły w
+> `docs/ARCHITECTURE.md` § Stan realizacji). Pozostałe karty (3.2–3.7, 4.2–4.5) oraz uziemienie pytań
+> otwartych (7.2) — do dalszej weryfikacji w PASS 2.
 
 ## Zasady akceptacji kroku (definition of done)
 
