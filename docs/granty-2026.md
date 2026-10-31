@@ -63,9 +63,27 @@ Programy, których nabory zakończyły się przed dniem opracowania, są **pomij
 ### 1.5. Zasady cytowania źródeł
 
 - **Każdy program ma obowiązkowo link do źródła** oraz datę dostępu. Data dostępu jest realna (nie późniejsza niż dzień opracowania: 2026-10-31).
-- Preferujemy **źródła oficjalne/pierwotne**: strony operatorów (PARP, NCBR, PFR, urzędy marszałkowskie), serwisy funduszowe (np. `serwisy.funduszeeuropejskie.gov.pl`, portale wojewódzkich programów regionalnych), KPO. Agregatory (np. portale o dotacjach) traktujemy tylko jako wskazówkę do znalezienia źródła oficjalnego.
+- Preferujemy **źródła oficjalne/pierwotne**: strony operatorów (PARP, NCBR, PFR, urzędy marszałkowskie), oficjalny **Portal Funduszy Europejskich** — [funduszeeuropejskie.gov.pl](https://www.funduszeeuropejskie.gov.pl/) z wyszukiwarką dotacji ([Wyszukiwarka Dotacji](https://www.funduszeeuropejskie.gov.pl/wyszukiwarka/)) i działem „Nabory" (portal Ministerstwa Funduszy i Polityki Regionalnej; dostęp: 2026-10-31), portale wojewódzkich programów regionalnych, serwisy beneficjenta (np. `serwisy.funduszeeuropejskie.gov.pl`), KPO. Agregatory (np. portale o dotacjach) traktujemy tylko jako wskazówkę do znalezienia źródła oficjalnego.
 - Jeśli jakiejś wartości nie uda się potwierdzić w źródle, oznaczamy ją jako **„do ustalenia"** zamiast domyślać. Żadna liczba ani termin nie są wymyślane.
 - Gdy źródła są sprzeczne, preferujemy źródło oficjalne i nowsze, a rozbieżność odnotowujemy.
+
+### 1.6. Walidacja schematu i metodyki (PASS 2)
+
+Weryfikacja z dnia **2026-10-31** potwierdza, że przyjęta metodyka jest stosowana **jednolicie w całym
+raporcie** (sekcje 2–4):
+
+- **Schemat 10 pól** (§1.2) jest spójny z definicją w `docs/ARCHITECTURE.md` (§ „Parametry") i jest
+  wypełniony w **każdej z 16 kart programów** w jednolitym formacie dwukolumnowym `| Parametr | Wartość |`,
+  z **nazwami pól** (a nie numeracją).
+- **Kryterium czasowe** (§1.4) jest stosowane konsekwentnie: nabory zakończone lub zawieszone przed
+  końcem 2026 są w kartach **oznaczane jako zakończone/zawieszone** i nie są liczone jako „dostępne"
+  (np. karta 2.2 — Bony na cyfryzację, edycja 2021; karta 2.6 — KPO, nabór zawieszony od 14.10.2026).
+- **Zasady cytowania** (§1.5) są honorowane we wszystkich kartach: każde pole „Link do źródła" zawiera
+  URL z datą dostępu 2026-10-31, prowadzący do oficjalnej strony operatora lub serwisu naboru (pełna
+  lista w sekcji 6 „Źródła").
+
+Sekcja 1 (metodyka) jest definicją własną raportu i nie zawiera wartości wymagających uziemienia
+źródłowego — po walidacji nie wymaga zmian.
 
 ---
 
@@ -596,7 +614,7 @@ IP Box / B+R, programy czysto infrastrukturalne).
 
 ---
 
-_Stan pliku: sekcje 1–7 ukończone (draft). PASS 2 (real/uziemienie) — w toku: karty 2.1, 2.2 (korekta
-źródła finansowania na PO IR 2014–2020, Działanie 6.2), 2.3–2.6 i 4.1 zweryfikowane i skorygowane
-źródłowo (2026-10-31); pozostałe karty (3.2–3.7, 4.2–4.5) oraz uziemienie pytań otwartych (7.2) —
-do dalszej weryfikacji w PASS 2._
+_Stan pliku: sekcje 1–7 ukończone. PASS 2 (real/uziemienie) — w toku: sekcja 1 (metodyka i parametry)
+zwalidowana (2026-10-31); karty 2.1, 2.2 (korekta źródła finansowania na PO IR 2014–2020, Działanie 6.2),
+2.3–2.6 i 4.1 zweryfikowane i skorygowane źródłowo (2026-10-31); pozostałe karty (3.2–3.7, 4.2–4.5) oraz
+uziemienie pytań otwartych (7.2) — do dalszej weryfikacji w PASS 2._

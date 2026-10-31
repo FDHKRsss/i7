@@ -44,7 +44,7 @@ Każdy kamień milowy ma krok **stub** (draft) i krok **real** (weryfikacja/uzie
 PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pliku `docs/granty-2026.md`.
 
 - [x] M1 — **Parametry i metodyka** — stub
-- [ ] M1 — **Parametry i metodyka** — real
+- [x] M1 — **Parametry i metodyka** — real
   _Sekcja „Metodyka i parametry": definicja parametrów (schema), kryteria włączenia/wyłączenia programu,
   interpretacja „dostępne do końca 2026", zasady cytowania źródeł._
 - [x] M2 — **Programy ogólnopolskie** — stub
@@ -99,7 +99,9 @@ Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `do
 - [ ] M6 real — audyt jakości po uziemieniu (zamknięcie pozycji „7.2 Zastrzeżenia i pytania otwarte")
 
 > **Stan (2026-10-31):** PASS 2 (real/uziemienie) w toku — postęp uziemienia kart śledzony w checklist
-> powyżej. Uziemione i skorygowane: karty 2.1, 2.2 (korekta źródła finansowania na PO IR 2014–2020,
+> powyżej. Uziemione i skorygowane: **M1 real — sekcja 1 (metodyka i parametry) zwalidowana** (schema
+> 10 pól jednolita w 16 kartach, kryterium czasowe i zasady cytowania stosowane konsekwentnie; portal
+> FE uziemiony URL-em + datą dostępu), karty 2.1, 2.2 (korekta źródła finansowania na PO IR 2014–2020,
 > Działanie 6.2), 4.1 oraz **M2 real: karty 2.3 (pożyczki PARP), 2.4 (kredyt technologiczny BGK),
 > 2.5 (Fundusz Pracy) i 2.6 (KPO FBiO — nabór zawieszony od 14.10.2026)** (szczegóły w
 > `docs/ARCHITECTURE.md` § Stan realizacji). Pozostałe karty (3.2–3.7, 4.2–4.5) oraz uziemienie pytań
