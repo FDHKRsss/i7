@@ -390,9 +390,9 @@ regionalne, Małopolski brak); źródło tego wiersza: [fundusze.malopolska.pl �
 | **Źródło finansowania** | Horyzont Europa / Europejski Instytut Innowacji i Technologii (EIT) — wspólnota EIT Digital. |
 | **Kto może się ubiegać** | **Osoby prawne** (startupy i scale-upy deep-tech — spółki, z reguły MŚP) o ambicji wzrostu międzynarodowego; **osoby fizyczne** uczestniczą jako założyciele/zespół spółki (bezpośrednim beneficjentem jest spółka — do weryfikacji). |
 | **Na co (zakres)** | **Technologie cyfrowe / deep tech**: oprogramowanie, AI, cyberbezpieczeństwo, IoT, fintech, digital health — wsparcie w pozyskaniu finansowania (Series A/B) i wejściu na rynki zagraniczne. |
-| **Forma wsparcia** | Usługa akceleracyjna (wsparcie doradcze: access-to-finance + access-to-market) o wartości ok. 50 tys. €; nie jest to dotacja pieniężna. |
-| **Kwota / intensywność** | Wsparcie o wartości ok. 50 tys. € na firmę (12 miesięcy; dla wybranych firm EIC bezpłatne w okresie akceleracji — success fee dopiero po zakończeniu 12 mies.). |
-| **Termin / status naboru** | Program akceleracji o charakterze ciągłym (rolling intake wg harmonogramu EIT Digital); bieżący nabór 2026 — do weryfikacji na stronie EIT Digital. |
+| **Forma wsparcia** | Usługa akceleracyjna (wsparcie doradcze: access-to-finance + access-to-market); nie jest to dotacja pieniężna. Wartość ok. 50 tys. € z cytowanego źródła dotyczy naboru 2022 — dla bieżącego naboru do weryfikacji. |
+| **Kwota / intensywność** | Wg cytowanego źródła (EIC–EIT Digital Venture Acceleration Programme, nabór 2022): wsparcie o wartości ok. 50 tys. € na firmę przez 12 miesięcy, dla wybranych firm EIC bezpłatne w okresie akceleracji (success fee po zakończeniu 12 mies.) — wartości dla naboru 2026 do weryfikacji. |
+| **Termin / status naboru** | Bieżący nabór 2026 — do weryfikacji na stronie EIT Digital. Cytowane źródło (EIC–EIT Digital Venture Acceleration Programme) dotyczy naboru 2022 z terminami składania 29.03–10.05.2022 i nie potwierdza trybu ciągłego (rolling intake); „charakter ciągły" jest założeniem do weryfikacji. |
 | **Warunki / ograniczenia** | Status scale-upu/startupu deep-tech z produktem cyfrowym i ambicją skalowania; selekcja przez EIT Digital; program w języku angielskim. |
 | **Link do źródła** | [EIT — EIC–EIT Digital Venture Acceleration Programme](https://www.eit.europa.eu/our-activities/opportunities/eic-eit-digital-venture-acceleration-programme) (dostęp: 2026-10-31) |
 

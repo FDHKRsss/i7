@@ -14,6 +14,7 @@ dostępu. „Parametry" definiujemy sami (schema w ARCHITECTURE).
   2-kolumnowa `| Parametr | Wartość |` (nazwy pól, nie numeracja) — jednolicie w całym raporcie.
 - **„Dostępne do końca 2026"** = nabór otwarty teraz / planowany do 31.12.2026 / ciągły; zakończone nabory
   NIE liczą się jako dostępne (co najwyżej oznaczone jako zakończone).
-- **Źródła oficjalne first** (PARP, NCBR, PFR, serwisy funduszowe, portale wojewódzkie); brak potwierdzenia
-  = „do ustalenia" — nie zmyślać liczb ani terminów.
+- **Źródła oficjalne first** (PARP, NCBR, PFR, serwisy funduszowe, portale wojewódzkie; dla programów UE:
+  Komisja Europejska / CPPC-KPK / EIT Digital — kwoty w EUR); brak potwierdzenia = „do ustalenia" — nie
+  zmyślać liczb ani terminów.
 - **git jest dostępny** (CLI działa); akceptacja kroku = plik zapisany na dysku (`write_file`) + commit/push.

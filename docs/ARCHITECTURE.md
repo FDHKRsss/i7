@@ -112,8 +112,15 @@ Ewentualne rozszerzenia zapisujemy modularnie do decyzji człowieka.
   pożyczkowych; `fundusze.malopolska.pl/nabory` dla wiersza małopolskiego z oznaczeniem `†` + przypis),
   a dla Wielkopolski odnotowano rozbieżność nazw działania 1.5 między dwoma oficjalnymi źródłami.
   Zakończone nabory dotacyjne (np. mazowieckie) oznaczone jako zakończone, nie jako dostępne.
-- Testy: `tests/test_m1.py` (19), `tests/test_m2.py` (14), `tests/test_m3.py` (19) oraz
-  `tests/test_m3_fix.py` (19) — łącznie **71 testów, wszystkie zielone**
-  (`python3 -m unittest tests.test_m1 tests.test_m2 tests.test_m3 tests.test_m3_fix`).
-- Kolejne kroki: M4 (unijne/centralne), M5 (podsumowanie/źródła), M6 (audyt jakości) — najpierw
-  stub, potem real.
+- **M4 — Programy unijne/centralne dostępne z Polski — stub: DONE** (2026-10-31). W
+  `docs/granty-2026.md` zapisana sekcja 4 z kartami: EIC Accelerator, Program „Cyfrowa Europa" (DEP),
+  NCC-PL (granty na cyberbezpieczeństwo dla MŚP), EIT Digital oraz notą kontekstową dla innych
+  programów unijnych (Horyzont Europa Klaster 4, EIC Pathfinder/Transition, Erasmus+). Każda karta
+  ma 10 pól, rozbicie beneficjenta na osobę fizyczną/prawną, zakres cyfrowy, link do źródła z datą
+  dostępu (2026-10-31). Wartości pochodzące ze źródła z 2022 r. (EIT Digital) oznaczone jako
+  „do weryfikacji".
+- Testy: `tests/test_m1.py` (19), `tests/test_m2.py` (14), `tests/test_m3.py` (19),
+  `tests/test_m3_fix.py` (19) oraz `tests/test_m4.py` (20) — łącznie **91 testów, wszystkie zielone**
+  (`python3 -m unittest tests.test_m1 tests.test_m2 tests.test_m3 tests.test_m3_fix tests.test_m4`).
+- Kolejne kroki: M4 (unijne/centralne) — real (weryfikacja źródeł), M5 (podsumowanie/źródła),
+  M6 (audyt jakości) — stub i real.

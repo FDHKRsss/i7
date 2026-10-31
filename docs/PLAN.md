@@ -61,7 +61,7 @@ PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pl
   _Fundusze Europejskie dla województw 2021-2027 (16 regionów): typowe działania „cyfryzacja MŚP",
   bony na cyfryzację, wsparcie startupów. Co najmniej wspólny wzorzec + reprezentatywne nabory
   z kilku województw, każdy z linkiem do źródła._
-- [ ] M4 — **Programy unijne/centralne dostępne z Polski** — stub
+- [x] M4 — **Programy unijne/centralne dostępne z Polski** — stub
 - [ ] M4 — **Programy unijne/centralne dostępne z Polski** — real
   _Horyzont Europa (EIC Accelerator, EIT Digital), Program Cyfrowa Europa (Digital Europe), inne unijne
   (o ile realnie dostępne dla podmiotów z Polski i pod produkty cyfrowe). Karta + link._
