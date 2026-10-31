@@ -102,7 +102,18 @@ Ewentualne rozszerzenia zapisujemy modularnie do decyzji człowieka.
   źródła + datę dostępu (2026-10-31), rozbicie beneficjenta na osobę fizyczną/prawną. Konkretne
   liczby/terminy oznaczone jako „(do weryfikacji)" tam, gdzie nie są potwierdzone w regulaminie —
   do uziemienia w PASS 2.
-- Testy: `tests/test_m1.py` (19 testów) i `tests/test_m2.py` (14 testów) — łącznie 33 testy, wszystkie
-  zielone (`python3 -m unittest tests.test_m1 tests.test_m2`).
-- Kolejne kroki: M3 (regionalne), M4 (unijne), M5 (podsumowanie/źródła), M6 (audyt jakości) — najpierw
+- **M3 — Programy regionalne — stub: DONE** (2026-10-31). W `docs/granty-2026.md` zapisana sekcja 3:
+  wspólny wzorzec regionalnego wsparcia na cyfryzację (beneficjent/zakres/forma/warunki + tabela typowych
+  instrumentów w 10 województwach) oraz 6 reprezentatywnych kart (Małopolska — FEdM 1.11 dotacja,
+  Warmińsko-mazurskie, Podlaskie, Wielkopolskie — FEW 1.5, Mazowieckie — FEdM 1.3, Dolnośląskie —
+  pożyczka rozwojowa). Każda karta ma 10 pól w formacie `| Parametr | Wartość |` (nazwy, nie numery),
+  rozbicie beneficjenta na osobę fizyczną/prawną + wielkość, zakres cyfrowy, link do źródła z datą dostępu
+  (2026-10-31). W sekcji 3.1 rozdzielono atrybucję źródeł (poradnik FE „Cyfryzacja" dla wierszy
+  pożyczkowych; `fundusze.malopolska.pl/nabory` dla wiersza małopolskiego z oznaczeniem `†` + przypis),
+  a dla Wielkopolski odnotowano rozbieżność nazw działania 1.5 między dwoma oficjalnymi źródłami.
+  Zakończone nabory dotacyjne (np. mazowieckie) oznaczone jako zakończone, nie jako dostępne.
+- Testy: `tests/test_m1.py` (19), `tests/test_m2.py` (14), `tests/test_m3.py` (19) oraz
+  `tests/test_m3_fix.py` (19) — łącznie **71 testów, wszystkie zielone**
+  (`python3 -m unittest tests.test_m1 tests.test_m2 tests.test_m3 tests.test_m3_fix`).
+- Kolejne kroki: M4 (unijne/centralne), M5 (podsumowanie/źródła), M6 (audyt jakości) — najpierw
   stub, potem real.
