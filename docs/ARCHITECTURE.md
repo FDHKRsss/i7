@@ -123,5 +123,5 @@ Ewentualne rozszerzenia zapisujemy modularnie do decyzji człowieka.
   `tests/test_m3_fix.py` (19), `tests/test_m4.py` (20) oraz `tests/test_m4_fix.py` (11) — łącznie
   **102 testów w 6 plikach, wszystkie zielone**
   (`python3 -m unittest tests.test_m1 tests.test_m2 tests.test_m3 tests.test_m3_fix tests.test_m4 tests.test_m4_fix`).
-- Kolejne kroki: M4 (unijne/centralne) — real (weryfikacja źródeł), M5 (podsumowanie/źródła),
-  M6 (audyt jakości) — stub i real.
+- Kolejne kroki: PASS 1 — M5 (podsumowanie/źródła) — stub, M6 (audyt jakości) — stub;
+  następnie PASS 2 (real/uziemienie): M1–M6 — real (w tej kolejności).

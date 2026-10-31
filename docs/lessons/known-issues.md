@@ -12,5 +12,6 @@ _Recurring walls/gotchas and how to get past them. One bullet each._
   instead of hunting a Polish deadline or a PLN figure.
 - Implement the milestone AND its tracking in one step: mark `- [x]` in `PLAN.md` AND update
   `ARCHITECTURE.md` § "Stan realizacji" + the test count, enumerating EVERY test file (incl.
-  `test_mX_fix.py`) in both the count and the `unittest` command line so they match. (M4 recurred twice:
-  stale tracking, then a 91-vs-96 count from omitting `test_m4_fix.py`.)
+  `test_mX_fix.py`) in both the count and the `unittest` command line so they match, and derive each
+  file's method count with `grep -c 'def test_'` (never from memory). M4 recurred 3×: stale tracking →
+  91-vs-96 (omitted `test_m4_fix.py`) → 96-vs-102 (`test_m4_fix.py` recorded as 5, actually 11).
