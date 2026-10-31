@@ -69,4 +69,121 @@ Programy, których nabory zakończyły się przed dniem opracowania, są **pomij
 
 ---
 
-_Stan pliku: ukończona sekcja 1 (Metodyka i parametry). Kolejne sekcje (Programy ogólnopolskie, regionalne, unijne, podsumowanie i źródła) zostaną dopisane w następnych krokach._
+## 2. Programy ogólnopolskie (krajowe)
+
+Programy krajowe to przede wszystkim instrumenty **Funduszy Europejskich dla Nowoczesnej Gospodarki
+2021–2027 (FENG)** realizowane przez **PARP** i **BGK/NCBR**, wybrane instrumenty **KPO** oraz dotacje
+**z Funduszu Pracy** udzielane przez powiatowe urzędy pracy (te ostatnie są dostępne dla **osób
+fizycznych**). Poniżej karty programów, których zakres obejmuje cyfryzację / technologie / produkty
+cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulaminie) oznaczono
+„(do weryfikacji)".
+
+### 2.1. FENG — Ścieżka SMART (PARP)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Ścieżka SMART — nabór „Badania przemysłowe i prace rozwojowe" dla pojedynczych MŚP (Priorytet I FENG). |
+| **Operator / instytucja** | Polska Agencja Rozwoju Przedsiębiorczości (PARP); nabory dla konsorcjów prowadzi Narodowe Centrum Badań i Rozwoju (NCBR). |
+| **Źródło finansowania** | Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (FENG). |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące jednoosobową działalność gospodarczą** o statusie MŚP (mikro / małe / średnie). Nie dotyczy osób fizycznych nieprowadzących działalności. |
+| **Na co (zakres)** | Prace B+R (badania przemysłowe i prace rozwojowe) prowadzące do innowacji; moduły obejmują m.in. **cyfryzację i technologie cyfrowe** — rezultatem mogą być nowe **produkty cyfrowe** (oprogramowanie, AI, automatyzacja). |
+| **Forma wsparcia** | Dotacja bezzwrotna (refundacja kosztów kwalifikowanych). |
+| **Kwota / intensywność** | Nabór jesienny 2026: budżet 500 mln zł; koszty B+R projektu min. 3 mln zł; dofinansowanie do 50 mln zł na projekt; intensywność 60–75% zależnie od kategorii badań (do weryfikacji w regulaminie naboru). |
+| **Termin / status naboru** | **Otwarty: 29.10.2026 – 29.12.2026** (do godz. 16:00). Nabór wdrożeniowy planowany 21.01–16.03.2027 (ogłoszenie 17.12.2026). Nabór NCBR dla konsorcjów zakończony 16.10.2026. |
+| **Warunki / ograniczenia** | Prowadzenie działalności na terytorium Polski; status MŚP; projekt B+R z planem wdrożenia i przewagą rynkową; wkład własny w części nieobjętej dofinansowaniem. |
+| **Link do źródła** | [feng.parp.gov.pl — Ścieżka SMART](https://feng.parp.gov.pl/) (dostęp: 2026-10-31); [harmonogram naborów PARP](https://www.parp.gov.pl/harmonogram-naborow) (dostęp: 2026-10-31) |
+
+### 2.2. FENG — Bony na cyfryzację (PARP)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Wsparcie MŚP w obszarze cyfryzacji — „Bony na cyfryzację". |
+| **Operator / instytucja** | Polska Agencja Rozwoju Przedsiębiorczości (PARP). |
+| **Źródło finansowania** | Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (FENG). |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** o statusie MŚP (mikro / małe / średnie); z reguły wymagane min. 12 miesięcy prowadzenia działalności. |
+| **Na co (zakres)** | **Cyfryzacja procesów biznesowych**: oprogramowanie (ERP/CRM/WMS, e-commerce), wdrożenia i integracje, szkolenia pracowników, doradztwo, sprzęt IT (zazwyczaj do 50% wartości projektu), cyberbezpieczeństwo, chmura. |
+| **Forma wsparcia** | Dotacja bezzwrotna (bon / voucher na usługi cyfryzacji). |
+| **Kwota / intensywność** | Dofinansowanie do 85% kosztów kwalifikowanych; maks. bon do ok. 255 000 zł; minimalna wartość projektu ok. 40 000 zł (do weryfikacji — zależy od edycji naboru). |
+| **Termin / status naboru** | Nabory ogłaszane okresowo; aktualny status (otwarty / planowany) do weryfikacji w harmonogramie PARP. |
+| **Warunki / ograniczenia** | Status MŚP; projekt musi dotyczyć cyfryzacji procesów (a nie „IT dla IT"); koszty bezpośrednio związane z projektem. |
+| **Link do źródła** | [PARP — Bony na cyfryzację](https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje) (dostęp: 2026-10-31) |
+
+### 2.3. FENG — Pożyczki na cyfrową i zieloną transformację (PARP)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Pożyczki na cyfrową i zieloną transformację przedsiębiorstw. |
+| **Operator / instytucja** | PARP wraz z wyłonionymi Partnerami Finansującymi. |
+| **Źródło finansowania** | Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (FENG) — instrument finansowy. |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność** — MŚP i duże przedsiębiorstwa. |
+| **Na co (zakres)** | **Transformacja cyfrowa** (cyfryzacja procesów, wdrażanie technologii cyfrowych) oraz transformacja zielona. |
+| **Forma wsparcia** | Pożyczka preferencyjna z możliwością częściowego umorzenia kapitału. |
+| **Kwota / intensywność** | 2,5–15 mln zł na projekt; oprocentowanie ok. 0,5%/rok; spłata do 15 lat; umorzenie do ok. 15% kapitału (do weryfikacji w dokumentacji PARP). |
+| **Termin / status naboru** | Nabór uruchamiany od IV kw. 2026 (do weryfikacji — termin i tryb u Partnerów Finansujących). |
+| **Warunki / ograniczenia** | Projekt z komponentem cyfrowym lub zielonym; ocena zdolności finansowej; warunki udzielania ustalają Partnerzy Finansujący. |
+| **Link do źródła** | [PARP — Pożyczki na cyfrową i zieloną transformację](https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw) (dostęp: 2026-10-31) |
+
+### 2.4. FENG — Kredyt technologiczny / premia technologiczna (BGK)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Kredyt technologiczny z premią technologiczną (FENG). |
+| **Operator / instytucja** | Bank Gospodarstwa Krajowego (BGK) — przyznaje premię technologiczną; kredyt udzielany przez banki komercyjne. |
+| **Źródło finansowania** | Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (FENG) — następca POIR 3.2.2. |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność** o statusie MŚP (mikro / małe / średnie). |
+| **Na co (zakres)** | Wdrożenie nowej technologii (w tym **technologii cyfrowej**) i uruchomienie na jej podstawie produkcji lub usług — obejmuje inwestycje w nowoczesne rozwiązania IT. |
+| **Forma wsparcia** | **Premia technologiczna** spłacająca część kredytu technologicznego zaciągniętego w banku (forma pomocy bezzwrotnej na spłatę kapitału). |
+| **Kwota / intensywność** | Premia do ok. 10 mln zł (do weryfikacji — limit zależny od naboru). |
+| **Termin / status naboru** | Nabory cykliczne / ciągłe prowadzone przez BGK i banki; aktualne terminy w harmonogramie naborów FENG. |
+| **Warunki / ograniczenia** | Wdrożenie technologii o charakterze innowacyjnym; projekt inwestycyjny realizowany z kredytu; pomoc wg mapy pomocy regionalnej. |
+| **Link do źródła** | [BGK — Kredyt technologiczny](https://www.bgk.pl/produkty/kredyt-technologiczny/) (dostęp: 2026-10-31) |
+
+### 2.5. Fundusz Pracy — dofinansowanie podjęcia działalności gospodarczej (powiatowe urzędy pracy)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Jednorazowe środki na podjęcie działalności gospodarczej (dofinansowanie z Funduszu Pracy). |
+| **Operator / instytucja** | Powiatowe urzędy pracy (umowa ze starostą). |
+| **Źródło finansowania** | Fundusz Pracy (środki krajowe). |
+| **Kto może się ubiegać** | **Osoby fizyczne**: bezrobotni, absolwenci CIS/KIS oraz poszukujący pracy opiekunowie osób niepełnosprawnych (nieprowadzący działalności). |
+| **Na co (zakres)** | Rozpoczęcie działalności gospodarczej — również **działalności cyfrowej / produktów cyfrowych** (e-usługi, oprogramowanie, handel online): wyposażenie stanowiska, koszty pomocy prawnej, konsultacji i doradztwa. |
+| **Forma wsparcia** | Dotacja bezzwrotna (jednorazowe środki). |
+| **Kwota / intensywność** | Do 6-krotności przeciętnego wynagrodzenia (w 2026 r. ok. 50–57 tys. zł — do weryfikacji wg komunikatu GUS o przeciętnym wynagrodzeniu). |
+| **Termin / status naboru** | **Ciągły** — wnioski przyjmowane wg zasad i budżetu danego PUP (alokacje roczne Funduszu Pracy). |
+| **Warunki / ograniczenia** | Prowadzenie działalności min. 12 miesięcy (bez zawieszania dłużej niż 6 mies. łącznie); ustanowienie zabezpieczenia; pomoc de minimis; zwrot środków wykorzystanych niezgodnie z przeznaczeniem. |
+| **Link do źródła** | [psz.praca.gov.pl — Dofinansowanie podjęcia działalności gospodarczej](https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej) (dostęp: 2026-10-31) |
+
+### 2.6. KPO — komponent cyfrowy i instrumenty dla firm
+
+Komponent cyfrowy Krajowego Planu Odbudowy i Zwiększania Odporności (KPO) jest w dużej mierze kierowany
+do **podmiotów publicznych i infrastruktury** (e-usługi, sieci, cyberbezpieczeństwo systemów państwowych),
+dlatego nie jest tu rozwijany kartami programów *stricte* grantowych na produkty cyfrowe. Dla
+przedsiębiorców w obszarze technologii istotny jest wyodrębniony instrument pożyczkowy:
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | KPO — Fundusz Bezpieczeństwa i Obronności (A2.7.1) — pożyczki dla przedsiębiorstw (komponent cyberbezpieczeństwa). |
+| **Operator / instytucja** | Ministerstwo Funduszy i Polityki Regionalnej (instytucja odpowiedzialna). |
+| **Źródło finansowania** | Krajowy Plan Odbudowy i Zwiększania Odporności (KPO). |
+| **Kto może się ubiegać** | **Osoby prawne** (przedsiębiorstwa; pula ok. 2 500 mln zł) oraz sektor kolejowy (osobna pula). |
+| **Na co (zakres)** | M.in. projekty z zakresu **cyberbezpieczeństwa** i usług teleinformatycznych (obok produkcji sprzętu wojskowego/dual-use i bezpieczeństwa infrastruktury) — **częściowo w zakresie celu** (cyfryzacja), ale zorientowane obronnie/dual-use. |
+| **Forma wsparcia** | Pożyczka. |
+| **Kwota / intensywność** | Pula dla przedsiębiorców 2 500 mln zł; warunki pojedynczej pożyczki — do weryfikacji. |
+| **Termin / status naboru** | Do weryfikacji w serwisie KPO (status naboru na koniec 2026). |
+| **Warunki / ograniczenia** | Kwalifikowalność projektu w obszarach wymienionych w naborze (m.in. cyberbezpieczeństwo); charakter dual-use. |
+| **Link do źródła** | [kpo.gov.pl — Nabory dla przedsiębiorców](https://www.kpo.gov.pl/strony/o-kpo/wsparcie/nabory-dla-przedsiebiorcow/) (dostęp: 2026-10-31) |
+
+### 2.7. NCBR i PFR — rola i instrumenty (kontekst)
+
+- **NCBR** prowadzi w FENG nabory B+R dla **konsorcjów** (m.in. Ścieżka SMART — konsorcja, nabór
+  FENG.01.01-IP.01-003/26 zakończony 16.10.2026) oraz inne programy badawczo-rozwojowe, w których
+  projekty cyfrowe są dopuszczalne. Źródło: [ncbr.gov.pl](https://www.ncbr.gov.pl/) (dostęp: 2026-10-31).
+- **PFR** (Grupa PFR) oferuje głównie instrumenty zwrotne i kapitałowe (m.in. pożyczki, fundusze VC
+  przez PFR Ventures), a nie klasyczne dotacje — dla startupów technologicznych stanowią uzupełnienie,
+  nie dotację bezzwrotną. Źródło: [pfr.pl](https://pfr.pl/) (dostęp: 2026-10-31).
+- **Ministerstwo Cyfryzacji / NCC-PL** uruchamia granty dla MŚP z sektora cyberbezpieczeństwa w ramach
+  Programu „Cyfrowa Europa" (30–60 tys. EUR) — ten program jest opisany w sekcji programów unijnych.
+
+---
+
+_Stan pliku: ukończone sekcje 1 (Metodyka i parametry) oraz 2 (Programy ogólnopolskie — draft). Kolejne sekcje (Programy regionalne, programy unijne/centralne, podsumowanie i źródła) zostaną dopisane w następnych krokach._
