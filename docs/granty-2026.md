@@ -3,7 +3,7 @@
 **Data opracowania:** 2026-10-31
 **Zakres:** programy grantowe / dotacyjne (i zbliżone formy wsparcia finansowego) dostępne w Polsce do końca roku 2026, dotyczące technologii, produktów cyfrowych i cyfryzacji, dla **osób fizycznych** oraz **osób prawnych** (firmy, samorządy, NGO, spółki itd.).
 
-> Wersja robocza (draft). Wątpliwości są oznaczane w treści jako „(do weryfikacji)".
+> Wersja robocza (draft) z częściowo uziemionymi danymi — PASS 2 (real) w toku. Wątpliwości są oznaczane w treści jako „(do weryfikacji)".
 
 ---
 
@@ -82,14 +82,14 @@ cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulam
 
 | Parametr | Wartość |
 |---|---|
-| **Nazwa** | Ścieżka SMART — nabór „Badania przemysłowe i prace rozwojowe" dla pojedynczych MŚP (Priorytet I FENG). |
+| **Nazwa** | Ścieżka SMART — nabór „Badania przemysłowe i prace rozwojowe" dla pojedynczych MŚP (Priorytet I FENG; nabór nr FENG.01.01-IP.02-003/26, ogłoszony 29.09.2026). |
 | **Operator / instytucja** | Polska Agencja Rozwoju Przedsiębiorczości (PARP); nabory dla konsorcjów prowadzi Narodowe Centrum Badań i Rozwoju (NCBR). |
 | **Źródło finansowania** | Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (FENG). |
 | **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące jednoosobową działalność gospodarczą** o statusie MŚP (mikro / małe / średnie). Nie dotyczy osób fizycznych nieprowadzących działalności. |
 | **Na co (zakres)** | Prace B+R (badania przemysłowe i prace rozwojowe) prowadzące do innowacji; moduły obejmują m.in. **cyfryzację i technologie cyfrowe** — rezultatem mogą być nowe **produkty cyfrowe** (oprogramowanie, AI, automatyzacja). |
 | **Forma wsparcia** | Dotacja bezzwrotna (refundacja kosztów kwalifikowanych). |
-| **Kwota / intensywność** | Nabór jesienny 2026: budżet 500 mln zł; koszty B+R projektu min. 3 mln zł; dofinansowanie do 50 mln zł na projekt; intensywność 60–75% zależnie od kategorii badań (do weryfikacji w regulaminie naboru). |
-| **Termin / status naboru** | **Otwarty: 29.10.2026 – 29.12.2026** (do godz. 16:00). Nabór wdrożeniowy planowany 21.01–16.03.2027 (ogłoszenie 17.12.2026). Nabór NCBR dla konsorcjów zakończony 16.10.2026. |
+| **Kwota / intensywność** | Budżet naboru 500 mln zł; koszty kwalifikowane prac B+R min. 3 mln zł; pomoc do 50 mln zł na projekt; dofinansowanie: badania przemysłowe 60–80%, prace rozwojowe 35–60% kosztów kwalifikowanych (zależnie od wielkości firmy i premii). |
+| **Termin / status naboru** | **Otwarty: 29.10.2026 – 29.12.2026** (do godz. 16:00; PARP może skrócić nabór). Nabór wdrożeniowy planowany 21.01–16.03.2027 (ogłoszenie 17.12.2026). Nabór NCBR dla konsorcjów zakończony 16.10.2026. |
 | **Warunki / ograniczenia** | Prowadzenie działalności na terytorium Polski; status MŚP; projekt B+R z planem wdrożenia i przewagą rynkową; wkład własny w części nieobjętej dofinansowaniem. |
 | **Link do źródła** | [feng.parp.gov.pl — Ścieżka SMART](https://feng.parp.gov.pl/) (dostęp: 2026-10-31); [harmonogram naborów PARP](https://www.parp.gov.pl/harmonogram-naborow) (dostęp: 2026-10-31) |
 
@@ -101,10 +101,10 @@ cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulam
 | **Operator / instytucja** | Polska Agencja Rozwoju Przedsiębiorczości (PARP). |
 | **Źródło finansowania** | Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (FENG). |
 | **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** o statusie MŚP (mikro / małe / średnie); z reguły wymagane min. 12 miesięcy prowadzenia działalności. |
-| **Na co (zakres)** | **Cyfryzacja procesów biznesowych**: oprogramowanie (ERP/CRM/WMS, e-commerce), wdrożenia i integracje, szkolenia pracowników, doradztwo, sprzęt IT (zazwyczaj do 50% wartości projektu), cyberbezpieczeństwo, chmura. |
+| **Na co (zakres)** | **Cyfryzacja procesów biznesowych**: oprogramowanie (ERP/CRM/WMS, e-commerce), wdrożenia i integracje, szkolenia pracowników, doradztwo, sprzęt IT, cyberbezpieczeństwo, chmura. |
 | **Forma wsparcia** | Dotacja bezzwrotna (bon / voucher na usługi cyfryzacji). |
-| **Kwota / intensywność** | Dofinansowanie do 85% kosztów kwalifikowanych; maks. bon do ok. 255 000 zł; minimalna wartość projektu ok. 40 000 zł (do weryfikacji — zależy od edycji naboru). |
-| **Termin / status naboru** | Nabory ogłaszane okresowo; aktualny status (otwarty / planowany) do weryfikacji w harmonogramie PARP. |
+| **Kwota / intensywność** | Do 85% kosztów kwalifikowanych; dofinansowanie od 51 000 zł do 255 000 zł, przy kosztach kwalifikowanych od 60 000 zł do 300 000 zł (parametry edycji 2021). |
+| **Termin / status naboru** | **Zakończony (edycja 2021)** — nabór 20.09–20.10.2021 (budżet 110 mln zł). Na 2026-10-31 nie potwierdzono otwartego ogólnopolskiego naboru „Bony na cyfryzację" PARP (do weryfikacji w harmonogramie PARP). |
 | **Warunki / ograniczenia** | Status MŚP; projekt musi dotyczyć cyfryzacji procesów (a nie „IT dla IT"); koszty bezpośrednio związane z projektem. |
 | **Link do źródła** | [PARP — Bony na cyfryzację](https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje) (dostęp: 2026-10-31) |
 
@@ -346,7 +346,7 @@ regionalne, Małopolski brak); źródło tego wiersza: [fundusze.malopolska.pl �
 | **Kto może się ubiegać** | **Osoby prawne** (pojedyncze startupy i MŚP, w tym spin-offy) oraz **osoby fizyczne** zamierzające założyć MŚP; małe mid-capy (do 499 pracowników) wyłącznie w części inwestycyjnej. Nie jest wymagane polskie partnerstwo — aplikować może sam podmiot. |
 | **Na co (zakres)** | Innowacje o wysokim ryzyku i potencjale przełomowym (deep tech) — w tym **produkty cyfrowe**, oprogramowanie, AI, cyberbezpieczeństwo i technologie cyfrowe (TRL 6–8); otwarta ścieżka na dowolną branżę. |
 | **Forma wsparcia** | Dotacja (grant, lump sum) i/lub inwestycja kapitałowa (equity / quasi-equity); możliwe finansowanie mieszane (blended) albo wyłącznie equity. |
-| **Kwota / intensywność** | Grant poniżej 2,5 mln € (działania TRL 6–8, do 24 mies.); komponent inwestycyjny 1–10 mln €; budżety 2026: EIC Accelerator Open 414 mln €, EIC Accelerator Challenges 220 mln €. |
+| **Kwota / intensywność** | Grant poniżej 2,5 mln € (działania TRL 6–8, do 24 mies.); komponent inwestycyjny 1–10 mln €; budżety 2026 (potwierdzone na stronie EIC): EIC Accelerator Open 414 mln €, EIC Accelerator Challenges 220 mln €. |
 | **Termin / status naboru** | **Nabór ciągły** — krótkie wnioski (short proposal) składane w dowolnym momencie, oceniane w cyklach miesięcznych; dostępny również po 31.12.2026. |
 | **Warunki / ograniczenia** | Jeden wniosek na raz; innowacja TRL 6–8 z ambicją skalowania; dla mid-capów tylko equity; dokumentacja i ocena po angielsku; wybrane firmy mogą skorzystać z Business Acceleration Services. |
 | **Link do źródła** | [EIC Accelerator — oficjalna strona EIC](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en) (dostęp: 2026-10-31); [KPK — EIC Accelerator](https://www.kpk.gov.pl/horyzont-europa/innowacyjna-europa/eic/eic-accelerator) (dostęp: 2026-10-31) |
@@ -418,8 +418,8 @@ Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje si
 
 | Program (karta) | Beneficjent | Zakres (cyfryzacja) | Forma | Kwota / intensywność | Termin / status do końca 2026 | Źródło |
 |---|---|---|---|---|---|---|
-| Ścieżka SMART (PARP) — karta 2.1 | os. prawna + os. fiz. (JDG), MŚP | B+R → produkty cyfrowe / technologie cyfrowe | dotacja bezzwrotna | do 50 mln zł; 60–75% (do weryfikacji) | otwarty: 29.10–29.12.2026 | [feng.parp.gov.pl](https://feng.parp.gov.pl/) |
-| Bony na cyfryzację (PARP) — karta 2.2 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja procesów, oprogramowanie, e-commerce | dotacja (voucher) | do 85%; do ok. 255 tys. zł; min. ok. 40 tys. zł (do weryfikacji) | nabory okresowe — status do weryfikacji | [parp.gov.pl](https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje) |
+| Ścieżka SMART (PARP) — karta 2.1 | os. prawna + os. fiz. (JDG), MŚP | B+R → produkty cyfrowe / technologie cyfrowe | dotacja bezzwrotna | do 50 mln zł; badania przemysłowe 60–80%, prace rozwojowe 35–60% | otwarty: 29.10–29.12.2026 | [feng.parp.gov.pl](https://feng.parp.gov.pl/) |
+| Bony na cyfryzację (PARP) — karta 2.2 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja procesów, oprogramowanie, e-commerce | dotacja (voucher) | do 85%; 51–255 tys. zł (koszty 60–300 tys. zł) — edycja 2021 | poza zakresem 2026 (edycja 2021, nabór 20.09–20.10.2021) | [parp.gov.pl](https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje) |
 | Pożyczki na cyfrową i zieloną transformację (PARP) — karta 2.3 | os. prawna + os. fiz. (JDG), MŚP i duże | transformacja cyfrowa | pożyczka preferencyjna (z umorzeniem) | 2,5–15 mln zł (do weryfikacji) | od IV kw. 2026 (do weryfikacji) | [parp.gov.pl](https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw) |
 | Kredyt technologiczny / premia (BGK) — karta 2.4 | os. prawna + os. fiz. (JDG), MŚP | wdrożenie technologii (m.in. cyfrowej) | premia spłacająca kredyt | do ok. 10 mln zł (do weryfikacji) | cykliczny / ciągły | [bgk.pl](https://www.bgk.pl/produkty/kredyt-technologiczny/) |
 | Fundusz Pracy — dotacje PUP — karta 2.5 | os. fiz. (bezrobotni, absolwenci CIS/KIS itp.) | start działalności (m.in. cyfrowej) | dotacja bezzwrotna | do 6× przeciętne wynagrodzenie | ciągły | [psz.praca.gov.pl](https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej) |
@@ -445,7 +445,7 @@ Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje si
   - Większość pozostałych programów wymaga prowadzenia jednoosobowej działalności gospodarczej (JDG)
     lub posiadania formy prawnej.
 - **Dla osób fizycznych prowadzących JDG i osób prawnych (równorzędnie):**
-  - Ścieżka SMART (2.1), Bony na cyfryzację (2.2), Pożyczki na cyfrową i zieloną transformację (2.3),
+  - Ścieżka SMART (2.1), Bony na cyfryzację (2.2 — edycja 2021, zakończony), Pożyczki na cyfrową i zieloną transformację (2.3),
     Kredyt technologiczny / premia BGK (2.4), wszystkie karty regionalne (3.2–3.7), NCC-PL / FSTP (4.3).
   - Typowa wielkość: mikro / małe / średnie przedsiębiorstwa (MŚP); pożyczki PARP (2.3) dopuszczają
     też duże firmy.
@@ -461,14 +461,14 @@ Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje si
 - **Nabór ciągły (bez terminu końcowego przed końcem 2026):** Fundusz Pracy (2.5), Kredyt technologiczny
   / premia BGK (2.4), regionalne pożyczki na cyfryzację (3.3 Warmińsko-mazurskie, 3.4 Podlaskie,
   3.5 Wielkopolskie, 3.6 Mazowieckie, 3.7 Dolnośląskie) oraz EIC Accelerator (4.1, tryb rolling).
-- **Nabory cykliczne / okresowe (otwarte lub planowane w 2026 — status do weryfikacji):** Bony na
-  cyfryzację (2.2), Program „Cyfrowa Europa" DEP (4.2), NCC-PL / FSTP (4.3).
+- **Nabory cykliczne / okresowe (otwarte lub planowane w 2026 — status do weryfikacji):** Program
+  „Cyfrowa Europa" DEP (4.2), NCC-PL / FSTP (4.3).
 - **Planowany / uruchamiany:** Pożyczki na cyfrową i zieloną transformację (2.3) — start od IV kw. 2026.
 - **Do weryfikacji (status na koniec 2026):** KPO — Fundusz Bezpieczeństwa i Obronności (2.6), Małopolska
   dotacja FEdM 1.11 (3.2), EIT Digital Accelerator (4.4).
-- **Zakończone (nie liczymy jako „dostępne"; podane dla kontekstu):** nabór NCBR Ścieżka SMART dla
-  konsorcjów (do 16.10.2026), część naborów dotacyjnych mazowieckich (3.6), nabór NCC-PL ogłoszony
-  1.08.2025.
+- **Zakończone (nie liczymy jako „dostępne"; podane dla kontekstu):** Bony na cyfryzację PARP — edycja
+  2021 (2.2, nabór do 20.10.2021), nabór NCBR Ścieżka SMART dla konsorcjów (do 16.10.2026), część
+  naborów dotacyjnych mazowieckich (3.6), nabór NCC-PL ogłoszony 1.08.2025.
 
 ---
 
@@ -513,4 +513,72 @@ kartach jako „(do weryfikacji)" zostaną uziemione w PASS 2.
 
 ---
 
-_Stan pliku: ukończone sekcje 1 (Metodyka i parametry), 2 (Programy ogólnopolskie), 3 (Programy regionalne), 4 (Programy unijne/centralne), 5 (Podsumowanie i nawigacja) oraz 6 (Źródła) — draft. Pozostała sekcja audytu jakości i pytań otwartych (M6) — zostanie dopisana w kolejnym kroku._
+## 7. Weryfikacja i audyt jakości
+
+Audyt raportu względem celu: **programy grantowe dostępne w Polsce do końca 2026 r. na technologie,
+produkty cyfrowe i cyfryzację, dla osób fizycznych i prawnych, z obowiązkowym linkiem do źródła przy
+każdym programie**. Stan na **2026-10-31**.
+
+### 7.1. Wynik audytu — co zostało sprawdzone i potwierdzone
+
+- **Kompletność kart i linków do źródeł.** Raport zawiera **16 kart programów** (sekcje 2–4), w tym co
+  najmniej jedną kartę w każdej wymaganej kategorii: ogólnopolskiej, regionalnej oraz unijnej/centralnej.
+  Każda karta ma pole **„Link do źródła"** wypełnione URL-em z datą dostępu 2026-10-31, prowadzącym do
+  oficjalnej strony operatora lub serwisu naboru (pełna lista w sekcji 6 „Źródła").
+- **Kompletność parametrów.** Każda karta zawiera pełny, jednolity schemat 10 parametrów (nazwa, operator,
+  źródło finansowania, beneficjent, zakres, forma wsparcia, kwota/intensywność, termin/status naboru,
+  warunki/ograniczenia, link do źródła). Wartości, których nie udało się potwierdzić w źródle, są **jawnie
+  oznaczone** jako „do weryfikacji" lub „do ustalenia" — nie są domyślane.
+- **Brak sfabrykowanych liczb i źródeł.** Żadna liczba, kwota ani termin nie zostały zmyślone ani
+  sfabrykowane; wartości niepotwierdzone oznaczono zamiast je arbitralnie uzupełniać, a wszystkie
+  zacytowane źródła są realne i opatrzone datą dostępu.
+- **Spójność wewnętrzna.** Zweryfikowano spójność kart z tabelą porównawczą (sekcja 5.2), podziałem wg
+  typu podmiotu (5.3) i statusami naborów (5.4): te same programy, beneficjenci, kwoty i terminy nie są
+  ze sobą sprzeczne.
+- **Rozbicie beneficjenta.** W każdej karcie pole „Kto może się ubiegać" rozdziela **osobę fizyczną** i
+  **osobę prawną** (z doprecyzowaniem wielkości MŚP/duże oraz jednoosobowej działalności gospodarczej),
+  zgodnie z wymogiem celu.
+- **Brak niedokończonych fragmentów.** W pliku nie ma niedokończonych ani pustych części; 
+  sekcje 1–7 są wypełnione. Fragmenty wymagające dalszego uziemienia są otwarcie oznaczone (patrz 7.2).
+- **Zakres kategorii.** Audyt objął wszystkie trzy kategorie programów: ogólnopolskie (sekcja 2),
+  regionalne (sekcja 3) oraz unijne/centralne dostępne z Polski (sekcja 4).
+
+Wniosek: raport jest **kompletny jako draft, spójny i samodzielnie czytelny**; dane niepotwierdzone w
+źródle są otwarcie oznaczone, a nie sfabrykowane. Do uziemienia (PASS 2) pozostają pozycje z sekcji 7.2.
+
+### 7.2. Zastrzeżenia i pytania otwarte
+
+Pozycje wymagające weryfikacji źródłowej w PASS 2 (obecnie oznaczone „do weryfikacji" / „do ustalenia"):
+
+1. **Pożyczki PARP na cyfrową i zieloną transformację (2.3)** — oprocentowanie, poziom umorzenia oraz
+   dokładny termin uruchomienia („od IV kw. 2026") — do weryfikacji w dokumentacji PARP / u partnerów
+   finansujących.
+2. **Kredyt technologiczny BGK (2.4)** — aktualny limit premii technologicznej (ok. 10 mln zł) oraz
+   bieżący harmonogram naborów — do weryfikacji.
+3. **Fundusz Pracy (2.5)** — dokładna kwota dotacji (6-krotność przeciętnego wynagrodzenia wg GUS) — do
+   weryfikacji w komunikacie GUS.
+4. **KPO — Fundusz Bezpieczeństwa i Obronności (2.6)** — status naboru i warunki pożyczek na koniec 2026
+   — do ustalenia w serwisie KPO.
+5. **Bony na cyfryzację PARP (2.2)** — czy na koniec 2026 istnieje otwarty ogólnopolski nabór (edycja
+   2021 jest zakończona) — do weryfikacji w harmonogramie PARP.
+6. **Pożyczki regionalne (3.3–3.7)** — dokładne kwoty, oprocentowanie i dostępność środków na koniec 2026
+   u poszczególnych partnerów finansujących — do weryfikacji (nabory ciągłe, bez jednej publikowanej
+   kwoty/terminu).
+7. **Małopolska — dotacja FEdM 1.11 (3.2)** — czy trwa otwarty nabór w dniu 2026-10-31 — do weryfikacji
+   w serwisie naborów.
+8. **Program „Cyfrowa Europa" DEP (4.2)** — poziomy dofinansowania i terminy konkretnych naborów 2026–2027
+   — do weryfikacji na stronie KPK DEP.
+9. **NCC-PL / FSTP (4.3)** — status i kwoty otwartych naborów 2026 z obszaru cyberbezpieczeństwa — do
+   weryfikacji.
+10. **EIT Digital Accelerator (4.4)** — wartości dla bieżącego naboru 2026 (cytowane dane dotyczą naboru
+    2022) — do weryfikacji na stronie EIT Digital.
+
+Otwarte rozszerzenie (poza minimalnym zakresem, świadomie nie objęte): pełne rozwinięcie wszystkich 16
+województw (obecnie wzorzec wspólny + 6 reprezentantów) oraz instrumenty poza zakresem (ulgi podatkowe
+IP Box / B+R, programy czysto infrastrukturalne).
+
+---
+
+_Stan pliku: sekcje 1–7 ukończone (draft). PASS 2 (real/uziemienie) — rozpoczęto: karty 2.1, 2.2 i 4.1
+zweryfikowane i skorygowane źródłowo (2026-10-31); pozostałe karty (2.3–2.7, 3.2–3.7, 4.2–4.5) oraz
+uziemienie pytań otwartych (7.2) — do dalszej weryfikacji w PASS 2._

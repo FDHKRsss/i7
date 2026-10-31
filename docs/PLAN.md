@@ -69,10 +69,14 @@ PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pl
 - [ ] M5 — **Podsumowanie i nawigacja** — real
   _Tabela porównawcza (wszystkie parametry), podział wg typu podmiotu (fizyczne/prawne), status i terminy
   naborów do końca 2026, pełna sekcja „Źródła" z linkami i datami dostępu._
-- [ ] M6 — **Weryfikacja i audyt jakości** — stub
+- [x] M6 — **Weryfikacja i audyt jakości** — stub
 - [ ] M6 — **Weryfikacja i audyt jakości** — real
   _Audyt raportu vs cele: każdy wymagany program ma kartę + link, parametry kompletne lub otwarcie
   oznaczone jako nieznane, brak sfabrykowanych liczb/źródeł, spójność wewnętrzna, zero „TODO"._
+
+> **Stan (2026-10-31):** PASS 2 (real/uziemienie) rozpoczęty — uziemione i skorygowane karty 2.1, 2.2, 4.1
+> (szczegóły w `docs/ARCHITECTURE.md` § Stan realizacji). M2 real i M4 real pozostają w toku (uziemienie
+> pozostałych kart sekcji).
 
 ## Zasady akceptacji kroku (definition of done)
 

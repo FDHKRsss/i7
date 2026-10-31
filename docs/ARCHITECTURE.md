@@ -90,7 +90,7 @@ Ewentualne rozszerzenia zapisujemy modularnie do decyzji człowieka.
 
 ## Stan realizacji (aktualny)
 
-- **PASS 1 (draft)** w toku.
+- **PASS 1 (draft)** ukończony dla M1–M5; **PASS 2 (real/uziemienie)** w toku (rozpoczęto 2026-10-31).
 - **M1 — Parametry i metodyka — stub: DONE** (2026-10-31). W `docs/granty-2026.md` zapisana sekcja 1
   (Metodyka i parametry): definicja „parametrów", schema 10 pól, kryteria włączenia/wyłączenia,
   interpretacja „dostępne do końca 2026", zasady cytowania. Brak placeholderów; konwencja draft
@@ -120,10 +120,11 @@ Ewentualne rozszerzenia zapisujemy modularnie do decyzji człowieka.
   dostępu (2026-10-31). Wartości pochodzące ze źródła z 2022 r. (EIT Digital) oznaczone jako
   „do weryfikacji".
 - **M5 — Podsumowanie i nawigacja — stub: DONE** (2026-10-31). W `docs/granty-2026.md` zapisane sekcje 5 (Podsumowanie i nawigacja) i 6 (Źródła): tabela porównawcza 16 kart (nazwa, beneficjent, zakres, forma, kwota, termin, źródło), podział wg typu podmiotu (osoba fizyczna / prawna), statusy i terminy naborów do końca 2026 oraz pełna lista 24 źródeł z datami dostępu (2026-10-31). Nieuziemione wartości pozostają oznaczone „(do weryfikacji)" — do PASS 2. Pliki testowe `tests/test_m5.py` (28 testów) i `tests/test_m5_fix.py` (8 testów) dodane; pełny zestaw 8 plików uruchomiono i zweryfikowano jako zielony (138/138 OK, patrz niżej).
+- **M6 — Weryfikacja i audyt jakości — stub: DONE** (2026-10-31). W `docs/granty-2026.md` zapisana sekcja 7 (Weryfikacja i audyt jakości): audyt raportu względem celu — kompletność 16 kart i linków do źródeł, kompletność parametrów lub jawne oznaczenie nieznanych wartości, brak sfabrykowanych liczb i źródeł, spójność wewnętrzna kart z tabelą porównawczą, rozbicie beneficjenta na osobę fizyczną i prawną, brak niedokończonych fragmentów, objęcie wszystkich trzech kategorii (ogólnopolskiej, regionalnej, unijnej) — oraz podsekcja 7.2 Zastrzeżenia i pytania otwarte z 10 konkretnymi pozycjami do weryfikacji. Plik testowy `tests/test_m6.py` (13 testów) dodany.
 - Testy: `tests/test_m1.py` (19), `tests/test_m2.py` (14), `tests/test_m3.py` (19),
   `tests/test_m3_fix.py` (19), `tests/test_m4.py` (20), `tests/test_m4_fix.py` (11),
-  `tests/test_m5.py` (28) oraz `tests/test_m5_fix.py` (8) — łącznie **138 testów w 8 plikach, wszystkie zielone**; zweryfikowano
+  `tests/test_m5.py` (28), `tests/test_m5_fix.py` (8) oraz `tests/test_m6.py` (13) — łącznie **151 testów w 9 plikach, wszystkie zielone**; zweryfikowano
   realnym uruchomieniem (2026-10-31):
-  `python3 -m unittest tests.test_m1 tests.test_m2 tests.test_m3 tests.test_m3_fix tests.test_m4 tests.test_m4_fix tests.test_m5 tests.test_m5_fix` → `Ran 138 tests ... OK`.
-- Kolejne kroki: PASS 1 — M6 (audyt jakości) — stub;
-  następnie PASS 2 (real/uziemienie): M1–M6 — real (w tej kolejności).
+  `python3 -m unittest tests.test_m1 tests.test_m2 tests.test_m3 tests.test_m3_fix tests.test_m4 tests.test_m4_fix tests.test_m5 tests.test_m5_fix tests.test_m6` → `Ran 151 tests ... OK`.
+- **PASS 2 (real/uziemienie) — rozpoczęto (2026-10-31).** W `docs/granty-2026.md` uziemiono źródłowo karty 2.1, 2.2 i 4.1: **2.1 Ścieżka SMART** — potwierdzono budżet 500 mln zł / min. 3 mln zł / do 50 mln zł, poprawiono intensywność „60–75%" → badania przemysłowe 60–80% i prace rozwojowe 35–60%, dodano nr naboru FENG.01.01-IP.02-003/26; **2.2 Bony na cyfryzację** — potwierdzono 85% i maks. 255 tys. zł, poprawiono min. „40 tys. zł" → 60 tys. zł kosztów kwalifikowanych, edycję PARP (nabór 20.09–20.10.2021) oznaczono jako zakończoną (nie jako „dostępną"); **4.1 EIC Accelerator** — potwierdzono na stronie EIC budżety 2026 (Open 414 mln € / Challenges 220 mln €).
+- Kolejne kroki: kontynuacja PASS 2 (real/uziemienie) pozostałych kart i sekcji (M1 real, M2 karty 2.3–2.7, M3, M4 karty 4.2–4.5, M5 real) oraz M6 (audyt jakości) real.
