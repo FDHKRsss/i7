@@ -11,3 +11,8 @@ _Regressions: what broke, the PROVEN root cause, and the fix._
   EIC → EIT Digital). Root cause: asserting a relationship/direction claim from memory instead of
   re-reading the cited source. Fix: re-fetch the source and transcribe the exact sentence before stating
   "which feeds into which".
+- test_m5.py initially asserted exact surface strings (`osoba prawna`, `Sekcja 5`) that the report
+  legitimately renders as inflected Polish (`osobie prawnej`) or bold Markdown (`**5**`), causing false
+  red tests. Root cause: asserting literal wording/formatting instead of semantic content. Fix: assert
+  stable tokens/identifiers and semantic presence (`prawn`, the number, `karta X.Y` references), never an
+  exact case/declension form or `**`/`*` marker.

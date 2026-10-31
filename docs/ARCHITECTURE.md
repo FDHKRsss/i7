@@ -119,10 +119,11 @@ Ewentualne rozszerzenia zapisujemy modularnie do decyzji człowieka.
   ma 10 pól, rozbicie beneficjenta na osobę fizyczną/prawną, zakres cyfrowy, link do źródła z datą
   dostępu (2026-10-31). Wartości pochodzące ze źródła z 2022 r. (EIT Digital) oznaczone jako
   „do weryfikacji".
-- **M5 — Podsumowanie i nawigacja — stub: DONE** (2026-10-31). W `docs/granty-2026.md` zapisane sekcje 5 (Podsumowanie i nawigacja) i 6 (Źródła): tabela porównawcza 16 kart (nazwa, beneficjent, zakres, forma, kwota, termin, źródło), podział wg typu podmiotu (osoba fizyczna / prawna), statusy i terminy naborów do końca 2026 oraz pełna lista 24 źródeł z datami dostępu (2026-10-31). Nieuziemione wartości pozostają oznaczone „(do weryfikacji)" — do PASS 2. Plik testowy `tests/test_m5.py` dodany (28 testów, zielone).
+- **M5 — Podsumowanie i nawigacja — stub: DONE** (2026-10-31). W `docs/granty-2026.md` zapisane sekcje 5 (Podsumowanie i nawigacja) i 6 (Źródła): tabela porównawcza 16 kart (nazwa, beneficjent, zakres, forma, kwota, termin, źródło), podział wg typu podmiotu (osoba fizyczna / prawna), statusy i terminy naborów do końca 2026 oraz pełna lista 24 źródeł z datami dostępu (2026-10-31). Nieuziemione wartości pozostają oznaczone „(do weryfikacji)" — do PASS 2. Plik testowy `tests/test_m5.py` dodany (28 testów); pełny zestaw 7 plików uruchomiono i zweryfikowano jako zielony (130/130 OK, patrz niżej).
 - Testy: `tests/test_m1.py` (19), `tests/test_m2.py` (14), `tests/test_m3.py` (19),
   `tests/test_m3_fix.py` (19), `tests/test_m4.py` (20), `tests/test_m4_fix.py` (11) oraz
-  `tests/test_m5.py` (28) — łącznie **130 testów w 7 plikach, wszystkie zielone**
-  (`python3 -m unittest tests.test_m1 tests.test_m2 tests.test_m3 tests.test_m3_fix tests.test_m4 tests.test_m4_fix tests.test_m5`).
+  `tests/test_m5.py` (28) — łącznie **130 testów w 7 plikach, wszystkie zielone**; zweryfikowano
+  realnym uruchomieniem (2026-10-31):
+  `python3 -m unittest tests.test_m1 tests.test_m2 tests.test_m3 tests.test_m3_fix tests.test_m4 tests.test_m4_fix tests.test_m5` → `Ran 130 tests ... OK`.
 - Kolejne kroki: PASS 1 — M6 (audyt jakości) — stub;
   następnie PASS 2 (real/uziemienie): M1–M6 — real (w tej kolejności).
