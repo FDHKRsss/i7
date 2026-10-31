@@ -381,12 +381,12 @@ regionalne, Małopolski brak); źródło tego wiersza: [fundusze.malopolska.pl �
 | **Warunki / ograniczenia** | Status MŚP z siedzibą w Polsce i działalność w obszarze cyberbezpieczeństwa; środki na rozwój produktu/usługi, certyfikację i promocję; zasady pomocy publicznej / de minimis — do weryfikacji w regulaminie naboru. |
 | **Link do źródła** | [Ministerstwo Cyfryzacji — granty dla MŚP z sektora cyberbezpieczeństwa](https://www.gov.pl/web/cyfryzacja/dofinansowanie-dla-msp-z-sektora-cyberbezpieczenstwa--nawet-60-tys-euro-na-rozwoj) (dostęp: 2026-10-31); [CPPC — Nabory](https://www.gov.pl/web/cppc/nabory) (dostęp: 2026-10-31) |
 
-### 4.4. EIT Digital — EIT Digital Accelerator i Fast Track do EIC Accelerator
+### 4.4. EIT Digital — EIT Digital Accelerator i program przyspieszenia EIC → EIT Digital
 
 | Parametr | Wartość |
 |---|---|
-| **Nazwa** | EIT Digital Accelerator (wsparcie scale-upów) oraz Fast Track EIT Digital → EIC Accelerator. |
-| **Operator / instytucja** | EIT Digital (wspólnota wiedzy i innowacji Europejskiego Instytutu Innowacji i Technologii, EIT); Fast Track we współpracy EIT z Europejską Radą ds. Innowacji (EIC). |
+| **Nazwa** | EIT Digital Accelerator (wsparcie scale-upów) oraz program „EIC – EIT Digital Venture Acceleration Programme” (Fast Track EIC → EIT Digital: firmy EIC Accelerator i laureaci Seal of Excellence trafiają do EIT Digital Accelerator). |
+| **Operator / instytucja** | EIT Digital (wspólnota wiedzy i innowacji Europejskiego Instytutu Innowacji i Technologii, EIT); program we współpracy EIT z Europejską Radą ds. Innowacji (EIC) — ścieżka przyjęcia firm EIC Accelerator i laureatów Seal of Excellence do EIT Digital Accelerator. |
 | **Źródło finansowania** | Horyzont Europa / Europejski Instytut Innowacji i Technologii (EIT) — wspólnota EIT Digital. |
 | **Kto może się ubiegać** | **Osoby prawne** (startupy i scale-upy deep-tech — spółki, z reguły MŚP) o ambicji wzrostu międzynarodowego; **osoby fizyczne** uczestniczą jako założyciele/zespół spółki (bezpośrednim beneficjentem jest spółka — do weryfikacji). |
 | **Na co (zakres)** | **Technologie cyfrowe / deep tech**: oprogramowanie, AI, cyberbezpieczeństwo, IoT, fintech, digital health — wsparcie w pozyskaniu finansowania (Series A/B) i wejściu na rynki zagraniczne. |
