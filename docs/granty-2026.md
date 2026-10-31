@@ -186,4 +186,143 @@ przedsiębiorców w obszarze technologii istotny jest wyodrębniony instrument p
 
 ---
 
-_Stan pliku: ukończone sekcje 1 (Metodyka i parametry) oraz 2 (Programy ogólnopolskie — draft). Kolejne sekcje (Programy regionalne, programy unijne/centralne, podsumowanie i źródła) zostaną dopisane w następnych krokach._
+## 3. Programy regionalne (Fundusze Europejskie dla województw 2021–2027)
+
+W każdym z 16 województw działa osobny program regionalny „Fundusze Europejskie dla … 2021–2027",
+zarządzany przez urząd marszałkowski. W niemal każdym programie występuje priorytet wspierający
+**konkurencyjność i innowacyjność MŚP**, a w jego ramach — typowe działanie na **cyfryzację**:
+dotacja lub preferencyjna pożyczka na oprogramowanie, wdrożenia IT, e-commerce, cyberbezpieczeństwo
+i rozwiązania Przemysłu 4.0.
+
+Poniżej najpierw pokazujemy **wspólny wzorzec** (co powtarza się we wszystkich regionach), a następnie
+**reprezentatywne karty** kilku województw. Pełne rozwinięcie wszystkich 16 regionów to opcjonalne
+rozszerzenie (poza minimalnym zakresem); w raporcie celowo trzymamy się wzorca + reprezentantów, każdy
+z linkiem do źródła.
+
+### 3.1. Wspólny wzorzec regionalnego wsparcia na cyfryzację
+
+**Powtarzalny model** (na podstawie oficjalnego portalu Funduszy Europejskich — poradnik „Cyfryzacja",
+oraz serwisów programów regionalnych):
+
+- **Beneficjent:** mikro, małe i średnie przedsiębiorstwa (MŚP) — a więc **osoby prawne** (spółki)
+  oraz **osoby fizyczne prowadzące jednoosobową działalność gospodarczą**. Osoby fizyczne nieprowadzące
+  działalności z reguły nie są beneficjentem tych działań (wyjątkiem jest Fundusz Pracy w sekcji 2).
+- **Zakres:** cyfryzacja procesów biznesowych — zakup/wdrożenie oprogramowania (ERP, CRM, e-commerce,
+  MES), integracje systemów, usługi programistyczne, cyberbezpieczeństwo, chmura, automatyzacja
+  i robotyzacja (Przemysł 4.0), często też doradztwo przedwdrożeniowe i szkolenia.
+- **Forma:** dwa dominujące warianty — **pożyczka preferencyjna (nabór ciągły)** udzielana przez BGK /
+  partnerów finansujących oraz **dotacja bezzwrotna** ogłaszana w harmonogramie naborów.
+- **Kwota/intensywność:** różna w zależności od regionu i produktu (przykładowo pożyczki do ok.
+  1,5 mln zł w Warmińsko-Mazurskiem); szczegóły — w kartach poniżej.
+- **Warunek wspólny:** projekt realizowany na terenie danego województwa, status MŚP, wkład własny
+  (w dotacjach) lub ocena zdolności kredytowej (w pożyczkach).
+
+**Typowe instrumenty regionalne na cyfryzację (2021–2027), wskazane w oficjalnym poradniku FE:**
+Źródło: [Portal Funduszy Europejskich — „Cyfryzacja" (jak firmy korzystają z funduszy)](https://www.funduszeeuropejskie.gov.pl/jak-firmy-korzystaja-z-funduszy/cyfryzacja/) (dostęp: 2026-10-31).
+
+| Województwo | Typowy instrument na cyfryzację MŚP | Forma / status |
+|---|---|---|
+| lubuskie | Pożyczka na rozwój cyfryzacji w MŚP | pożyczka — nabór ciągły |
+| warmińsko-mazurskie | Pożyczka na cyfryzację przedsiębiorstw z umorzeniem | pożyczka — nabór ciągły |
+| podlaskie | Pożyczka na cyfryzację — Podlaskie | pożyczka — nabór ciągły |
+| świętokrzyskie | Pożyczka dla MŚP | pożyczka — nabór ciągły |
+| wielkopolskie | Działanie 1.5 FEW — cyfryzacja przedsiębiorstw | pożyczka — nabór ciągły |
+| kujawsko-pomorskie | Nowa pożyczka rozwojowa dla przedsiębiorców | pożyczka — nabór ciągły |
+| mazowieckie | Działanie 1.3 — Innowacyjność i konkurencyjność MŚP | pożyczka — nabór ciągły |
+| dolnośląskie | Pożyczka rozwojowa — Dolnośląskie | pożyczka — nabór ciągły |
+| podkarpackie | Pożyczka rozwojowa — Podkarpackie | pożyczka — nabór ciągły |
+| małopolskie | Priorytet 1, Działanie 1.11 „Rozwój MŚP w obszarze cyfryzacji i Przemysłu 4.0" | dotacja — nabory wg harmonogramu |
+
+### 3.2. Małopolska — FEdM 2021–2027, Działanie 1.11 (cyfryzacja i Przemysł 4.0)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Fundusze Europejskie dla Małopolski 2021–2027 — Priorytet 1, Działanie 1.11 „Rozwój MŚP w obszarze cyfryzacji i Przemysłu 4.0". |
+| **Operator / instytucja** | Zarząd Województwa Małopolskiego (instytucja zarządzająca); nabory pośredniczy Małopolskie Centrum Przedsiębiorczości. |
+| **Źródło finansowania** | Fundusze Europejskie dla Małopolski 2021–2027 (EFRR). |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** o statusie MŚP (mikro / małe / średnie). |
+| **Na co (zakres)** | **Cyfryzacja i Przemysł 4.0**: oprogramowanie, integracja systemów, automatyzacja i robotyzacja procesów, e-commerce, cyberbezpieczeństwo, rozwiązania chmurowe (zakres szczegółowy — do weryfikacji w regulaminie naboru). |
+| **Forma wsparcia** | Dotacja bezzwrotna. |
+| **Kwota / intensywność** | Do weryfikacji w regulaminie konkretnego naboru (intensywność wg mapy pomocy regionalnej, typowo kilkadziesiąt % kosztów kwalifikowanych). |
+| **Termin / status naboru** | Nabory ogłaszane według harmonogramu FEdM; czy dla działania 1.11 trwa otwarty nabór w dniu 2026-10-31 — do weryfikacji w serwisie naborów. |
+| **Warunki / ograniczenia** | Status MŚP; projekt realizowany w województwie małopolskim; wkład własny; koszty kwalifikowane zgodne z regulaminem. |
+| **Link do źródła** | [fundusze.malopolska.pl — Nabory](https://fundusze.malopolska.pl/nabory) (dostęp: 2026-10-31) |
+
+### 3.3. Warmińsko-mazurskie — FEWiM 2021–2027, pożyczka na cyfryzację przedsiębiorstw
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Fundusze Europejskie dla Warmii i Mazur 2021–2027 — pożyczka na cyfryzację przedsiębiorstw (z dotacją / umorzeniem). |
+| **Operator / instytucja** | Bank Gospodarstwa Krajowego (BGK) wraz z partnerami finansującymi; instytucja zarządzająca: Zarząd Województwa Warmińsko-Mazurskiego. |
+| **Źródło finansowania** | Fundusze Europejskie dla Warmii i Mazur 2021–2027. |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** — mikro, małe i średnie przedsiębiorstwa. |
+| **Na co (zakres)** | **Cyfryzacja przedsiębiorstw**: oprogramowanie, sprzęt IT, wdrożenia i integracje, cyberbezpieczeństwo, e-usługi i handel online (szczegóły — do weryfikacji w warunkach produktu). |
+| **Forma wsparcia** | Pożyczka preferencyjna z możliwością umorzenia / dotacją na spłatę kapitału. |
+| **Kwota / intensywność** | Do 1,5 mln zł; oprocentowanie ok. 2% w skali roku (wg informacji BGK na dzień dostępu — do weryfikacji u partnera finansującego). |
+| **Termin / status naboru** | **Nabór ciągły** (pożyczki); dostępność środków na koniec 2026 — do weryfikacji w BGK/u partnerów. |
+| **Warunki / ograniczenia** | Status MŚP z województwa warmińsko-mazurskiego; ocena zdolności kredytowej; warunki udzielania ustala partner finansujący. |
+| **Link do źródła** | [BGK — Fundusze Europejskie dla Warmii i Mazur 2021–2027](https://www.bgk.pl/fundusze-europejskie-dla-warmii-i-mazur-2021-2027/) (dostęp: 2026-10-31) |
+
+### 3.4. Podlaskie — FEdP 2021–2027, pożyczka na cyfryzację
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Fundusze Europejskie dla Podlaskiego 2021–2027 — pożyczka na cyfryzację („Pożyczka na cyfryzację — Podlaskie"). |
+| **Operator / instytucja** | Bank Gospodarstwa Krajowego (BGK) wraz z partnerami finansującymi; instytucja zarządzająca: Zarząd Województwa Podlaskiego. |
+| **Źródło finansowania** | Fundusze Europejskie dla Podlaskiego 2021–2027. |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** — MŚP (mikro / małe / średnie). |
+| **Na co (zakres)** | **Cyfryzacja działalności**: oprogramowanie i licencje, wdrożenia IT, sprzęt komputerowy, cyberbezpieczeństwo, e-usługi (szczegóły — do weryfikacji). |
+| **Forma wsparcia** | Pożyczka preferencyjna. |
+| **Kwota / intensywność** | Do weryfikacji w warunkach produktu (BGK / partner finansujący). |
+| **Termin / status naboru** | **Nabór ciągły** (pożyczki); dostępność środków na koniec 2026 — do weryfikacji. |
+| **Warunki / ograniczenia** | Status MŚP z województwa podlaskiego; ocena zdolności kredytowej; warunki ustala partner finansujący. |
+| **Link do źródła** | [BGK — Pożyczki z Funduszy Europejskich dla Podlaskiego](https://www.bgk.pl/produkty/podlaskie/) (dostęp: 2026-10-31); [funduszeuepodlaskie.pl](https://funduszeuepodlaskie.pl/) (dostęp: 2026-10-31) |
+
+### 3.5. Wielkopolskie — FEW 2021–2027, Działanie 1.5 (cyfryzacja przedsiębiorstw)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Fundusze Europejskie dla Wielkopolski 2021–2027 — Działanie 1.5 „Cyfryzacja przedsiębiorstw". |
+| **Operator / instytucja** | Zarząd Województwa Wielkopolskiego (instytucja zarządzająca); instrumenty finansowe za pośrednictwem BGK/partnerów. |
+| **Źródło finansowania** | Fundusze Europejskie dla Wielkopolski 2021–2027 (EFRR). |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** — MŚP (mikro / małe / średnie). |
+| **Na co (zakres)** | **Cyfryzacja przedsiębiorstw**: oprogramowanie, wdrożenia i integracje systemów, e-commerce, cyberbezpieczeństwo, rozwiązania Przemysłu 4.0 (szczegóły — do weryfikacji w regulaminie). |
+| **Forma wsparcia** | Pożyczka preferencyjna (wskazywana w oficjalnym portalu FE jako „nabór ciągły"); ewentualne równoległe nabory dotacyjne — do weryfikacji w harmonogramie FEW. |
+| **Kwota / intensywność** | Do weryfikacji w warunkach produktu / regulaminie naboru. |
+| **Termin / status naboru** | **Nabór ciągły** dla instrumentu pożyczkowego; harmonogram naborów dotacyjnych FEW — do weryfikacji (dostępność na koniec 2026). |
+| **Warunki / ograniczenia** | Status MŚP z województwa wielkopolskiego; ocena zdolności (pożyczka) lub wkład własny (dotacja); warunki ustala instytucja. |
+| **Link do źródła** | [funduszeue.wielkopolskie.pl — Nabory](https://funduszeue.wielkopolskie.pl/nabory) (dostęp: 2026-10-31) |
+
+### 3.6. Mazowieckie — FEdM 2021–2027, Działanie 1.3 (innowacyjność i konkurencyjność MŚP)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Fundusze Europejskie dla Mazowsza 2021–2027 — Działanie 1.3 „Innowacyjność i konkurencyjność MŚP" (komponent cyfryzacja). |
+| **Operator / instytucja** | Zarząd Województwa Mazowieckiego (instytucja zarządzająca); instrument pożyczkowy przez BGK/partnerów finansujących. |
+| **Źródło finansowania** | Fundusze Europejskie dla Mazowsza 2021–2027 (EFRR). |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** — MŚP (mikro / małe / średnie). |
+| **Na co (zakres)** | Innowacyjność i konkurencyjność MŚP, w tym wdrażanie nowoczesnych (cyfrowych) rozwiązań, cyfryzacja procesów, oprogramowanie i usługi IT (zakres szczegółowy — do weryfikacji). |
+| **Forma wsparcia** | Pożyczka preferencyjna (wskazywana w oficjalnym portalu FE jako „nabór ciągły"). |
+| **Kwota / intensywność** | Do weryfikacji w warunkach produktu / regulaminie. |
+| **Termin / status naboru** | Instrument pożyczkowy — **nabór ciągły**; część naborów dotacyjnych (np. „Wdrożenie wyników prac B+R i innowacji…") już zakończona — nie liczymy ich jako dostępne. |
+| **Warunki / ograniczenia** | Status MŚP z województwa mazowieckiego; ocena zdolności kredytowej; warunki ustala partner finansujący. |
+| **Link do źródła** | [funduszeuedlamazowsza.eu](https://funduszeuedlamazowsza.eu/) (dostęp: 2026-10-31); [BGK — Działanie 1.3 FEdM](https://www.bgk.pl/programy-i-fundusze/fundusze/fundusze-europejskie/projekty/fundusze-europejskie-dla-regionow-2021-2027/fundusze-europejskie-dla-mazowsza/dzialanie-13-innowacyjnosc-i-konkurencyjnosc-msp/) (dostęp: 2026-10-31) |
+
+### 3.7. Dolnośląskie — FEdD 2021–2027, pożyczka rozwojowa (komponent cyfryzacja MŚP)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Fundusze Europejskie dla Dolnego Śląska 2021–2027 — pożyczka rozwojowa (komponent cyfryzacja MŚP). |
+| **Operator / instytucja** | BGK / partnerzy finansujący; instytucja zarządzająca: Urząd Marszałkowski Województwa Dolnośląskiego. |
+| **Źródło finansowania** | Fundusze Europejskie dla Dolnego Śląska 2021–2027 (EFRR). |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** — MŚP (mikro / małe / średnie). |
+| **Na co (zakres)** | Rozwój MŚP, w tym **cyfryzacja** (oprogramowanie, wdrożenia IT, e-usługi) — w zależności od produktu pożyczkowego (szczegóły — do weryfikacji). |
+| **Forma wsparcia** | Pożyczka preferencyjna. |
+| **Kwota / intensywność** | Do weryfikacji w warunkach produktu (BGK / partner finansujący). |
+| **Termin / status naboru** | **Nabór ciągły** (pożyczki); dostępność środków na koniec 2026 — do weryfikacji. |
+| **Warunki / ograniczenia** | Status MŚP z województwa dolnośląskiego; ocena zdolności kredytowej; warunki ustala partner finansujący. |
+| **Link do źródła** | [funduszeuedolnoslaskie.pl](https://funduszeuedolnoslaskie.pl/) (dostęp: 2026-10-31) |
+
+---
+
+_Stan pliku: ukończone sekcje 1 (Metodyka i parametry), 2 (Programy ogólnopolskie — draft) oraz 3 (Programy regionalne — draft). Kolejne sekcje (Programy unijne/centralne, podsumowanie i źródła) zostaną dopisane w następnych krokach._
