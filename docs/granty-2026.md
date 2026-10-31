@@ -332,4 +332,74 @@ regionalne, Małopolski brak); źródło tego wiersza: [fundusze.malopolska.pl �
 
 ---
 
-_Stan pliku: ukończone sekcje 1 (Metodyka i parametry), 2 (Programy ogólnopolskie — draft) oraz 3 (Programy regionalne — draft). Kolejne sekcje (Programy unijne/centralne, podsumowanie i źródła) zostaną dopisane w następnych krokach._
+## 4. Programy unijne/centralne dostępne z Polski
+
+**Czym jest ta sekcja.** Oprócz programów krajowych (sekcja 2) i regionalnych (sekcja 3), podmioty z Polski mogą ubiegać się o środki **bezpośrednio z budżetu Unii Europejskiej** — przez programy zarządzane przez Komisję Europejską i agencje UE. Najistotniejsze dla technologii i produktów cyfrowych to **Horyzont Europa** (EIC Accelerator, EIT Digital) oraz **Program „Cyfrowa Europa" (Digital Europe Programme)**. Nabory prowadzone są na portalu **EU Funding & Tenders Portal** (zazwyczaj po angielsku), a w Polsce wsparciem informacyjnym służą Krajowe Punkty Kontaktowe: **KPK** (programy badawcze UE / Horyzont Europa, `kpk.gov.pl`) oraz **KPK DEP** (Program „Cyfrowa Europa", Centrum Projektów Polska Cyfrowa — CPPC). Programy „centralne" w rozumieniu krajowym (PARP, NCBR, PFR, BGK, Fundusz Pracy, KPO) są opisane w sekcji 2 i nie są tu powtarzane.
+
+### 4.1. Horyzont Europa — EIC Accelerator
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Horyzont Europa — EIC Accelerator (2026): grant + inwestycja kapitałowa dla startupów i MŚP o przełomowej innowacji. |
+| **Operator / instytucja** | Komisja Europejska / Europejska Rada ds. Innowacji (EIC) i Fundusz EIC; w Polsce wsparcie informacyjne: Krajowy Punkt Kontaktowy Programów Badawczych UE (KPK). |
+| **Źródło finansowania** | Horyzont Europa (2021–2027), filar III „Innowacyjna Europa" — Europejska Rada ds. Innowacji (EIC). |
+| **Kto może się ubiegać** | **Osoby prawne** (pojedyncze startupy i MŚP, w tym spin-offy) oraz **osoby fizyczne** zamierzające założyć MŚP; małe mid-capy (do 499 pracowników) wyłącznie w części inwestycyjnej. Nie jest wymagane polskie partnerstwo — aplikować może sam podmiot. |
+| **Na co (zakres)** | Innowacje o wysokim ryzyku i potencjale przełomowym (deep tech) — w tym **produkty cyfrowe**, oprogramowanie, AI, cyberbezpieczeństwo i technologie cyfrowe (TRL 6–8); otwarta ścieżka na dowolną branżę. |
+| **Forma wsparcia** | Dotacja (grant, lump sum) i/lub inwestycja kapitałowa (equity / quasi-equity); możliwe finansowanie mieszane (blended) albo wyłącznie equity. |
+| **Kwota / intensywność** | Grant poniżej 2,5 mln € (działania TRL 6–8, do 24 mies.); komponent inwestycyjny 1–10 mln €; budżety 2026: EIC Accelerator Open 414 mln €, EIC Accelerator Challenges 220 mln €. |
+| **Termin / status naboru** | **Nabór ciągły** — krótkie wnioski (short proposal) składane w dowolnym momencie, oceniane w cyklach miesięcznych; dostępny również po 31.12.2026. |
+| **Warunki / ograniczenia** | Jeden wniosek na raz; innowacja TRL 6–8 z ambicją skalowania; dla mid-capów tylko equity; dokumentacja i ocena po angielsku; wybrane firmy mogą skorzystać z Business Acceleration Services. |
+| **Link do źródła** | [EIC Accelerator — oficjalna strona EIC](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en) (dostęp: 2026-10-31); [KPK — EIC Accelerator](https://www.kpk.gov.pl/horyzont-europa/innowacyjna-europa/eic/eic-accelerator) (dostęp: 2026-10-31) |
+
+### 4.2. Program „Cyfrowa Europa" (Digital Europe Programme, DEP)
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | Program „Cyfrowa Europa" (Digital Europe Programme, DEP) — nabory 2021–2027 na projekty cyfrowe. |
+| **Operator / instytucja** | Komisja Europejska (nabory na portalu EU Funding & Tenders); w Polsce Krajowy Punkt Kontaktowy DEP (KPK DEP) w Centrum Projektów Polska Cyfrowa (CPPC). |
+| **Źródło finansowania** | Budżet UE — Program „Cyfrowa Europa" (Digital Europe Programme, 2021–2027). |
+| **Kto może się ubiegać** | Głównie **osoby prawne** (przedsiębiorstwa — w tym MŚP i duże, organizacje badawcze, uczelnie, podmioty publiczne), zwykle w konsorcjach międzynarodowych; **osoby fizyczne** nieprowadzące działalności z reguły nie są beneficjentem (wyjątki zależne od naboru — do weryfikacji). |
+| **Na co (zakres)** | **Cyfryzacja** w pełnym zakresie: sztuczna inteligencja, cyberbezpieczeństwo, obliczenia wielkiej skali (HPC), wspólne przestrzenie danych, zaawansowane umiejętności cyfrowe oraz wdrażanie technologii cyfrowych w sektorach krytycznych (energetyka, klimat, produkcja, zdrowie). |
+| **Forma wsparcia** | Dotacja bezzwrotna (grant). |
+| **Kwota / intensywność** | Budżet programu 8,2 mld € na lata 2021–2027; poziomy dofinansowania zależą od konkretnego naboru (do weryfikacji dla wybranego naboru). |
+| **Termin / status naboru** | Nabory cykliczne ogłaszane na portalu EU Funding & Tenders; w 2026–2027 planowane i otwarte nabory m.in. z cyberbezpieczeństwa (ECCC) i półprzewodników (Chips JU). Bieżące terminy — na stronie KPK DEP (do weryfikacji dla konkretnego naboru). |
+| **Warunki / ograniczenia** | Projekt musi wpisywać się w cele DEP (technologie/kompetencje cyfrowe); często wymagane konsorcjum z kilku państw UE; wnioski po angielsku; szczegóły kwalifikowalności w dokumentacji naboru. |
+| **Link do źródła** | [CPPC — Krajowy Punkt Kontaktowy Programu Cyfrowa Europa](https://www.gov.pl/web/cppc/kpk-dep) (dostęp: 2026-10-31); [CPPC — Nabory DEP](https://www.gov.pl/web/cppc/nabory) (dostęp: 2026-10-31) |
+
+### 4.3. NCC-PL / FSTP — granty na cyberbezpieczeństwo dla MŚP
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | NCC-PL — granty dla MŚP z sektora cyberbezpieczeństwa (wsparcie finansowe stron trzecich, FSTP, w ramach Programu „Cyfrowa Europa"). |
+| **Operator / instytucja** | Ministerstwo Cyfryzacji / Krajowe Centrum Kompetencji Cyberbezpieczeństwa (NCC-PL), we współpracy z Centrum Projektów Polska Cyfrowa (CPPC). |
+| **Źródło finansowania** | Program „Cyfrowa Europa" (DEP) — projekt NCC-PL, środki UE (mechanizm FSTP — wsparcie finansowe stron trzecich). |
+| **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** o statusie MŚP (mikro / małe / średnie) z siedzibą w Polsce, działające w obszarze cyberbezpieczeństwa. |
+| **Na co (zakres)** | **Cyberbezpieczeństwo / produkty cyfrowe**: rozwój istniejących rozwiązań, tworzenie nowych produktów lub usług, certyfikacja oraz działania promocyjne (targi, misje handlowe, konferencje). |
+| **Forma wsparcia** | Dotacja bezzwrotna (grant FSTP). |
+| **Kwota / intensywność** | Grant 30–60 tys. € na firmę; pula naboru ogłoszonego 1.08.2025 wynosiła 1,8 mln € (kwoty kolejnych naborów — do weryfikacji). |
+| **Termin / status naboru** | Nabory cykliczne. Ostatni ogłoszony nabór (1.08.2025) został zamknięty jesienią 2025 (dokładny termin — do weryfikacji). Otwarte nabory 2026 z obszaru cyberbezpieczeństwa są publikowane przez ECCC na portalu EU Funding & Tenders (status na koniec 2026 — do weryfikacji). |
+| **Warunki / ograniczenia** | Status MŚP z siedzibą w Polsce i działalność w obszarze cyberbezpieczeństwa; środki na rozwój produktu/usługi, certyfikację i promocję; zasady pomocy publicznej / de minimis — do weryfikacji w regulaminie naboru. |
+| **Link do źródła** | [Ministerstwo Cyfryzacji — granty dla MŚP z sektora cyberbezpieczeństwa](https://www.gov.pl/web/cyfryzacja/dofinansowanie-dla-msp-z-sektora-cyberbezpieczenstwa--nawet-60-tys-euro-na-rozwoj) (dostęp: 2026-10-31); [CPPC — Nabory](https://www.gov.pl/web/cppc/nabory) (dostęp: 2026-10-31) |
+
+### 4.4. EIT Digital — EIT Digital Accelerator i Fast Track do EIC Accelerator
+
+| Parametr | Wartość |
+|---|---|
+| **Nazwa** | EIT Digital Accelerator (wsparcie scale-upów) oraz Fast Track EIT Digital → EIC Accelerator. |
+| **Operator / instytucja** | EIT Digital (wspólnota wiedzy i innowacji Europejskiego Instytutu Innowacji i Technologii, EIT); Fast Track we współpracy EIT z Europejską Radą ds. Innowacji (EIC). |
+| **Źródło finansowania** | Horyzont Europa / Europejski Instytut Innowacji i Technologii (EIT) — wspólnota EIT Digital. |
+| **Kto może się ubiegać** | **Osoby prawne** (startupy i scale-upy deep-tech — spółki, z reguły MŚP) o ambicji wzrostu międzynarodowego; **osoby fizyczne** uczestniczą jako założyciele/zespół spółki (bezpośrednim beneficjentem jest spółka — do weryfikacji). |
+| **Na co (zakres)** | **Technologie cyfrowe / deep tech**: oprogramowanie, AI, cyberbezpieczeństwo, IoT, fintech, digital health — wsparcie w pozyskaniu finansowania (Series A/B) i wejściu na rynki zagraniczne. |
+| **Forma wsparcia** | Usługa akceleracyjna (wsparcie doradcze: access-to-finance + access-to-market) o wartości ok. 50 tys. €; nie jest to dotacja pieniężna. |
+| **Kwota / intensywność** | Wsparcie o wartości ok. 50 tys. € na firmę (12 miesięcy; dla wybranych firm EIC bezpłatne w okresie akceleracji — success fee dopiero po zakończeniu 12 mies.). |
+| **Termin / status naboru** | Program akceleracji o charakterze ciągłym (rolling intake wg harmonogramu EIT Digital); bieżący nabór 2026 — do weryfikacji na stronie EIT Digital. |
+| **Warunki / ograniczenia** | Status scale-upu/startupu deep-tech z produktem cyfrowym i ambicją skalowania; selekcja przez EIT Digital; program w języku angielskim. |
+| **Link do źródła** | [EIT — EIC–EIT Digital Venture Acceleration Programme](https://www.eit.europa.eu/our-activities/opportunities/eic-eit-digital-venture-acceleration-programme) (dostęp: 2026-10-31) |
+
+### 4.5. Inne programy unijne (kontekst — do rozwinięcia w PASS 2)
+
+Poza powyższymi kartami, dla produktów cyfrowych mogą być istotne także: **Horyzont Europa — Klaster 4** „Technologie cyfrowe, przemysł i kosmos", **EIC Pathfinder** i **EIC Transition** (wczesne etapy technologii) oraz wybrane instrumenty w zakresie **kompetencji cyfrowych** (Erasmus+). Nie są one rozwijane kartami w tej wersji draft i zostaną zweryfikowane w PASS 2. Punkt startowy: portal Krajowego Punktu Kontaktowego (kpk.gov.pl) oraz EU Funding & Tenders Portal.
+
+---
+
+_Stan pliku: ukończone sekcje 1 (Metodyka i parametry), 2 (Programy ogólnopolskie), 3 (Programy regionalne) oraz 4 (Programy unijne/centralne) — draft. Kolejne sekcje (podsumowanie/źródła i audyt) zostaną dopisane w następnych krokach._
