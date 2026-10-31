@@ -265,7 +265,7 @@ class TestM5PodsumowanieINawigacja(unittest.TestCase):
 
     def test_54_status_categories_present(self):
         for token in ("Otwarty teraz", "Nabór ciągły", "cykliczne", "Planowany",
-                      "Do weryfikacji", "Zakończone"):
+                      "Uruchomiony", "Zakończone"):
             self.assertIn(token, self.section5, f"brak kategorii statusu: {token}")
 
     def test_54_records_open_smart_call_window(self):
@@ -314,17 +314,17 @@ class TestM6Sources(unittest.TestCase):
 
     def test_sources_list_has_expected_count(self):
         lines = self._numbered_source_lines()
-        self.assertEqual(len(lines), 24, f"oczekiwano 24 wpisów źródeł, znaleziono {len(lines)}")
+        self.assertEqual(len(lines), 28, f"oczekiwano 28 wpisów źródeł, znaleziono {len(lines)}")
 
-    def test_sources_numbered_1_to_24_in_order(self):
+    def test_sources_numbered_1_to_28_in_order(self):
         numbers = [
             int(m.group(1))
             for ln in self.section6.splitlines()
             for m in [re.match(r"^\s*(\d+)\.\s", ln)]
             if m
         ]
-        self.assertEqual(numbers, list(range(1, 25)),
-                         f"numeracja źródeł nie jest ciągła 1..24: {numbers}")
+        self.assertEqual(numbers, list(range(1, 29)),
+                         f"numeracja źródeł nie jest ciągła 1..28: {numbers}")
 
     def test_every_source_has_url_and_access_date(self):
         for ln in self._numbered_source_lines():

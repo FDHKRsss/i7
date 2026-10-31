@@ -208,11 +208,21 @@ class TestM3RealGrounding(unittest.TestCase):
 
     def test_footer_not_listing_32_37_as_remaining(self):
         footer = extract_subsection(self.text, "_Stan pliku:", "---")
-        self.assertNotIn(
-            "3.2–3.7",
-            footer,
-            "stopka 'Stan pliku' wciąż wymienia karty 3.2–3.7 jako do weryfikacji",
-        )
+        self.assertTrue(footer, "brak stopki '_Stan pliku:' w raporcie")
+        # Stopka w części "done" słusznie wymienia 3.2–3.7 jako zweryfikowane;
+        # jedynie końcowa klauzula "pozostało do weryfikacji" nie może ich wymieniać.
+        remaining = footer
+        for marker in ("pozostają", "pozostaje", "pozostały", "pozostała", "pozostało"):
+            idx = footer.rfind(marker)
+            if idx != -1:
+                remaining = footer[idx:]
+                break
+        for num in ("3.2", "3.3", "3.4", "3.5", "3.6", "3.7"):
+            self.assertNotIn(
+                num,
+                remaining,
+                f"stopka 'Stan pliku' wciąż wymienia kartę {num} jako pozostałą do weryfikacji",
+            )
 
 
 if __name__ == "__main__":

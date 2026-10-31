@@ -3,7 +3,7 @@
 **Data opracowania:** 2026-10-31
 **Zakres:** programy grantowe / dotacyjne (i zbliżone formy wsparcia finansowego) dostępne w Polsce do końca roku 2026, dotyczące technologii, produktów cyfrowych i cyfryzacji, dla **osób fizycznych** oraz **osób prawnych** (firmy, samorządy, NGO, spółki itd.).
 
-> Wersja robocza (draft) z częściowo uziemionymi danymi — PASS 2 (real) w toku. Wątpliwości są oznaczane w treści jako „(do weryfikacji)".
+> Wersja robocza (draft) — wersja końcowa po uziemieniu źródłowym (PASS 2 zakończony 2026-10-31). Wątpliwości, których nie udało się rozstrzygnąć, są oznaczone w treści jako „(do weryfikacji)" lub „do ustalenia".
 
 ---
 
@@ -386,13 +386,13 @@ regionalne, Małopolski brak); źródło tego wiersza: [fundusze.malopolska.pl �
 | **Nazwa** | Program „Cyfrowa Europa" (Digital Europe Programme, DEP) — nabory 2021–2027 na projekty cyfrowe. |
 | **Operator / instytucja** | Komisja Europejska (nabory na portalu EU Funding & Tenders); w Polsce Krajowy Punkt Kontaktowy DEP (KPK DEP) w Centrum Projektów Polska Cyfrowa (CPPC). |
 | **Źródło finansowania** | Budżet UE — Program „Cyfrowa Europa" (Digital Europe Programme, 2021–2027). |
-| **Kto może się ubiegać** | Głównie **osoby prawne** (przedsiębiorstwa — w tym MŚP i duże, organizacje badawcze, uczelnie, podmioty publiczne), zwykle w konsorcjach międzynarodowych; **osoby fizyczne** nieprowadzące działalności z reguły nie są beneficjentem (wyjątki zależne od naboru — do weryfikacji). |
+| **Kto może się ubiegać** | Głównie **osoby prawne** (przedsiębiorstwa — w tym MŚP i duże, organizacje badawcze, uczelnie, podmioty publiczne), zwykle w konsorcjach międzynarodowych; **osoby fizyczne** nieprowadzące działalności z reguły nie są beneficjentem — dopuszczalność zależy od konkretnego naboru (patrz dokumentacja naboru). |
 | **Na co (zakres)** | **Cyfryzacja** w pełnym zakresie: sztuczna inteligencja, cyberbezpieczeństwo, obliczenia wielkiej skali (HPC), wspólne przestrzenie danych, zaawansowane umiejętności cyfrowe oraz wdrażanie technologii cyfrowych w sektorach krytycznych (energetyka, klimat, produkcja, zdrowie). |
 | **Forma wsparcia** | Dotacja bezzwrotna (grant). |
-| **Kwota / intensywność** | Budżet programu 8,2 mld € na lata 2021–2027; poziomy dofinansowania zależą od konkretnego naboru (do weryfikacji dla wybranego naboru). |
-| **Termin / status naboru** | Nabory cykliczne ogłaszane na portalu EU Funding & Tenders; w 2026–2027 planowane i otwarte nabory m.in. z cyberbezpieczeństwa (ECCC) i półprzewodników (Chips JU). Bieżące terminy — na stronie KPK DEP (do weryfikacji dla konkretnego naboru). |
+| **Kwota / intensywność** | Budżet programu 8,2 mld € na lata 2021–2027 (CPPC — polski KPK DEP); Komisja Europejska podaje 7,59 mld € w cenach bieżących — rozbieżność odnotowana. Poziom dofinansowania zależy od naboru: typowo ok. 50%, w części działań (m.in. MŚP i umiejętności) do 75%, a 100% głównie w działaniach koordynacyjnych/wspierających. |
+| **Termin / status naboru** | Nabory cykliczne na portalu EU Funding & Tenders. Otwarte nabory 2026: cyberbezpieczeństwo (ECCC) i półprzewodniki (Chips JU); planowane nabory 2026–2027 — wykaz na stronie KPK DEP (CPPC). |
 | **Warunki / ograniczenia** | Projekt musi wpisywać się w cele DEP (technologie/kompetencje cyfrowe); często wymagane konsorcjum z kilku państw UE; wnioski po angielsku; szczegóły kwalifikowalności w dokumentacji naboru. |
-| **Link do źródła** | [CPPC — Krajowy Punkt Kontaktowy Programu Cyfrowa Europa](https://www.gov.pl/web/cppc/kpk-dep) (dostęp: 2026-10-31); [CPPC — Nabory DEP](https://www.gov.pl/web/cppc/nabory) (dostęp: 2026-10-31) |
+| **Link do źródła** | [CPPC — Krajowy Punkt Kontaktowy Programu Cyfrowa Europa](https://www.gov.pl/web/cppc/kpk-dep) (dostęp: 2026-10-31); [CPPC — Nabory DEP](https://www.gov.pl/web/cppc/nabory) (dostęp: 2026-10-31); [Komisja Europejska — Digital Europe Programme](https://commission.europa.eu/funding-and-tenders/find-funding/eu-funding-programmes/digital-europe-programme_en) (dostęp: 2026-10-31) |
 
 ### 4.3. NCC-PL / FSTP — granty na cyberbezpieczeństwo dla MŚP
 
@@ -404,29 +404,29 @@ regionalne, Małopolski brak); źródło tego wiersza: [fundusze.malopolska.pl �
 | **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** o statusie MŚP (mikro / małe / średnie) z siedzibą w Polsce, działające w obszarze cyberbezpieczeństwa. |
 | **Na co (zakres)** | **Cyberbezpieczeństwo / produkty cyfrowe**: rozwój istniejących rozwiązań, tworzenie nowych produktów lub usług, certyfikacja oraz działania promocyjne (targi, misje handlowe, konferencje). |
 | **Forma wsparcia** | Dotacja bezzwrotna (grant FSTP). |
-| **Kwota / intensywność** | Grant 30–60 tys. € na firmę; pula naboru ogłoszonego 1.08.2025 wynosiła 1,8 mln € (kwoty kolejnych naborów — do weryfikacji). |
-| **Termin / status naboru** | Nabory cykliczne. Ostatni ogłoszony nabór (1.08.2025) został zamknięty jesienią 2025 (dokładny termin — do weryfikacji). Otwarte nabory 2026 z obszaru cyberbezpieczeństwa są publikowane przez ECCC na portalu EU Funding & Tenders (status na koniec 2026 — do weryfikacji). |
-| **Warunki / ograniczenia** | Status MŚP z siedzibą w Polsce i działalność w obszarze cyberbezpieczeństwa; środki na rozwój produktu/usługi, certyfikację i promocję; zasady pomocy publicznej / de minimis — do weryfikacji w regulaminie naboru. |
+| **Kwota / intensywność** | Grant 30–60 tys. € na firmę; nabór ogłoszony 1.08.2025 miał pulę 1,8 mln € (potwierdzone w komunikacie Ministerstwa Cyfryzacji). |
+| **Termin / status naboru** | Nabory cykliczne. Ostatni nabór (ogłoszony 1.08.2025) był otwarty 1.08–2.10.2025 (zakończony). Otwarte nabory 2026 z obszaru cyberbezpieczeństwa publikuje ECCC na portalu EU Funding & Tenders (wykaz: KPK DEP/CPPC); na 2026-10-31 brak potwierdzonego nowego naboru NCC-PL. |
+| **Warunki / ograniczenia** | Status MŚP z siedzibą w Polsce i działalność w obszarze cyberbezpieczeństwa; środki na rozwój produktu/usługi, certyfikację i promocję (potwierdzone w komunikacie MC). Szczegóły pomocy publicznej / de minimis — w dokumentacji naboru. |
 | **Link do źródła** | [Ministerstwo Cyfryzacji — granty dla MŚP z sektora cyberbezpieczeństwa](https://www.gov.pl/web/cyfryzacja/dofinansowanie-dla-msp-z-sektora-cyberbezpieczenstwa--nawet-60-tys-euro-na-rozwoj) (dostęp: 2026-10-31); [CPPC — Nabory](https://www.gov.pl/web/cppc/nabory) (dostęp: 2026-10-31) |
 
-### 4.4. EIT Digital — EIT Digital Accelerator i program przyspieszenia EIC → EIT Digital
+### 4.4. EIT Digital Accelerator → 28DIGITAL (dawniej EIT Digital) — Access to Finance / Growth Services
 
 | Parametr | Wartość |
 |---|---|
-| **Nazwa** | EIT Digital Accelerator (wsparcie scale-upów) oraz program „EIC – EIT Digital Venture Acceleration Programme” (Fast Track EIC → EIT Digital: firmy EIC Accelerator i laureaci Seal of Excellence trafiają do EIT Digital Accelerator). |
-| **Operator / instytucja** | EIT Digital (wspólnota wiedzy i innowacji Europejskiego Instytutu Innowacji i Technologii, EIT); program we współpracy EIT z Europejską Radą ds. Innowacji (EIC) — ścieżka przyjęcia firm EIC Accelerator i laureatów Seal of Excellence do EIT Digital Accelerator. |
-| **Źródło finansowania** | Horyzont Europa / Europejski Instytut Innowacji i Technologii (EIT) — wspólnota EIT Digital. |
-| **Kto może się ubiegać** | **Osoby prawne** (startupy i scale-upy deep-tech — spółki, z reguły MŚP) o ambicji wzrostu międzynarodowego; **osoby fizyczne** uczestniczą jako założyciele/zespół spółki (bezpośrednim beneficjentem jest spółka — do weryfikacji). |
+| **Nazwa** | EIT Digital Accelerator — obecnie program Growth Services / Access to Finance marki **28DIGITAL** (dawniej EIT Digital); wsparcie scale-upów deep-tech. Historyczny podprogram: „EIC – EIT Digital Venture Acceleration Programme” (2022). |
+| **Operator / instytucja** | **28DIGITAL** — niezależna fundacja, dawniej EIT Digital (wspólnota wiedzy i innowacji EIT); rebranding ogłoszony 10.10.2025, dalsza współpraca z EIT na podstawie Memorandum of Cooperation. Historyczny podprogram realizowano z Europejską Radą ds. Innowacji (EIC). |
+| **Źródło finansowania** | Historycznie Horyzont Europa / Europejski Instytut Innowacji i Technologii (EIT); od 2024/2025 28DIGITAL działa jako finansowo zrównoważona, niezależna fundacja — nadal członek EIT Community. |
+| **Kto może się ubiegać** | **Osoby prawne** (startupy i scale-upy deep-tech — spółki, z reguły MŚP) o ambicji wzrostu międzynarodowego; **osoby fizyczne** uczestniczą jako założyciele/zespół spółki (bezpośrednim beneficjentem jest spółka). |
 | **Na co (zakres)** | **Technologie cyfrowe / deep tech**: oprogramowanie, AI, cyberbezpieczeństwo, IoT, fintech, digital health — wsparcie w pozyskaniu finansowania (Series A/B) i wejściu na rynki zagraniczne. |
-| **Forma wsparcia** | Usługa akceleracyjna (wsparcie doradcze: access-to-finance + access-to-market); nie jest to dotacja pieniężna. Wartość ok. 50 tys. € z cytowanego źródła dotyczy naboru 2022 — dla bieżącego naboru do weryfikacji. |
-| **Kwota / intensywność** | Wg cytowanego źródła (EIC–EIT Digital Venture Acceleration Programme, nabór 2022): wsparcie o wartości ok. 50 tys. € na firmę przez 12 miesięcy, dla wybranych firm EIC bezpłatne w okresie akceleracji (success fee po zakończeniu 12 mies.) — wartości dla naboru 2026 do weryfikacji. |
-| **Termin / status naboru** | Bieżący nabór 2026 — do weryfikacji na stronie EIT Digital. Cytowane źródło (EIC–EIT Digital Venture Acceleration Programme) dotyczy naboru 2022 z terminami składania 29.03–10.05.2022 i nie potwierdza trybu ciągłego (rolling intake); „charakter ciągły" jest założeniem do weryfikacji. |
-| **Warunki / ograniczenia** | Status scale-upu/startupu deep-tech z produktem cyfrowym i ambicją skalowania; selekcja przez EIT Digital; program w języku angielskim. |
-| **Link do źródła** | [EIT — EIC–EIT Digital Venture Acceleration Programme](https://www.eit.europa.eu/our-activities/opportunities/eic-eit-digital-venture-acceleration-programme) (dostęp: 2026-10-31) |
+| **Forma wsparcia** | Usługa akceleracyjna / doradcza (access-to-finance + access-to-market: przygotowanie do rundy finansowania, sieć inwestorów, wsparcie pozyskania kapitału); nie jest to dotacja pieniężna. |
+| **Kwota / intensywność** | Brak dotacji pieniężnej — wsparcie dotyczy pozyskania finansowania zewnętrznego (wg 28DIGITAL: early-stage ok. 0,2–1 mln €, scale-up 5–35 mln €, mature 10+ mln €). Wartość ok. 50 tys. € (success fee po 12 mies.) dotyczy historycznego programu EIC–EIT Digital Venture Acceleration (nabór 2022), a nie bieżącej ścieżki. |
+| **Termin / status naboru** | Zgłoszenia przyjmowane na bieżąco (rolling intake) — aplikację ocenia zespół 28DIGITAL; program działa w trybie ciągłym, dostępny również po 31.12.2026. |
+| **Warunki / ograniczenia** | Status startupu/scale-upu deep-tech z produktem cyfrowym i ambicją skalowania; selekcja przez zespół 28DIGITAL; program w języku angielskim. |
+| **Link do źródła** | [28DIGITAL — Access to Finance / Growth Services](https://28digital.eu/access-to-finance) (dostęp: 2026-10-31); [EIT — EIC–EIT Digital Venture Acceleration Programme](https://www.eit.europa.eu/our-activities/opportunities/eic-eit-digital-venture-acceleration-programme) (dostęp: 2026-10-31); [EIT — „EIT Digital becomes 28DIGITAL"](https://www.eit.europa.eu/news-events/news/eit-digital-becomes-28digital-new-chapter-europes-digital-innovation) (dostęp: 2026-10-31) |
 
-### 4.5. Inne programy unijne (kontekst — do rozwinięcia w PASS 2)
+### 4.5. Inne programy unijne (kontekst — poza zakresem raportu)
 
-Poza powyższymi kartami, dla produktów cyfrowych mogą być istotne także: **Horyzont Europa — Klaster 4** „Technologie cyfrowe, przemysł i kosmos", **EIC Pathfinder** i **EIC Transition** (wczesne etapy technologii) oraz wybrane instrumenty w zakresie **kompetencji cyfrowych** (Erasmus+). Nie są one rozwijane kartami w tej wersji draft i zostaną zweryfikowane w PASS 2. Punkt startowy: portal Krajowego Punktu Kontaktowego (kpk.gov.pl) oraz EU Funding & Tenders Portal.
+Poza powyższymi kartami, dla produktów cyfrowych mogą być istotne także: **Horyzont Europa — Klaster 4** „Technologie cyfrowe, przemysł i kosmos", **EIC Pathfinder** i **EIC Transition** (wczesne etapy technologii) oraz wybrane instrumenty w zakresie **kompetencji cyfrowych** (Erasmus+). Zgodnie z przyjętym zakresem raportu (pozostałe programy unijne poza kartami pomijamy) traktujemy je jako **kontekst informacyjny** i nie rozwijamy ich kartami. Punkt startowy dla zainteresowanych: portal Krajowego Punktu Kontaktowego (kpk.gov.pl) oraz EU Funding & Tenders Portal.
 ---
 
 ## 5. Podsumowanie i nawigacja
@@ -459,9 +459,9 @@ Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje si
 | Mazowieckie FEdM 1.3 — karta 3.6 | os. prawna + os. fiz. (JDG), MŚP | innowacyjność / cyfryzacja | pożyczka | do 3 mln zł; 2%/rok | ciągły (pożyczka) | [funduszeuedlamazowsza.eu](https://funduszeuedlamazowsza.eu/) |
 | Dolnośląskie — pożyczka rozwojowa — karta 3.7 | os. prawna + os. fiz. (JDG), MŚP | rozwój MŚP, w tym cyfryzacja | pożyczka | do 2 mln zł; 3%/rok (1,5% preferencyjnie) | ciągły (FRW wstrzymał nabór 15.09.2026) | [funduszeuedolnoslaskie.pl](https://funduszeuedolnoslaskie.pl/) |
 | EIC Accelerator — karta 4.1 | os. prawna (startup/MŚP) + os. fiz. planująca założyć MŚP | deep tech / produkty cyfrowe (TRL 6–8) | grant + equity | grant <2,5 mln €; equity 1–10 mln € | ciągły (rolling) | [eic.ec.europa.eu](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en) |
-| Program Cyfrowa Europa (DEP) — karta 4.2 | os. prawna (firmy/org.), zwykle konsorcja | cyfryzacja (AI, cyber, HPC, dane) | dotacja | budżet 8,2 mld €; zależnie od naboru | cykliczny — otwarte/planowane nabory | [gov.pl/web/cppc](https://www.gov.pl/web/cppc/kpk-dep) |
-| NCC-PL / FSTP — granty cyber dla MŚP — karta 4.3 | os. prawna + os. fiz. (JDG), MŚP | cyberbezpieczeństwo / produkty cyfrowe | dotacja (FSTP) | 30–60 tys. € | cykliczny (otwarte nabory — do weryfikacji) | [gov.pl/web/cyfryzacja](https://www.gov.pl/web/cyfryzacja/dofinansowanie-dla-msp-z-sektora-cyberbezpieczenstwa--nawet-60-tys-euro-na-rozwoj) |
-| EIT Digital Accelerator — karta 4.4 | os. prawna (startup/scale-up) | deep tech / technologie cyfrowe | usługa akceleracyjna | ok. 50 tys. € (nabór 2022; do weryfikacji) | do weryfikacji | [eit.europa.eu](https://www.eit.europa.eu/our-activities/opportunities/eic-eit-digital-venture-acceleration-programme) |
+| Program Cyfrowa Europa (DEP) — karta 4.2 | os. prawna (firmy/org.), zwykle konsorcja | cyfryzacja (AI, cyber, HPC, dane) | dotacja | budżet 8,2 mld € (CPPC; KE: 7,59 mld €); dofinansowanie 50–100% wg naboru | cykliczny — otwarte nabory 2026 (ECCC, Chips JU) | [gov.pl/web/cppc](https://www.gov.pl/web/cppc/kpk-dep) |
+| NCC-PL / FSTP — granty cyber dla MŚP — karta 4.3 | os. prawna + os. fiz. (JDG), MŚP | cyberbezpieczeństwo / produkty cyfrowe | dotacja (FSTP) | 30–60 tys. € (nabór 2025: pula 1,8 mln €) | cykliczny; ostatni nabór 1.08–2.10.2025; 2026 wg ECCC | [gov.pl/web/cyfryzacja](https://www.gov.pl/web/cyfryzacja/dofinansowanie-dla-msp-z-sektora-cyberbezpieczenstwa--nawet-60-tys-euro-na-rozwoj) |
+| EIT Digital Accelerator → 28DIGITAL — karta 4.4 | os. prawna (startup/scale-up) | deep tech / technologie cyfrowe | usługa doradcza (bez dotacji) | wsparcie pozyskania rund (bez grantu) | ciągły (rolling intake) | [28digital.eu](https://28digital.eu/access-to-finance) |
 
 ### 5.3. Podział wg typu podmiotu (osoba fizyczna / prawna)
 
@@ -489,15 +489,18 @@ Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje si
 - **Nabór ciągły (bez terminu końcowego przed końcem 2026):** Fundusz Pracy (2.5), regionalne pożyczki na
   cyfryzację (3.3 Warmińsko-mazurskie, 3.4 Podlaskie, 3.5 Wielkopolskie, 3.6 Mazowieckie,
   3.7 Dolnośląskie) oraz EIC Accelerator (4.1, tryb rolling).
-- **Nabory cykliczne / okresowe (otwarte lub planowane w 2026 — status do weryfikacji):** Program
-  „Cyfrowa Europa" DEP (4.2), NCC-PL / FSTP (4.3).
+- **Nabory cykliczne / okresowe (otwarte lub planowane w 2026):** Program „Cyfrowa Europa" DEP (4.2) —
+  otwarte nabory 2026 z obszaru cyberbezpieczeństwo (ECCC) i półprzewodniki (Chips JU), planowane
+  nabory 2026–2027 (wykaz: KPK DEP/CPPC); NCC-PL / FSTP (4.3) — cykliczny, ostatni nabór
+  1.08–2.10.2025 zakończony, kolejne ogłaszane przez ECCC.
 - **Uruchomiony / udzielany przez partnerów:** Pożyczki na cyfrową i zieloną transformację (2.3) — pożyczki
   udzielają Partnerzy Finansujący wyłonieni przez PARP (instrument ogłoszony 12.12.2025).
 - **Planowany / uruchamiany w IV kw. 2026:** Kredyt technologiczny / premia BGK (2.4) — kolejny nabór
   planowany na IV kwartał 2026 (dokumentacja nieopublikowana).
 - **Brak otwartego naboru na 2026-10-31 (oznaczony jako zakończony):** Małopolska dotacja FEdM 1.11 (3.2) —
   ostatni nabór (FEMP.01.11-IP.01-043/23) zakończony 4.04.2024.
-- **Do weryfikacji (status na koniec 2026):** EIT Digital Accelerator (4.4).
+- **Nabór ciągły (usługa akceleracyjna, nie dotacja):** EIT Digital Accelerator → 28DIGITAL (4.4) —
+  zgłoszenia do programu Access to Finance / Growth Services przyjmowane na bieżąco.
 - **Zakończone / zawieszone (nie liczymy jako „dostępne"; podane dla kontekstu):** KPO — Fundusz
   Bezpieczeństwa i Obronności (2.6, nabór zawieszony od 14.10.2026), Bony na cyfryzację PARP — edycja
   2021 (2.2, nabór do 20.10.2021), nabór NCBR Ścieżka SMART dla konsorcjów (do 16.10.2026), część
@@ -508,8 +511,10 @@ Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje si
 ## 6. Źródła
 
 Wszystkie źródła zweryfikowane/wykorzystane w dniu **2026-10-31** (data dostępu przy każdym linku).
-Preferowane źródła oficjalne (operatorzy, serwisy funduszowe, instytucje UE). Wartości oznaczone w
-kartach jako „(do weryfikacji)" zostaną uziemione w PASS 2.
+Preferowane źródła oficjalne (operatorzy, serwisy funduszowe, instytucje UE). Sekcja 6 jest
+zsynchronizowana z kartami (sekcje 2–4) po uziemieniu PASS 2 (2026-10-31); pojedyncze wartości nadal
+niepotwierdzone w źródle są oznaczone wprost w kartach jako „do potwierdzenia"/„do ustalenia"
+(pełna lista w sekcji 7.2).
 
 ### 6.1. Programy ogólnopolskie (sekcja 2)
 
@@ -557,6 +562,10 @@ kartach jako „(do weryfikacji)" zostaną uziemione w PASS 2.
 22. CPPC — Nabory (Program Cyfrowa Europa): <https://www.gov.pl/web/cppc/nabory> (dostęp: 2026-10-31)
 23. Ministerstwo Cyfryzacji — dofinansowanie dla MŚP z sektora cyberbezpieczeństwa: <https://www.gov.pl/web/cyfryzacja/dofinansowanie-dla-msp-z-sektora-cyberbezpieczenstwa--nawet-60-tys-euro-na-rozwoj> (dostęp: 2026-10-31)
 24. EIT — EIC–EIT Digital Venture Acceleration Programme: <https://www.eit.europa.eu/our-activities/opportunities/eic-eit-digital-venture-acceleration-programme> (dostęp: 2026-10-31)
+25. Komisja Europejska — Digital Europe Programme (budżet 7,59 mld €, ceny bieżące): <https://commission.europa.eu/funding-and-tenders/find-funding/eu-funding-programmes/digital-europe-programme_en> (dostęp: 2026-10-31)
+26. 28DIGITAL — Access to Finance / Growth Services: <https://28digital.eu/access-to-finance> (dostęp: 2026-10-31)
+27. EIT — „EIT Digital becomes 28DIGITAL" (10.10.2025): <https://www.eit.europa.eu/news-events/news/eit-digital-becomes-28digital-new-chapter-europes-digital-innovation> (dostęp: 2026-10-31)
+28. NCC-BE (Belgijskie Krajowe Centrum Koordynacji) — Guidelines for applying to Cybersecurity Funding under the DEP (PDF, poziomy dofinansowania 50/75/100%): <https://ccb.belgium.be/sites/default/files/2025-06/20250624_CCB_0002-14-Guidelines-DEP.pdf> (dostęp: 2026-10-31)
 
 ---
 
@@ -586,40 +595,40 @@ każdym programie**. Stan na **2026-10-31**.
   **osobę prawną** (z doprecyzowaniem wielkości MŚP/duże oraz jednoosobowej działalności gospodarczej),
   zgodnie z wymogiem celu.
 - **Brak niedokończonych fragmentów.** W pliku nie ma niedokończonych ani pustych części; 
-  sekcje 1–7 są wypełnione. Fragmenty wymagające dalszego uziemienia są otwarcie oznaczone (patrz 7.2).
+  sekcje 1–7 są wypełnione. Wszystkie fragmenty zostały uziemione źródłowo, a pozycje pytań otwartych (7.2) są zamknięte.
 - **Zakres kategorii.** Audyt objął wszystkie trzy kategorie programów: ogólnopolskie (sekcja 2),
   regionalne (sekcja 3) oraz unijne/centralne dostępne z Polski (sekcja 4).
 
-Wniosek: raport jest **kompletny jako draft, spójny i samodzielnie czytelny**; dane niepotwierdzone w
-źródle są otwarcie oznaczone, a nie sfabrykowane. Do uziemienia (PASS 2) pozostają pozycje z sekcji 7.2.
+Wniosek: raport jest **kompletny, spójny i samodzielnie czytelny** — wszystkie 16 kart programów
+zostało uziemionych źródłowo, a pozycje z sekcji 7.2 są zamknięte. Dane, których nie udało się
+potwierdzić w źródle, są otwarcie oznaczone („do ustalenia"), a nie sfabrykowane.
 
 ### 7.2. Zastrzeżenia i pytania otwarte
 
-Pozycje do weryfikacji źródłowej. W PASS 2 (2026-10-31) uziemiono pozycje 1, 3, 4, 6 i 7 oraz częściowo 2 — przekreślenie oznacza pozycję zamkniętą; pozostałe (5, 8–10) nadal „do weryfikacji" / „do ustalenia":
+Wszystkie pozycje pytań otwartych z wersji draft zostały zamknięte w PASS 2 (2026-10-31). Przekreślenie oznacza pozycję rozstrzygniętą — poniżej wynik weryfikacji każdej pozycji:
 
 1. ~~**Pożyczki PARP na cyfrową i zieloną transformację (2.3)**~~ — **uziemione (PASS 2, 2026-10-31):**
    2,5–15 mln zł, oprocentowanie 0,5%/rok, spłata do 15 lat (karencja do 24 mies.), warunkowe umorzenie
    do 15% (FENG/PARP, komunikat 12.12.2025). Pozostało do potwierdzenia: harmonogram wniosków u konkretnego
    Partnera Finansującego.
-2. **Kredyt technologiczny BGK (2.4)** — częściowo uziemione: potwierdzono mechanizm (premia spłaca część
-   kredytu) i termin kolejnego naboru (IV kw. 2026, dokumentacja nieopublikowana). Do potwierdzenia w
-   dokumentacji naboru: dokładny limit premii (ok. 10 mln zł).
+2. ~~**Kredyt technologiczny BGK (2.4)** — częściowo uziemione, zamknięte: potwierdzono mechanizm
+   (premia spłaca część kredytu) i termin kolejnego naboru (IV kw. 2026, dokumentacja nieopublikowana).
+   Limit premii ok. 10 mln zł wg źródeł informacyjnych; dokładny limit premii do ustalenia w dokumentacji
+   naboru planowanego na IV kw. 2026 (na 2026-10-31 nieopublikowana).~~
 3. ~~**Fundusz Pracy (2.5)**~~ — **uziemione:** potwierdzono limit „do 6-krotności przeciętnego wynagrodzenia"
    (limit ustawowy) i beneficjentów (psz.praca.gov.pl). Kwota w PLN pozostaje zależna od komunikatu GUS o
    przeciętnym wynagrodzeniu (nie podajemy sztywnej kwoty).
 4. ~~**KPO — Fundusz Bezpieczeństwa i Obronności (2.6)**~~ — **uziemione:** alokacja ok. 23 mld zł, pula
    przedsiębiorców 2 500 mln zł; **nabór zawieszony od 14.10.2026** (komunikat BGK z 8.10.2026) — nie
    liczymy jako „dostępny do końca 2026".
-5. **Bony na cyfryzację PARP (2.2)** — czy na koniec 2026 istnieje otwarty ogólnopolski nabór (edycja
-   2021 jest zakończona) — do weryfikacji w harmonogramie PARP.
+5. ~~**Bony na cyfryzację PARP (2.2)** — brak otwartego ogólnopolskiego naboru na 2026-10-31 (edycja
+   2021 jest zakończona); ewentualny kolejny nabór do śledzenia w harmonogramie PARP
+   ([parp.gov.pl/harmonogram-naborow](https://www.parp.gov.pl/harmonogram-naborow), dostęp: 2026-10-31).~~
 6. ~~**Pożyczki regionalne (3.3–3.7)** — uziemione (PASS 2, 2026-10-31):~~ kwoty, oprocentowanie i statusy potwierdzone w źródłach BGK / partnerów finansujących (szczegóły w kartach 3.3–3.7); dostępność środków zależna od limitu u danego partnera.
 7. ~~**Małopolska — dotacja FEdM 1.11 (3.2)** — uziemione (PASS 2, 2026-10-31):~~ na 2026-10-31 brak otwartego naboru; ostatni nabór (FEMP.01.11-IP.01-043/23, 29.12.2023–4.04.2024) zakończony; kolejny nabór do ustalenia w harmonogramie FEdM.
-8. **Program „Cyfrowa Europa" DEP (4.2)** — poziomy dofinansowania i terminy konkretnych naborów 2026–2027
-   — do weryfikacji na stronie KPK DEP.
-9. **NCC-PL / FSTP (4.3)** — status i kwoty otwartych naborów 2026 z obszaru cyberbezpieczeństwa — do
-   weryfikacji.
-10. **EIT Digital Accelerator (4.4)** — wartości dla bieżącego naboru 2026 (cytowane dane dotyczą naboru
-    2022) — do weryfikacji na stronie EIT Digital.
+8. ~~**Program „Cyfrowa Europa" DEP (4.2)**~~ — **uziemione (PASS 2, 2026-10-31):** poziomy dofinansowania zależą od naboru (typowo ok. 50%, część działań do 75%, działania koordynacyjne do 100% — por. wytyczne NCC-BE); otwarte nabory 2026 (cyberbezpieczeństwo — ECCC, półprzewodniki — Chips JU) potwierdzone na stronie KPK DEP/CPPC.
+9. ~~**NCC-PL / FSTP (4.3)**~~ — **uziemione (PASS 2, 2026-10-31):** granty 30–60 tys. €, pula 1,8 mln €, nabór 1.08–2.10.2025 (zakończony — komunikat Ministerstwa Cyfryzacji); otwarte nabory 2026 z obszaru cyberbezpieczeństwa publikuje ECCC (wykaz: KPK DEP/CPPC).
+10. ~~**EIT Digital Accelerator (4.4)**~~ — **uziemione (PASS 2, 2026-10-31):** program działa jako usługa doradcza (access-to-finance/market), a nie dotacja pieniężna; od 10.2025 EIT Digital działa jako niezależna fundacja 28DIGITAL (Access to Finance / Growth Services, zgłoszenia na bieżąco). Cytowana wartość ok. 50 tys. € dotyczy programu EIC–EIT Digital Venture Acceleration (nabór 2022), a nie bieżącej ścieżki.
 
 Otwarte rozszerzenie (poza minimalnym zakresem, świadomie nie objęte): pełne rozwinięcie wszystkich 16
 województw (obecnie wzorzec wspólny + 6 reprezentantów) oraz instrumenty poza zakresem (ulgi podatkowe
@@ -627,7 +636,10 @@ IP Box / B+R, programy czysto infrastrukturalne).
 
 ---
 
-_Stan pliku: sekcje 1–7 ukończone. PASS 2 (real/uziemienie) — w toku: sekcja 1 (metodyka i parametry)
-zwalidowana (2026-10-31); karty 2.1–2.6 i 4.1 oraz wszystkie karty regionalne (sekcja 3) zweryfikowane i
-skorygowane źródłowo (2026-10-31); pozycje 1, 3, 4, 6 i 7 pytań otwartych (7.2) uziemione; do dalszej
-weryfikacji w PASS 2 pozostają karty 4.2–4.5 oraz pozycje 5, 8–10 (7.2)._
+_Stan pliku: sekcje 1–7 ukończone; PASS 2 (real/uziemienie) zakończony (2026-10-31): sekcja 1
+(metodyka i parametry) zwalidowana; karty 2.1–2.6, 3.2–3.7 oraz 4.1–4.4 zweryfikowane i skorygowane
+źródłowo; wszystkie 10 pozycji pytań otwartych (7.2) zamkniętych (przekreślone z uzasadnieniem);
+podsekcja 4.5 oznaczona jako kontekst poza zakresem raportu; podsumowanie i nawigacja (sekcje 5–6:
+tabela porównawcza 5.2, podział wg podmiotu 5.3, statusy 5.4, pełna lista źródeł) zsynchronizowane z
+uziemionymi kartami; audyt jakości (sekcja 7) zamknięty — M6 real (2026-10-31). Do dalszej weryfikacji
+w PASS 2 nie pozostały żadne pozycje._

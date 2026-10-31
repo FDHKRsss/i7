@@ -26,7 +26,9 @@ _Recurring walls/gotchas and how to get past them. One bullet each._
   copy of the ground-state that silently falls stale after grounding — the footer still listed cards
   2.3–2.6 as "remaining to verify" after they were grounded. Update it in the SAME step as the grounding
   and add a test asserting the footer matches the grounded-card bodies (e.g.
-  `test_m2_real.py::test_stan_pliku_`), so it can't drift again.
+  `test_m2_real.py::test_stan_pliku_`), so it can't drift again. Make that guard test assert *semantic*
+  content (which cards the "remaining" clause still names), NOT a literal phrase — the M3 grounding
+  legitimately rewrote the clause and a literal assertion (`pozostałe karty (…)`) went red until rewritten.
 - Self-audit / verification sections tend to over-claim: a "see §7.2" cross-reference (e.g. "all ungrounded
   fragments are openly marked") must correspond 1:1 to the actual open-items list, or the audit itself is
   inconsistent and gets flagged. Before asserting such a sentence, verify it against the real report

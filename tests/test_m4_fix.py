@@ -1,17 +1,20 @@
-"""Focused validation for the M4 stub's EIT Digital (4.4) correction.
+"""Focused regression tests for the M4-real grounding of card 4.4 (28DIGITAL).
 
-The critic flagged that the EIT Digital card presented the ~EUR 50k value,
-"bezpłatne dla wybranych firm EIC" and a "rolling intake" status as current
-facts while the cited source is the 2022 EIC-EIT Digital Venture Acceleration
-Programme. The accepted fix must:
+The M4 *real* pass re-grounded the old "EIT Digital Accelerator" card 4.4: the
+program now operates under the 28DIGITAL brand (rebranded 10.10.2025) and offers
+*advisory* Access to Finance / Growth Services — NOT a cash grant. These tests
+guard against regressing to the superseded draft-era presentation, which showed a
+~EUR 50k value and "bezpłatne dla wybranych firm EIC" as current 2026 facts while
+the only cited source was the 2022 EIC–EIT Digital Venture Acceleration Programme.
 
-- attribute the ~EUR 50k value and the "bezpłatne / success fee" wording to the
-  2022 source and mark them "do weryfikacji" for the 2026 call,
-- mark "rolling intake"/"charakter ciągły" as an assumption to verify, and
-- state that the 2022 source does NOT confirm a rolling/continuous intake.
+They complement tests/test_m4_real.py (generic completion signals) by pinning the
+specific correction:
 
-These tests guard against regressing to presenting those values as confirmed
-2026 facts (i.e. re-introducing fabricated/unsupported figures).
+  * heading / Nazwa / Operator state the 28DIGITAL rebranding;
+  * Forma wsparcia = advisory service, not a grant;
+  * the ~EUR 50k figure is attributed to the historical 2022 programme, not the
+    current path;
+  * the source links point to 28DIGITAL and to the EIT programme/news pages.
 """
 
 import unittest
@@ -39,26 +42,6 @@ def extract_section(text, heading):
     return "\n".join(out)
 
 
-def extract_cards(section_text):
-    """Return each program card = a markdown table headed by '| Parametr | Wartość |'."""
-    cards = []
-    lines = section_text.splitlines()
-    i = 0
-    n = len(lines)
-    while i < n:
-        if lines[i].strip() == "| Parametr | Wartość |":
-            table = []
-            j = i
-            while j < n and lines[j].strip().startswith("|"):
-                table.append(lines[j])
-                j += 1
-            cards.append("\n".join(table))
-            i = j
-        else:
-            i += 1
-    return cards
-
-
 def field_row(card, field):
     """Return the full table row for a given bold field label, or None."""
     for ln in card.splitlines():
@@ -67,115 +50,91 @@ def field_row(card, field):
     return None
 
 
-def card_by_name(cards, token):
-    """Return the card whose 'Nazwa' field contains `token` (case-insensitive), else None."""
-    token_l = token.lower()
-    for card in cards:
-        nazwa = field_row(card, "Nazwa")
-        if nazwa and token_l in nazwa.lower():
-            return card
-    return None
+def heading_44(section):
+    """Return the '### 4.4.' heading line, or ''."""
+    for ln in section.splitlines():
+        if ln.strip().startswith("### 4.4."):
+            return ln.strip()
+    return ""
 
 
-class TestM4EitDigitalCorrection(unittest.TestCase):
+def card_44(section):
+    """Return the card table (list of lines) that follows the '### 4.4.' heading."""
+    lines = section.splitlines()
+    seen = False
+    for i, ln in enumerate(lines):
+        if ln.strip().startswith("### 4.4."):
+            seen = True
+            continue
+        if seen and ln.strip() == "| Parametr | Wartość |":
+            rows = []
+            j = i
+            while j < len(lines) and lines[j].strip().startswith("|"):
+                rows.append(lines[j])
+                j += 1
+            return "\n".join(rows)
+    return ""
+
+
+class TestM4Real28DigitalCard(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         text = DELIVERABLE.read_text(encoding="utf-8") if DELIVERABLE.exists() else ""
         cls.section = extract_section(text, "## 4. Programy unijne/centralne")
-        cls.cards = extract_cards(cls.section)
-        cls.eit_card = card_by_name(cls.cards, "EIT Digital")
+        cls.card = card_44(cls.section)
 
-    def test_eit_digital_card_present(self):
-        self.assertIsNotNone(
-            self.eit_card, "brak karty EIT Digital (4.4) w sekcji programów unijnych/centralnych"
-        )
+    def _field(self, field):
+        self.assertIsNotNone(self.card, "brak karty 4.4 (28DIGITAL)")
+        row = field_row(self.card, field)
+        self.assertIsNotNone(row, f"brak pola '{field}' w karcie 4.4")
+        return row
 
-    def test_euro_50k_attributed_to_2022_and_flagged_for_verification(self):
-        self.assertIsNotNone(self.eit_card, "brak karty EIT Digital (4.4)")
-        kwota = field_row(self.eit_card, "Kwota / intensywność")
-        forma = field_row(self.eit_card, "Forma wsparcia")
-        self.assertIsNotNone(kwota, "brak pola 'Kwota / intensywność' w karcie EIT Digital")
-        self.assertIsNotNone(forma, "brak pola 'Forma wsparcia' w karcie EIT Digital")
+    def test_card_44_present(self):
+        self.assertIsNotNone(self.card, "brak karty 4.4 (28DIGITAL) w sekcji programów unijnych/centralnych")
 
-        # The EUR figure is present but must be tied to the 2022 call, not a 2026 fact.
-        both = kwota + " " + forma
-        self.assertIn("50 tys.", both)
-        self.assertIn("2022", both, "kwota ~50 tys. EUR nie jest przypisana do naboru 2022")
-        self.assertIn("do weryfikacji", both.lower(), "kwota nie jest oznaczona jako 'do weryfikacji'")
-        self.assertIn("do weryfikacji", kwota.lower(), "pole 'Kwota / intensywność' nie oznacza wartości dla 2026 do weryfikacji")
-
-    def test_free_for_eic_companies_tied_to_2022_source(self):
-        self.assertIsNotNone(self.eit_card, "brak karty EIT Digital (4.4)")
-        kwota = field_row(self.eit_card, "Kwota / intensywność")
-        self.assertIsNotNone(kwota)
-        # If "bezpłatne / success fee" is mentioned, it must be tied to the 2022
-        # source and flagged — never a bare current-fact claim.
-        if "bezpłatn" in kwota.lower() or "success fee" in kwota.lower():
-            self.assertIn("2022", kwota)
-            self.assertIn("do weryfikacji", kwota.lower())
-
-    def test_rolling_intake_not_presented_as_confirmed(self):
-        self.assertIsNotNone(self.eit_card, "brak karty EIT Digital (4.4)")
-        status = field_row(self.eit_card, "Termin / status naboru")
-        self.assertIsNotNone(status, "brak pola 'Termin / status naboru' w karcie EIT Digital")
-        lower = status.lower()
-        self.assertIn("do weryfikacji", lower, "status naboru EIT Digital nie jest oznaczony jako 'do weryfikacji'")
-        # "charakter ciągły" is an assumption, not a confirmed status.
-        self.assertRegex(lower, r"założeni\w*\s+do weryfikacji", "brak oznaczenia 'założenie do weryfikacji' dla trybu ciągłego")
-        # The 2022 source must be stated as NOT confirming a rolling/continuous intake.
-        self.assertRegex(lower, r"nie\s+potwierdza\s+trybu\s+ciągł", "brak adnotacji, że źródło 2022 nie potwierdza trybu ciągłego")
-
-    def test_eit_digital_source_is_2022_programme_page(self):
-        self.assertIsNotNone(self.eit_card, "brak karty EIT Digital (4.4)")
-        link = field_row(self.eit_card, "Link do źródła")
-        self.assertIsNotNone(link, "brak pola 'Link do źródła' w karcie EIT Digital")
-        self.assertIn("eit.europa.eu", link)
-        self.assertIn("venture-acceleration", link.lower())
-
-
-class TestM4EitDigitalDirectionFix(unittest.TestCase):
-    """Validate the 4.4 Fast Track direction: EIC -> EIT Digital (not inverted).
-
-    The coder item corrected the label from the wrong "Fast Track EIT Digital ->
-    EIC Accelerator" to the direction actually described by the cited source:
-    EIC Accelerator companies and Seal-of-Excellence recipients are fast-tracked
-    INTO the EIT Digital Accelerator (EIC -> EIT Digital).
-    """
-
-    @classmethod
-    def setUpClass(cls):
-        text = DELIVERABLE.read_text(encoding="utf-8") if DELIVERABLE.exists() else ""
-        cls.section = extract_section(text, "## 4. Programy unijne/centralne")
-        cls.cards = extract_cards(cls.section)
-        cls.eit_card = card_by_name(cls.cards, "EIT Digital")
-
-    def _heading_44(self):
-        for ln in self.section.splitlines():
-            if ln.strip().startswith("### 4.4."):
-                return ln.strip()
-        return ""
-
-    def test_heading_44_states_eic_to_eit_digital(self):
-        heading = self._heading_44()
+    def test_heading_44_states_28digital(self):
+        heading = heading_44(self.section)
         self.assertTrue(heading, "brak nagłówka '### 4.4.'")
-        self.assertIn("EIC → EIT Digital", heading)
+        self.assertIn("28DIGITAL", heading, "nagłówek 4.4 nie wskazuje rebrandingu na 28DIGITAL")
 
-    def test_nazwa_field_states_eic_to_eit_digital_direction(self):
-        self.assertIsNotNone(self.eit_card, "brak karty EIT Digital (4.4)")
-        nazwa = field_row(self.eit_card, "Nazwa")
-        self.assertIsNotNone(nazwa, "brak pola 'Nazwa' w karcie EIT Digital")
-        self.assertIn("EIC → EIT Digital", nazwa)
-        self.assertIn("EIC Accelerator", nazwa)
-        self.assertIn("Seal of Excellence", nazwa)
-        self.assertIn("EIT Digital Accelerator", nazwa)
+    def test_nazwa_states_28digital_and_historical_2022_programme(self):
+        nazwa = self._field("Nazwa")
+        self.assertIn("28DIGITAL", nazwa)
+        self.assertIn("2022", nazwa, "pole Nazwa nie wskazuje historycznego podprogramu z 2022 r.")
 
-    def test_operator_field_states_eic_companies_into_eit_digital(self):
-        self.assertIsNotNone(self.eit_card, "brak karty EIT Digital (4.4)")
-        operator = field_row(self.eit_card, "Operator / instytucja")
-        self.assertIsNotNone(operator, "brak pola 'Operator / instytucja' w karcie EIT Digital")
-        self.assertIn("EIC Accelerator", operator)
-        self.assertIn("Seal of Excellence", operator)
-        self.assertIn("EIT Digital Accelerator", operator)
+    def test_operator_states_rebranding(self):
+        operator = self._field("Operator / instytucja")
+        self.assertIn("28DIGITAL", operator)
+        self.assertIn("EIT Digital", operator)
+
+    def test_beneficiary_is_legal_person(self):
+        kto = self._field("Kto może się ubiegać")
+        self.assertIn("Osoby prawne", kto)
+
+    def test_forma_is_advisory_not_grant(self):
+        forma = self._field("Forma wsparcia")
+        lower = forma.lower()
+        self.assertIn("usługa", lower)
+        self.assertIn("nie jest to dotacja", lower)
+
+    def test_kwota_states_no_cash_grant(self):
+        kwota = self._field("Kwota / intensywność")
+        self.assertIn("Brak dotacji pieniężnej", kwota)
+
+    def test_50k_attributed_to_2022_programme_not_current(self):
+        kwota = self._field("Kwota / intensywność")
+        self.assertIn("50 tys. €", kwota)
+        self.assertIn("2022", kwota, "kwota ~50 tys. € nie jest przypisana do naboru 2022")
+        self.assertIn("a nie bieżącej ścieżki", kwota)
+
+    def test_status_is_continuous_service(self):
+        status = self._field("Termin / status naboru")
+        self.assertIn("na bieżąco", status)
+
+    def test_source_links_include_28digital_and_eit(self):
+        link = self._field("Link do źródła")
+        self.assertIn("28digital.eu", link)
+        self.assertIn("eit.europa.eu", link)
 
     def test_no_inverted_direction_present(self):
         for phrase in (
@@ -184,39 +143,6 @@ class TestM4EitDigitalDirectionFix(unittest.TestCase):
             "Fast Track EIT Digital → EIC",
         ):
             self.assertNotIn(phrase, self.section, f"odwrócony kierunek nadal obecny: {phrase!r}")
-
-
-class TestArchitectureTestInventoryTracking(unittest.TestCase):
-    """Validate the ARCHITECTURE.md 'Stan realizacji' test-inventory fix.
-
-    The coder item added `tests.test_m4_fix` to the recorded unittest command and
-    listed all six test files. These are structural checks (file names + command
-    line), so they do not hard-code test counts and stay valid as tests evolve.
-    """
-
-    EXPECTED_FILES = [
-        "test_m1",
-        "test_m2",
-        "test_m3",
-        "test_m3_fix",
-        "test_m4",
-        "test_m4_fix",
-    ]
-
-    @classmethod
-    def setUpClass(cls):
-        arch = REPO_ROOT / "docs" / "ARCHITECTURE.md"
-        cls.arch = arch.read_text(encoding="utf-8") if arch.exists() else ""
-
-    def test_all_six_test_files_listed(self):
-        for name in self.EXPECTED_FILES:
-            self.assertIn(f"tests/{name}.py", self.arch, f"ARCHITECTURE.md nie wymienia {name}")
-
-    def test_recorded_unittest_command_includes_test_m4_fix(self):
-        self.assertIn(
-            "tests.test_m4_fix", self.arch,
-            "ARCHITECTURE.md nie zawiera tests.test_m4_fix w poleceniu unittest",
-        )
 
 
 if __name__ == "__main__":

@@ -158,11 +158,14 @@ class TestM4ProgramyUnijneCentralne(unittest.TestCase):
             self.assertIn(heading, self.section, f"brak podsekcji {heading}")
 
     def test_context_note_for_other_eu_programs_present(self):
-        # M4 also allows "inne unijne (o ile realnie dostępne)"; the stub keeps them
-        # as a context note to be expanded in PASS 2 (no TODO, no fabricated cards).
+        # M4 also allows "inne unijne (o ile realnie dostępne)". After PASS 2 this
+        # subsection is resolved as an informational context note that is out of
+        # scope of the report — it must be present and clearly marked, and it must
+        # not be left as a PASS-2 TODO (that marker was the stub-only state).
         self.assertIn("### 4.5.", self.section)
         self.assertIn("Inne programy unijne", self.section)
-        self.assertIn("do rozwinięcia w PASS 2", self.section)
+        self.assertIn("poza zakresem", self.section)
+        self.assertNotIn("do rozwinięcia w PASS 2", self.section)
 
     # --- the section explains availability to Polish entities -------------------
 

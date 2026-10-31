@@ -16,6 +16,12 @@ _Regressions: what broke, the PROVEN root cause, and the fix._
   red tests. Root cause: asserting literal wording/formatting instead of semantic content. Fix: assert
   stable tokens/identifiers and semantic presence (`prawn`, the number, `karta X.Y` references), never an
   exact case/declension form or `**`/`*` marker.
+- `test_m2_real.py::test_stan_pliku_footer_not_stale` asserted the literal phrase `pozostałe karty (…)`;
+  the M3 regional grounding legitimately rewrote that footer clause, so the test went red and the M3-real
+  acceptance stuck. Root cause: a guard test written to prevent footer drift itself asserted a literal
+  surface phrase instead of semantic content. Fix: assert the semantic anchor (the footer's "remaining"
+  clause no longer names the already-grounded cards 2.3–2.6), never a verbatim phrase. Recurrence of the
+  "literal vs semantic" trap above, this time in a guard test rather than the report body.
 - M5 test reconciliation reported "130 tests / 7 files, all green" and called the record "correct", while
   the durable record and reality were 138/8 (the agent omitted `test_m5_fix.py`, 8 tests). Root cause:
   running `grep -c 'def test_'` and `python3 -m unittest` on a partial file list (skipping

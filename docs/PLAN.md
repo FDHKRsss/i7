@@ -62,15 +62,15 @@ PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pl
   bony na cyfryzację, wsparcie startupów. Co najmniej wspólny wzorzec + reprezentatywne nabory
   z kilku województw, każdy z linkiem do źródła._
 - [x] M4 — **Programy unijne/centralne dostępne z Polski** — stub
-- [ ] M4 — **Programy unijne/centralne dostępne z Polski** — real
+- [x] M4 — **Programy unijne/centralne dostępne z Polski** — real
   _Horyzont Europa (EIC Accelerator, EIT Digital), Program Cyfrowa Europa (Digital Europe), inne unijne
   (o ile realnie dostępne dla podmiotów z Polski i pod produkty cyfrowe). Karta + link._
 - [x] M5 — **Podsumowanie i nawigacja** — stub
-- [ ] M5 — **Podsumowanie i nawigacja** — real
+- [x] M5 — **Podsumowanie i nawigacja** — real
   _Tabela porównawcza (wszystkie parametry), podział wg typu podmiotu (fizyczne/prawne), status i terminy
   naborów do końca 2026, pełna sekcja „Źródła" z linkami i datami dostępu._
 - [x] M6 — **Weryfikacja i audyt jakości** — stub
-- [ ] M6 — **Weryfikacja i audyt jakości** — real
+- [x] M6 — **Weryfikacja i audyt jakości** — real
   _Audyt raportu vs cele: każdy wymagany program ma kartę + link, parametry kompletne lub otwarcie
   oznaczone jako nieznane, brak sfabrykowanych liczb/źródeł, spójność wewnętrzna, zero „TODO"._
 
@@ -92,20 +92,19 @@ Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `do
 - [x] 3.6 Mazowieckie — FEdM 1.3 (komponent cyfryzacja)
 - [x] 3.7 Dolnośląskie — pożyczka rozwojowa (komponent cyfryzacja)
 - [x] 4.1 EIC Accelerator — uziemione (budżety 2026: Open 414 mln € / Challenges 220 mln €)
-- [ ] 4.2 Program „Cyfrowa Europa" (DEP)
-- [ ] 4.3 NCC-PL / FSTP — granty cyberbezpieczeństwo dla MŚP
-- [ ] 4.4 EIT Digital Accelerator
-- [ ] M5 real — aktualizacja tabeli porównawczej, podziału wg podmiotu i sekcji „Źródła" po uziemieniu kart
-- [ ] M6 real — audyt jakości po uziemieniu (zamknięcie pozycji „7.2 Zastrzeżenia i pytania otwarte")
+- [x] 4.2 Program „Cyfrowa Europa" (DEP)
+- [x] 4.3 NCC-PL / FSTP — granty cyberbezpieczeństwo dla MŚP
+- [x] 4.4 EIT Digital Accelerator
+- [x] M5 real — aktualizacja tabeli porównawczej, podziału wg podmiotu i sekcji „Źródła" po uziemieniu kart
+- [x] M6 real — audyt jakości po uziemieniu (zamknięcie pozycji „7.2 Zastrzeżenia i pytania otwarte")
 
-> **Stan (2026-10-31):** PASS 2 (real/uziemienie) w toku — postęp uziemienia kart śledzony w checklist
-> powyżej. Uziemione i skorygowane: **M1 real — sekcja 1 (metodyka i parametry) zwalidowana** (schema
-> 10 pól jednolita w 16 kartach, kryterium czasowe i zasady cytowania stosowane konsekwentnie; portal
-> FE uziemiony URL-em + datą dostępu), karty 2.1, 2.2 (korekta źródła finansowania na PO IR 2014–2020,
-> Działanie 6.2), 4.1 oraz **M2 real: karty 2.3 (pożyczki PARP), 2.4 (kredyt technologiczny BGK),
-> 2.5 (Fundusz Pracy) i 2.6 (KPO FBiO — nabór zawieszony od 14.10.2026)** (szczegóły w
-> `docs/ARCHITECTURE.md` § Stan realizacji). 3.2–3.7 uziemione; pozostały 4.2–4.5 oraz uziemienie pytań
-> otwartych (7.2) — do dalszej weryfikacji w PASS 2.
+> **Stan (2026-10-31):** PASS 2 (real/uziemienie) **zakończony**. Uziemione i skorygowane: **M1 real**
+> (sekcja 1), karty 2.1–2.6 (ogólnopolskie), 3.2–3.7 (regionalne) oraz 4.1–4.4 (unijne/centralne):
+> M4 real uziemił karty 4.2 (Cyfrowa Europa/DEP), 4.3 (NCC-PL/FSTP) i 4.4 (EIT Digital → 28DIGITAL).
+> **M5 real** zsynchronizował podsumowanie i nawigację (tabela 5.2, podział 5.3, statusy 5.4) oraz pełną
+> sekcję „Źródła" (28 pozycji) z uziemionymi kartami. **M6 real** zamknął audyt jakości: pozycje 2 i 5
+> pytań otwartych (7.2) rozstrzygnięte, podsekcja 4.5 oznaczona jako kontekst poza zakresem, wniosek
+> §7.1 zastąpiony ostatecznym werdyktem. Brak otwartych prac.
 
 ## Zasady akceptacji kroku (definition of done)
 
