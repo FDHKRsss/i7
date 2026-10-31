@@ -597,6 +597,6 @@ IP Box / B+R, programy czysto infrastrukturalne).
 ---
 
 _Stan pliku: sekcje 1–7 ukończone (draft). PASS 2 (real/uziemienie) — w toku: karty 2.1, 2.2 (korekta
-źródła finansowania na PO IR 2014–2020, Działanie 6.2) i 4.1 zweryfikowane i skorygowane źródłowo
-(2026-10-31); pozostałe karty (2.3–2.7, 3.2–3.7, 4.2–4.5) oraz uziemienie pytań otwartych (7.2) —
+źródła finansowania na PO IR 2014–2020, Działanie 6.2), 2.3–2.6 i 4.1 zweryfikowane i skorygowane
+źródłowo (2026-10-31); pozostałe karty (3.2–3.7, 4.2–4.5) oraz uziemienie pytań otwartych (7.2) —
 do dalszej weryfikacji w PASS 2._
