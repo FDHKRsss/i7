@@ -19,3 +19,7 @@ _Recurring walls/gotchas and how to get past them. One bullet each._
   fragments are openly marked") must correspond 1:1 to the actual open-items list, or the audit itself is
   inconsistent and gets flagged. Before asserting such a sentence, verify it against the real report
   content, not against an aspiration.
+- The deliverable `docs/granty-2026.md` grows past read_file's "is this text?" heuristic (very long table
+  rows) and read_file returns "(binary or non-UTF8 file)" even though the file is valid UTF-8 (confirm
+  with `file` / a `python3` `.decode('utf-8')`). Don't treat that error as corruption or give up: read the
+  section you need via `run_command` (`grep -n`, `sed -n`, `cat`, or a small `python3` one-liner).

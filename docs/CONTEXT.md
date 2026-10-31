@@ -23,3 +23,5 @@ dostępu. „Parametry" definiujemy sami (schema w ARCHITECTURE).
 - **Deliverable = raport (nie testy/księgowość):** krok musi posuwać `docs/granty-2026.md` i zamykać kamień
   z `PLAN.md`. Obecnie trwa PASS 2 — uziemianie „(do weryfikacji)" źródłami. Sama edycja `lessons/*` lub
   liczenie testów to nie deliverable i bywa blokowane jako scope drift.
+- **Raport `docs/granty-2026.md` czytaj przez `run_command` (grep/sed/cat), nie `read_file`** — ten drugi
+  flaguje go jako „binary" (długie wiersze tabel; plik jest poprawnym UTF-8, to NIE uszkodzenie pliku).

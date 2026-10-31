@@ -90,7 +90,7 @@ Ewentualne rozszerzenia zapisujemy modularnie do decyzji człowieka.
 
 ## Stan realizacji (aktualny)
 
-- **PASS 1 (draft)** ukończony dla M1–M5; **PASS 2 (real/uziemienie)** w toku (rozpoczęto 2026-10-31).
+- **PASS 1 (draft)** ukończony dla M1–M6; **PASS 2 (real/uziemienie)** w toku (rozpoczęto 2026-10-31).
 - **M1 — Parametry i metodyka — stub: DONE** (2026-10-31). W `docs/granty-2026.md` zapisana sekcja 1
   (Metodyka i parametry): definicja „parametrów", schema 10 pól, kryteria włączenia/wyłączenia,
   interpretacja „dostępne do końca 2026", zasady cytowania. Brak placeholderów; konwencja draft
