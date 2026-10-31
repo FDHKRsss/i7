@@ -78,6 +78,8 @@ fizycznych**). Poniżej karty programów, których zakres obejmuje cyfryzację /
 cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulaminie) oznaczono
 „(do weryfikacji)".
 
+**Korekta źródła finansowania (PASS 2):** program „Bony na cyfryzację" (karta 2.2, edycja 2021) jest finansowany z **Programu Operacyjnego Inteligentny Rozwój 2014–2020 (PO IR), Działanie 6.2** — a nie z FENG 2021–2027 — i jest oznaczony jako zakończony.
+
 ### 2.1. FENG — Ścieżka SMART (PARP)
 
 | Parametr | Wartość |
@@ -93,20 +95,20 @@ cyfrowe. Wartości pochodzące z agregatorów (nie potwierdzone wprost w regulam
 | **Warunki / ograniczenia** | Prowadzenie działalności na terytorium Polski; status MŚP; projekt B+R z planem wdrożenia i przewagą rynkową; wkład własny w części nieobjętej dofinansowaniem. |
 | **Link do źródła** | [feng.parp.gov.pl — Ścieżka SMART](https://feng.parp.gov.pl/) (dostęp: 2026-10-31); [harmonogram naborów PARP](https://www.parp.gov.pl/harmonogram-naborow) (dostęp: 2026-10-31) |
 
-### 2.2. FENG — Bony na cyfryzację (PARP)
+### 2.2. PO IR 2014–2020 — Bony na cyfryzację (PARP)
 
 | Parametr | Wartość |
 |---|---|
-| **Nazwa** | Wsparcie MŚP w obszarze cyfryzacji — „Bony na cyfryzację". |
+| **Nazwa** | Wsparcie MŚP w obszarze cyfryzacji — „Bony na cyfryzację" (Działanie 6.2 PO IR, konkurs nr 1/2021). |
 | **Operator / instytucja** | Polska Agencja Rozwoju Przedsiębiorczości (PARP). |
-| **Źródło finansowania** | Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (FENG). |
+| **Źródło finansowania** | Program Operacyjny Inteligentny Rozwój 2014–2020 (PO IR), Działanie 6.2 „Wsparcie MŚP w obszarze cyfryzacji – Bony na cyfryzację" (konkurs nr 1/2021). **Korekta (PASS 2):** program nie jest finansowany z FENG 2021–2027 (wcześniej błędnie przypisany do FENG). |
 | **Kto może się ubiegać** | **Osoby prawne** oraz **osoby fizyczne prowadzące działalność gospodarczą** o statusie MŚP (mikro / małe / średnie); z reguły wymagane min. 12 miesięcy prowadzenia działalności. |
 | **Na co (zakres)** | **Cyfryzacja procesów biznesowych**: oprogramowanie (ERP/CRM/WMS, e-commerce), wdrożenia i integracje, szkolenia pracowników, doradztwo, sprzęt IT, cyberbezpieczeństwo, chmura. |
 | **Forma wsparcia** | Dotacja bezzwrotna (bon / voucher na usługi cyfryzacji). |
 | **Kwota / intensywność** | Do 85% kosztów kwalifikowanych; dofinansowanie od 51 000 zł do 255 000 zł, przy kosztach kwalifikowanych od 60 000 zł do 300 000 zł (parametry edycji 2021). |
 | **Termin / status naboru** | **Zakończony (edycja 2021)** — nabór 20.09–20.10.2021 (budżet 110 mln zł). Na 2026-10-31 nie potwierdzono otwartego ogólnopolskiego naboru „Bony na cyfryzację" PARP (do weryfikacji w harmonogramie PARP). |
 | **Warunki / ograniczenia** | Status MŚP; projekt musi dotyczyć cyfryzacji procesów (a nie „IT dla IT"); koszty bezpośrednio związane z projektem. |
-| **Link do źródła** | [PARP — Bony na cyfryzację](https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje) (dostęp: 2026-10-31) |
+| **Link do źródła** | [PARP — Bony na cyfryzację](https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje) (dostęp: 2026-10-31); [PARP — ogłoszenie o konkursie „Bony na cyfryzację" (Działanie 6.2)](https://www.parp.gov.pl/component/content/article/73731:wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje-ogloszenie-o-konkursie) (dostęp: 2026-10-31); [PARP — lista projektów wybranych (Działanie 6.2 PO IR, konkurs 1/2021)](https://en.parp.gov.pl/component/grants/news/lista-projektow-wybranych-do-dofinansowania-w-ramach-bonow-na-cyfryzacje) (dostęp: 2026-10-31) |
 
 ### 2.3. FENG — Pożyczki na cyfrową i zieloną transformację (PARP)
 
@@ -483,6 +485,8 @@ kartach jako „(do weryfikacji)" zostaną uziemione w PASS 2.
 1. PARP — Ścieżka SMART (FENG): <https://feng.parp.gov.pl/> (dostęp: 2026-10-31)
 2. PARP — Harmonogram naborów: <https://www.parp.gov.pl/harmonogram-naborow> (dostęp: 2026-10-31)
 3. PARP — Bony na cyfryzację: <https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje> (dostęp: 2026-10-31)
+3a. PARP — Ogłoszenie o konkursie „Bony na cyfryzację" (Działanie 6.2): <https://www.parp.gov.pl/component/content/article/73731:wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje-ogloszenie-o-konkursie> (dostęp: 2026-10-31)
+3b. PARP — Lista projektów wybranych „Bony na cyfryzację" (Działanie 6.2 PO IR, konkurs 1/2021): <https://en.parp.gov.pl/component/grants/news/lista-projektow-wybranych-do-dofinansowania-w-ramach-bonow-na-cyfryzacje> (dostęp: 2026-10-31)
 4. PARP — Pożyczki na cyfrową i zieloną transformację: <https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw> (dostęp: 2026-10-31)
 5. BGK — Kredyt technologiczny: <https://www.bgk.pl/produkty/kredyt-technologiczny/> (dostęp: 2026-10-31)
 6. Publiczne Służby Zatrudnienia — Dofinansowanie podjęcia działalności gospodarczej: <https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej> (dostęp: 2026-10-31)
@@ -579,6 +583,7 @@ IP Box / B+R, programy czysto infrastrukturalne).
 
 ---
 
-_Stan pliku: sekcje 1–7 ukończone (draft). PASS 2 (real/uziemienie) — rozpoczęto: karty 2.1, 2.2 i 4.1
-zweryfikowane i skorygowane źródłowo (2026-10-31); pozostałe karty (2.3–2.7, 3.2–3.7, 4.2–4.5) oraz
-uziemienie pytań otwartych (7.2) — do dalszej weryfikacji w PASS 2._
+_Stan pliku: sekcje 1–7 ukończone (draft). PASS 2 (real/uziemienie) — w toku: karty 2.1, 2.2 (korekta
+źródła finansowania na PO IR 2014–2020, Działanie 6.2) i 4.1 zweryfikowane i skorygowane źródłowo
+(2026-10-31); pozostałe karty (2.3–2.7, 3.2–3.7, 4.2–4.5) oraz uziemienie pytań otwartych (7.2) —
+do dalszej weryfikacji w PASS 2._

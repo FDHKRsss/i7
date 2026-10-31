@@ -80,7 +80,7 @@ Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `do
 (weryfikacja w źródłach, usunięcie „(do weryfikacji)" tam, gdzie je potwierdzono). Stan na **2026-10-31**:
 
 - [x] 2.1 Ścieżka SMART (PARP) — uziemione (budżet/intensywność/termin + nr naboru FENG.01.01-IP.02-003/26)
-- [x] 2.2 Bony na cyfryzację (PARP) — uziemione (85% / maks. 255 tys. zł; edycja 2021 oznaczona jako zakończona)
+- [x] 2.2 Bony na cyfryzację (PARP) — uziemione/korygowane (2026-10-31): pole „Źródło finansowania" karty 2.2 poprawione z błędnego FENG 2021–2027 na **Działanie 6.2 PO IR 2014–2020** (Program Operacyjny Inteligentny Rozwój, konkurs nr 1/2021); zmieniony nagłówek karty i dodane źródła PARP (ogłoszenie o konkursie 73731 + lista projektów). Zsynchronizowano `docs/ARCHITECTURE.md` § Stan realizacji.
 - [ ] 2.3 Pożyczki na cyfrową i zieloną transformację (PARP)
 - [ ] 2.4 Kredyt technologiczny / premia technologiczna (BGK)
 - [ ] 2.5 Fundusz Pracy — dotacje PUP
@@ -99,9 +99,9 @@ Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `do
 - [ ] M6 real — audyt jakości po uziemieniu (zamknięcie pozycji „7.2 Zastrzeżenia i pytania otwarte")
 
 > **Stan (2026-10-31):** PASS 2 (real/uziemienie) w toku — postęp uziemienia kart śledzony w checklist
-> powyżej. Uziemione i skorygowane: karty 2.1, 2.2, 4.1 (szczegóły w `docs/ARCHITECTURE.md` § Stan
-> realizacji). Pozostałe karty (2.3–2.7, 3.2–3.7, 4.2–4.5) oraz uziemienie pytań otwartych (7.2) — do
-> dalszej weryfikacji w PASS 2.
+> powyżej. Uziemione i skorygowane: karty 2.1, 2.2 (korekta źródła finansowania na PO IR 2014–2020,
+> Działanie 6.2) i 4.1 (szczegóły w `docs/ARCHITECTURE.md` § Stan realizacji). Pozostałe karty
+> (2.3–2.7, 3.2–3.7, 4.2–4.5) oraz uziemienie pytań otwartych (7.2) — do dalszej weryfikacji w PASS 2.
 
 ## Zasady akceptacji kroku (definition of done)
 
