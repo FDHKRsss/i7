@@ -20,3 +20,6 @@ dostępu. „Parametry" definiujemy sami (schema w ARCHITECTURE).
 - **git jest dostępny** (CLI działa); akceptacja kroku = `write_file` + commit/push **oraz** od razu
   oznaczenie kamienia jako done w `PLAN.md` (`- [x]`) i `ARCHITECTURE.md` (§ Stan realizacji + liczba
   testów) — inaczej kolejni agenci widzą stan nieaktualny.
+- **Deliverable = raport (nie testy/księgowość):** krok musi posuwać `docs/granty-2026.md` i zamykać kamień
+  z `PLAN.md`. Obecnie trwa PASS 2 — uziemianie „(do weryfikacji)" źródłami. Sama edycja `lessons/*` lub
+  liczenie testów to nie deliverable i bywa blokowane jako scope drift.
