@@ -399,7 +399,118 @@ regionalne, Małopolski brak); źródło tego wiersza: [fundusze.malopolska.pl �
 ### 4.5. Inne programy unijne (kontekst — do rozwinięcia w PASS 2)
 
 Poza powyższymi kartami, dla produktów cyfrowych mogą być istotne także: **Horyzont Europa — Klaster 4** „Technologie cyfrowe, przemysł i kosmos", **EIC Pathfinder** i **EIC Transition** (wczesne etapy technologii) oraz wybrane instrumenty w zakresie **kompetencji cyfrowych** (Erasmus+). Nie są one rozwijane kartami w tej wersji draft i zostaną zweryfikowane w PASS 2. Punkt startowy: portal Krajowego Punktu Kontaktowego (kpk.gov.pl) oraz EU Funding & Tenders Portal.
+---
+
+## 5. Podsumowanie i nawigacja
+
+### 5.1. Jak korzystać z tego raportu
+
+- Sekcje **2–4** zawierają karty programów (każda w jednolitym schemacie 10 pól, z rozbiciem beneficjenta
+  na osobę fizyczną/prawną i z obowiązkowym linkiem do źródła). Sekcja **5** pozwala szybko porównać
+  programy, wybrać program dla swojego typu podmiotu i sprawdzić status naboru względem końca 2026.
+  Sekcja **6** zbiera wszystkie cytowane źródła z datami dostępu.
+- Jeśli szukasz programu „dla siebie": zacznij od **5.3** (typ podmiotu), potem porównaj wiersze w **5.2**,
+  a szczegóły znajdź w karcie wskazanej w kolumnie „Program (karta)".
+
+### 5.2. Tabela porównawcza programów
+
+Skrócone kolumny dla szybkiego przeglądu (pełny 10-polowy schemat znajduje się w kartach w sekcjach 2–4).
+
+| Program (karta) | Beneficjent | Zakres (cyfryzacja) | Forma | Kwota / intensywność | Termin / status do końca 2026 | Źródło |
+|---|---|---|---|---|---|---|
+| Ścieżka SMART (PARP) — karta 2.1 | os. prawna + os. fiz. (JDG), MŚP | B+R → produkty cyfrowe / technologie cyfrowe | dotacja bezzwrotna | do 50 mln zł; 60–75% (do weryfikacji) | otwarty: 29.10–29.12.2026 | [feng.parp.gov.pl](https://feng.parp.gov.pl/) |
+| Bony na cyfryzację (PARP) — karta 2.2 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja procesów, oprogramowanie, e-commerce | dotacja (voucher) | do 85%; do ok. 255 tys. zł; min. ok. 40 tys. zł (do weryfikacji) | nabory okresowe — status do weryfikacji | [parp.gov.pl](https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje) |
+| Pożyczki na cyfrową i zieloną transformację (PARP) — karta 2.3 | os. prawna + os. fiz. (JDG), MŚP i duże | transformacja cyfrowa | pożyczka preferencyjna (z umorzeniem) | 2,5–15 mln zł (do weryfikacji) | od IV kw. 2026 (do weryfikacji) | [parp.gov.pl](https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw) |
+| Kredyt technologiczny / premia (BGK) — karta 2.4 | os. prawna + os. fiz. (JDG), MŚP | wdrożenie technologii (m.in. cyfrowej) | premia spłacająca kredyt | do ok. 10 mln zł (do weryfikacji) | cykliczny / ciągły | [bgk.pl](https://www.bgk.pl/produkty/kredyt-technologiczny/) |
+| Fundusz Pracy — dotacje PUP — karta 2.5 | os. fiz. (bezrobotni, absolwenci CIS/KIS itp.) | start działalności (m.in. cyfrowej) | dotacja bezzwrotna | do 6× przeciętne wynagrodzenie | ciągły | [psz.praca.gov.pl](https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej) |
+| KPO — Fundusz Bezpieczeństwa i Obronności — karta 2.6 | os. prawna (przedsiębiorstwa) | cyberbezpieczeństwo (dual-use) | pożyczka | pula 2 500 mln zł | do weryfikacji | [kpo.gov.pl](https://www.kpo.gov.pl/strony/o-kpo/wsparcie/nabory-dla-przedsiebiorcow/) |
+| Małopolska FEdM 1.11 — karta 3.2 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja i Przemysł 4.0 | dotacja bezzwrotna | do weryfikacji | nabory wg harmonogramu — do weryfikacji | [fundusze.malopolska.pl](https://fundusze.malopolska.pl/nabory) |
+| Warmińsko-mazurskie — pożyczka na cyfryzację — karta 3.3 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja | pożyczka z umorzeniem | do 1,5 mln zł | ciągły | [bgk.pl](https://www.bgk.pl/fundusze-europejskie-dla-warmii-i-mazur-2021-2027/) |
+| Podlaskie — pożyczka na cyfryzację — karta 3.4 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja | pożyczka | do weryfikacji | ciągły | [bgk.pl](https://www.bgk.pl/produkty/podlaskie/) |
+| Wielkopolskie FEW 1.5 — karta 3.5 | os. prawna + os. fiz. (JDG), MŚP | cyfryzacja | pożyczka | do weryfikacji | ciągły (pożyczka) | [funduszeue.wielkopolskie.pl](https://funduszeue.wielkopolskie.pl/nabory) |
+| Mazowieckie FEdM 1.3 — karta 3.6 | os. prawna + os. fiz. (JDG), MŚP | innowacyjność / cyfryzacja | pożyczka | do weryfikacji | ciągły (pożyczka) | [funduszeuedlamazowsza.eu](https://funduszeuedlamazowsza.eu/) |
+| Dolnośląskie — pożyczka rozwojowa — karta 3.7 | os. prawna + os. fiz. (JDG), MŚP | rozwój MŚP, w tym cyfryzacja | pożyczka | do weryfikacji | ciągły | [funduszeuedolnoslaskie.pl](https://funduszeuedolnoslaskie.pl/) |
+| EIC Accelerator — karta 4.1 | os. prawna (startup/MŚP) + os. fiz. planująca założyć MŚP | deep tech / produkty cyfrowe (TRL 6–8) | grant + equity | grant <2,5 mln €; equity 1–10 mln € | ciągły (rolling) | [eic.ec.europa.eu](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en) |
+| Program Cyfrowa Europa (DEP) — karta 4.2 | os. prawna (firmy/org.), zwykle konsorcja | cyfryzacja (AI, cyber, HPC, dane) | dotacja | budżet 8,2 mld €; zależnie od naboru | cykliczny — otwarte/planowane nabory | [gov.pl/web/cppc](https://www.gov.pl/web/cppc/kpk-dep) |
+| NCC-PL / FSTP — granty cyber dla MŚP — karta 4.3 | os. prawna + os. fiz. (JDG), MŚP | cyberbezpieczeństwo / produkty cyfrowe | dotacja (FSTP) | 30–60 tys. € | cykliczny (otwarte nabory — do weryfikacji) | [gov.pl/web/cyfryzacja](https://www.gov.pl/web/cyfryzacja/dofinansowanie-dla-msp-z-sektora-cyberbezpieczenstwa--nawet-60-tys-euro-na-rozwoj) |
+| EIT Digital Accelerator — karta 4.4 | os. prawna (startup/scale-up) | deep tech / technologie cyfrowe | usługa akceleracyjna | ok. 50 tys. € (nabór 2022; do weryfikacji) | do weryfikacji | [eit.europa.eu](https://www.eit.europa.eu/our-activities/opportunities/eic-eit-digital-venture-acceleration-programme) |
+
+### 5.3. Podział wg typu podmiotu (osoba fizyczna / prawna)
+
+- **Dla osób fizycznych nieprowadzących działalności gospodarczej:**
+  - **Fundusz Pracy — dotacje PUP** (karta 2.5) — jednorazowe środki na podjęcie działalności (również
+    cyfrowej); główny program typowo „dla osoby fizycznej".
+  - **EIC Accelerator** (karta 4.1) — aplikować mogą także osoby fizyczne zamierzające założyć MŚP
+    (startup deep-tech).
+  - Większość pozostałych programów wymaga prowadzenia jednoosobowej działalności gospodarczej (JDG)
+    lub posiadania formy prawnej.
+- **Dla osób fizycznych prowadzących JDG i osób prawnych (równorzędnie):**
+  - Ścieżka SMART (2.1), Bony na cyfryzację (2.2), Pożyczki na cyfrową i zieloną transformację (2.3),
+    Kredyt technologiczny / premia BGK (2.4), wszystkie karty regionalne (3.2–3.7), NCC-PL / FSTP (4.3).
+  - Typowa wielkość: mikro / małe / średnie przedsiębiorstwa (MŚP); pożyczki PARP (2.3) dopuszczają
+    też duże firmy.
+- **Głównie dla osób prawnych:**
+  - KPO — Fundusz Bezpieczeństwa i Obronności (2.6) — pula dla przedsiębiorstw (osoby prawne).
+  - Program „Cyfrowa Europa" DEP (4.2) — beneficjentami są z reguły podmioty prawne, często w konsorcjach
+    międzynarodowych.
+  - EIT Digital Accelerator (4.4) — beneficjentem jest spółka (startup/scale-up), założyciele jako zespół.
+
+### 5.4. Status i terminy naborów do końca 2026
+
+- **Otwarty teraz (można składać do końca 2026):** Ścieżka SMART (2.1) — nabór 29.10.2026–29.12.2026.
+- **Nabór ciągły (bez terminu końcowego przed końcem 2026):** Fundusz Pracy (2.5), Kredyt technologiczny
+  / premia BGK (2.4), regionalne pożyczki na cyfryzację (3.3 Warmińsko-mazurskie, 3.4 Podlaskie,
+  3.5 Wielkopolskie, 3.6 Mazowieckie, 3.7 Dolnośląskie) oraz EIC Accelerator (4.1, tryb rolling).
+- **Nabory cykliczne / okresowe (otwarte lub planowane w 2026 — status do weryfikacji):** Bony na
+  cyfryzację (2.2), Program „Cyfrowa Europa" DEP (4.2), NCC-PL / FSTP (4.3).
+- **Planowany / uruchamiany:** Pożyczki na cyfrową i zieloną transformację (2.3) — start od IV kw. 2026.
+- **Do weryfikacji (status na koniec 2026):** KPO — Fundusz Bezpieczeństwa i Obronności (2.6), Małopolska
+  dotacja FEdM 1.11 (3.2), EIT Digital Accelerator (4.4).
+- **Zakończone (nie liczymy jako „dostępne"; podane dla kontekstu):** nabór NCBR Ścieżka SMART dla
+  konsorcjów (do 16.10.2026), część naborów dotacyjnych mazowieckich (3.6), nabór NCC-PL ogłoszony
+  1.08.2025.
 
 ---
 
-_Stan pliku: ukończone sekcje 1 (Metodyka i parametry), 2 (Programy ogólnopolskie), 3 (Programy regionalne) oraz 4 (Programy unijne/centralne) — draft. Kolejne sekcje (podsumowanie/źródła i audyt) zostaną dopisane w następnych krokach._
+## 6. Źródła
+
+Wszystkie źródła zweryfikowane/wykorzystane w dniu **2026-10-31** (data dostępu przy każdym linku).
+Preferowane źródła oficjalne (operatorzy, serwisy funduszowe, instytucje UE). Wartości oznaczone w
+kartach jako „(do weryfikacji)" zostaną uziemione w PASS 2.
+
+### 6.1. Programy ogólnopolskie (sekcja 2)
+
+1. PARP — Ścieżka SMART (FENG): <https://feng.parp.gov.pl/> (dostęp: 2026-10-31)
+2. PARP — Harmonogram naborów: <https://www.parp.gov.pl/harmonogram-naborow> (dostęp: 2026-10-31)
+3. PARP — Bony na cyfryzację: <https://www.parp.gov.pl/component/grants/grants/wsparcie-msp-w-obszarze-cyfryzacji-bony-na-cyfryzacje> (dostęp: 2026-10-31)
+4. PARP — Pożyczki na cyfrową i zieloną transformację: <https://www.parp.gov.pl/component/grants/grants/pozyczki-na-cyfrowa-i-zielona-transformacje-przedsiebiorstw> (dostęp: 2026-10-31)
+5. BGK — Kredyt technologiczny: <https://www.bgk.pl/produkty/kredyt-technologiczny/> (dostęp: 2026-10-31)
+6. Publiczne Służby Zatrudnienia — Dofinansowanie podjęcia działalności gospodarczej: <https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej> (dostęp: 2026-10-31)
+7. KPO — Nabory dla przedsiębiorców: <https://www.kpo.gov.pl/strony/o-kpo/wsparcie/nabory-dla-przedsiebiorcow/> (dostęp: 2026-10-31)
+8. NCBR (strona główna): <https://www.ncbr.gov.pl/> (dostęp: 2026-10-31)
+9. Polski Fundusz Rozwoju (PFR): <https://pfr.pl/> (dostęp: 2026-10-31)
+
+### 6.2. Programy regionalne (sekcja 3)
+
+10. Portal Funduszy Europejskich — „Cyfryzacja": <https://www.funduszeeuropejskie.gov.pl/jak-firmy-korzystaja-z-funduszy/cyfryzacja/> (dostęp: 2026-10-31)
+11. Fundusze Europejskie dla Małopolski — Nabory: <https://fundusze.malopolska.pl/nabory> (dostęp: 2026-10-31)
+12. BGK — Fundusze Europejskie dla Warmii i Mazur 2021–2027: <https://www.bgk.pl/fundusze-europejskie-dla-warmii-i-mazur-2021-2027/> (dostęp: 2026-10-31)
+13. BGK — Pożyczki z Funduszy Europejskich dla Podlaskiego: <https://www.bgk.pl/produkty/podlaskie/> (dostęp: 2026-10-31)
+14. Fundusze Europejskie dla Podlaskiego: <https://funduszeuepodlaskie.pl/> (dostęp: 2026-10-31)
+15. Fundusze Europejskie dla Wielkopolski — Nabory: <https://funduszeue.wielkopolskie.pl/nabory> (dostęp: 2026-10-31)
+16. Fundusze Europejskie dla Mazowsza: <https://funduszeuedlamazowsza.eu/> (dostęp: 2026-10-31)
+17. BGK — Fundusze Europejskie dla Mazowsza, Działanie 1.3: <https://www.bgk.pl/programy-i-fundusze/fundusze/fundusze-europejskie/projekty/fundusze-europejskie-dla-regionow-2021-2027/fundusze-europejskie-dla-mazowsza/dzialanie-13-innowacyjnosc-i-konkurencyjnosc-msp/> (dostęp: 2026-10-31)
+18. Fundusze Europejskie dla Dolnego Śląska: <https://funduszeuedolnoslaskie.pl/> (dostęp: 2026-10-31)
+
+### 6.3. Programy unijne / centralne dostępne z Polski (sekcja 4)
+
+19. EIC Accelerator (European Innovation Council): <https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en> (dostęp: 2026-10-31)
+20. Krajowy Punkt Kontaktowy — EIC Accelerator: <https://www.kpk.gov.pl/horyzont-europa/innowacyjna-europa/eic/eic-accelerator> (dostęp: 2026-10-31)
+21. CPPC — Krajowy Punkt Kontaktowy Programu Cyfrowa Europa: <https://www.gov.pl/web/cppc/kpk-dep> (dostęp: 2026-10-31)
+22. CPPC — Nabory (Program Cyfrowa Europa): <https://www.gov.pl/web/cppc/nabory> (dostęp: 2026-10-31)
+23. Ministerstwo Cyfryzacji — dofinansowanie dla MŚP z sektora cyberbezpieczeństwa: <https://www.gov.pl/web/cyfryzacja/dofinansowanie-dla-msp-z-sektora-cyberbezpieczenstwa--nawet-60-tys-euro-na-rozwoj> (dostęp: 2026-10-31)
+24. EIT — EIC–EIT Digital Venture Acceleration Programme: <https://www.eit.europa.eu/our-activities/opportunities/eic-eit-digital-venture-acceleration-programme> (dostęp: 2026-10-31)
+
+---
+
+_Stan pliku: ukończone sekcje 1 (Metodyka i parametry), 2 (Programy ogólnopolskie), 3 (Programy regionalne), 4 (Programy unijne/centralne), 5 (Podsumowanie i nawigacja) oraz 6 (Źródła) — draft. Pozostała sekcja audytu jakości i pytań otwartych (M6) — zostanie dopisana w kolejnym kroku._

@@ -65,7 +65,7 @@ PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pl
 - [ ] M4 — **Programy unijne/centralne dostępne z Polski** — real
   _Horyzont Europa (EIC Accelerator, EIT Digital), Program Cyfrowa Europa (Digital Europe), inne unijne
   (o ile realnie dostępne dla podmiotów z Polski i pod produkty cyfrowe). Karta + link._
-- [ ] M5 — **Podsumowanie i nawigacja** — stub
+- [x] M5 — **Podsumowanie i nawigacja** — stub
 - [ ] M5 — **Podsumowanie i nawigacja** — real
   _Tabela porównawcza (wszystkie parametry), podział wg typu podmiotu (fizyczne/prawne), status i terminy
   naborów do końca 2026, pełna sekcja „Źródła" z linkami i datami dostępu._
