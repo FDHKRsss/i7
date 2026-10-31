@@ -74,9 +74,34 @@ PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pl
   _Audyt raportu vs cele: każdy wymagany program ma kartę + link, parametry kompletne lub otwarcie
   oznaczone jako nieznane, brak sfabrykowanych liczb/źródeł, spójność wewnętrzna, zero „TODO"._
 
-> **Stan (2026-10-31):** PASS 2 (real/uziemienie) rozpoczęty — uziemione i skorygowane karty 2.1, 2.2, 4.1
-> (szczegóły w `docs/ARCHITECTURE.md` § Stan realizacji). M2 real i M4 real pozostają w toku (uziemienie
-> pozostałych kart sekcji).
+### PASS 2 — śledzenie uziemienia kart (checklist)
+
+Kamienie M1–M6 real są realizowane jako uziemienie poszczególnych kart w `docs/granty-2026.md`
+(weryfikacja w źródłach, usunięcie „(do weryfikacji)" tam, gdzie je potwierdzono). Stan na **2026-10-31**:
+
+- [x] 2.1 Ścieżka SMART (PARP) — uziemione (budżet/intensywność/termin + nr naboru FENG.01.01-IP.02-003/26)
+- [x] 2.2 Bony na cyfryzację (PARP) — uziemione (85% / maks. 255 tys. zł; edycja 2021 oznaczona jako zakończona)
+- [ ] 2.3 Pożyczki na cyfrową i zieloną transformację (PARP)
+- [ ] 2.4 Kredyt technologiczny / premia technologiczna (BGK)
+- [ ] 2.5 Fundusz Pracy — dotacje PUP
+- [ ] 2.6 KPO — Fundusz Bezpieczeństwa i Obronności
+- [ ] 3.2 Małopolska — FEdM 1.11 (dotacja, cyfryzacja i Przemysł 4.0)
+- [ ] 3.3 Warmińsko-mazurskie — pożyczka na cyfryzację
+- [ ] 3.4 Podlaskie — pożyczka na cyfryzację
+- [ ] 3.5 Wielkopolskie — FEW 1.5 (komponent cyfryzacja)
+- [ ] 3.6 Mazowieckie — FEdM 1.3 (komponent cyfryzacja)
+- [ ] 3.7 Dolnośląskie — pożyczka rozwojowa (komponent cyfryzacja)
+- [x] 4.1 EIC Accelerator — uziemione (budżety 2026: Open 414 mln € / Challenges 220 mln €)
+- [ ] 4.2 Program „Cyfrowa Europa" (DEP)
+- [ ] 4.3 NCC-PL / FSTP — granty cyberbezpieczeństwo dla MŚP
+- [ ] 4.4 EIT Digital Accelerator
+- [ ] M5 real — aktualizacja tabeli porównawczej, podziału wg podmiotu i sekcji „Źródła" po uziemieniu kart
+- [ ] M6 real — audyt jakości po uziemieniu (zamknięcie pozycji „7.2 Zastrzeżenia i pytania otwarte")
+
+> **Stan (2026-10-31):** PASS 2 (real/uziemienie) w toku — postęp uziemienia kart śledzony w checklist
+> powyżej. Uziemione i skorygowane: karty 2.1, 2.2, 4.1 (szczegóły w `docs/ARCHITECTURE.md` § Stan
+> realizacji). Pozostałe karty (2.3–2.7, 3.2–3.7, 4.2–4.5) oraz uziemienie pytań otwartych (7.2) — do
+> dalszej weryfikacji w PASS 2.
 
 ## Zasady akceptacji kroku (definition of done)
 
