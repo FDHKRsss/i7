@@ -10,3 +10,7 @@ _Recurring walls/gotchas and how to get past them. One bullet each._
   rolling/cut-off (EIC) or call-based (DEP), not a single Polish-portal term. Ground them on the European
   Commission / CPPC-KPK / EIT Digital page and use EUR amounts; mark unconfirmed figures "do weryfikacji"
   instead of hunting a Polish deadline or a PLN figure.
+- Implement the milestone AND its tracking in one step: mark `- [x]` in `PLAN.md` AND update
+  `ARCHITECTURE.md` § "Stan realizacji" + the test count, enumerating EVERY test file (incl.
+  `test_mX_fix.py`) in both the count and the `unittest` command line so they match. (M4 recurred twice:
+  stale tracking, then a 91-vs-96 count from omitting `test_m4_fix.py`.)

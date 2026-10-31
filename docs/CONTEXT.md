@@ -17,4 +17,6 @@ dostępu. „Parametry" definiujemy sami (schema w ARCHITECTURE).
 - **Źródła oficjalne first** (PARP, NCBR, PFR, serwisy funduszowe, portale wojewódzkie; dla programów UE:
   Komisja Europejska / CPPC-KPK / EIT Digital — kwoty w EUR); brak potwierdzenia = „do ustalenia" — nie
   zmyślać liczb ani terminów.
-- **git jest dostępny** (CLI działa); akceptacja kroku = plik zapisany na dysku (`write_file`) + commit/push.
+- **git jest dostępny** (CLI działa); akceptacja kroku = `write_file` + commit/push **oraz** od razu
+  oznaczenie kamienia jako done w `PLAN.md` (`- [x]`) i `ARCHITECTURE.md` (§ Stan realizacji + liczba
+  testów) — inaczej kolejni agenci widzą stan nieaktualny.
