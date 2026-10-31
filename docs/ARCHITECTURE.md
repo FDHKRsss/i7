@@ -95,6 +95,14 @@ Ewentualne rozszerzenia zapisujemy modularnie do decyzji człowieka.
   (Metodyka i parametry): definicja „parametrów", schema 10 pól, kryteria włączenia/wyłączenia,
   interpretacja „dostępne do końca 2026", zasady cytowania. Brak placeholderów; konwencja draft
   („(do weryfikacji)") zadeklarowana.
-- Testy: `tests/test_m1.py` — 19 testów, wszystkie zielone (`python3 -m unittest tests.test_m1`).
-- Kolejne kroki: M2 (programy ogólnopolskie), M3 (regionalne), M4 (unijne), M5 (podsumowanie/źródła),
-  M6 (audyt jakości) — najpierw stub, potem real.
+- **M2 — Programy ogólnopolskie — stub: DONE** (2026-10-31). W `docs/granty-2026.md` zapisana sekcja 2
+  z 6 kartami programów: Ścieżka SMART (PARP), Bony na cyfryzację (PARP), Pożyczki na cyfrową i zieloną
+  transformację (PARP), Kredyt technologiczny/premia (BGK), Fundusz Pracy — dotacje PUP, KPO (Fundusz
+  Bezpieczeństwa i Obronności — komponent cyber) oraz kontekst NCBR/PFR. Każda karta ma 10 pól, link do
+  źródła + datę dostępu (2026-10-31), rozbicie beneficjenta na osobę fizyczną/prawną. Konkretne
+  liczby/terminy oznaczone jako „(do weryfikacji)" tam, gdzie nie są potwierdzone w regulaminie —
+  do uziemienia w PASS 2.
+- Testy: `tests/test_m1.py` (19 testów) i `tests/test_m2.py` (14 testów) — łącznie 33 testy, wszystkie
+  zielone (`python3 -m unittest tests.test_m1 tests.test_m2`).
+- Kolejne kroki: M3 (regionalne), M4 (unijne), M5 (podsumowanie/źródła), M6 (audyt jakości) — najpierw
+  stub, potem real.

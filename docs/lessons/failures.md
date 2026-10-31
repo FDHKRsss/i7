@@ -2,7 +2,7 @@
 
 _Regressions: what broke, the PROVEN root cause, and the fix._
 
-- Assumed a `git_commit_push` tool existed and listed it as a done-criterion; this environment has no git
-  tool, so the criterion was unmeetable. Root cause: relying on a tool without verifying it is available.
-  Fix: redefine acceptance as "file persisted via `write_file`", and check a tool actually exists before
-  making it a required step.
+- Recorded "brak git" as an environment fact without verifying; a later live check showed the git CLI IS
+  available (commit `5b58528` worked), so the stale note and its "no-commit" acceptance rule were wrong.
+  Root cause: asserting a tool/environment fact from memory instead of a quick command. Fix: verify with a
+  real command (`git status`) before making tool availability a done-criterion or recording it as fact.

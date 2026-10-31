@@ -47,11 +47,15 @@ PASS 1 (stuby) → cały PASS 2 (real). Każdy krok daje fragment tego samego pl
 - [ ] M1 — **Parametry i metodyka** — real
   _Sekcja „Metodyka i parametry": definicja parametrów (schema), kryteria włączenia/wyłączenia programu,
   interpretacja „dostępne do końca 2026", zasady cytowania źródeł._
-- [ ] M2 — **Programy ogólnopolskie** — stub
+- [x] M2 — **Programy ogólnopolskie** — stub
 - [ ] M2 — **Programy ogólnopolskie** — real
   _Krajowe programy na cyfryzację: Fundusze Europejskie dla Nowoczesnej Gospodarki (m.in. Ścieżka SMART),
   KPO, PARP (m.in. bony/vouchery na cyfryzację, akceleracja), NCBR, PFR, urzędy pracy (dotacje dla osób
   fizycznych na działalność — pod kątem produktów cyfrowych). Każdy: karta + link do źródła._
+  _PASS 2 — do zweryfikowania w źródłach: budżet/termin/intensywność Ścieżki SMART (jesień 2026),
+  kwoty bonów na cyfryzację (85% / ~255 tys. zł / min. ~40 tys. zł), parametry pożyczek PARP na cyfrową
+  i zieloną transformację (2,5–15 mln zł, oprocentowanie, umorzenie, start od IV kw. 2026), limit premii
+  technologicznej BGK (~10 mln zł), kwota dotacji z Funduszu Pracy (6× przeciętne wynagrodzenie wg GUS)._
 - [ ] M3 — **Programy regionalne** — stub
 - [ ] M3 — **Programy regionalne** — real
   _Fundusze Europejskie dla województw 2021-2027 (16 regionów): typowe działania „cyfryzacja MŚP",

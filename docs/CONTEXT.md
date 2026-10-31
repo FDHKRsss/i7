@@ -10,9 +10,10 @@ dostępu. „Parametry" definiujemy sami (schema w ARCHITECTURE).
 - **Dwie fazy:** PASS 1 = kompletny draft bez „TODO" (wątpliwości „(do weryfikacji)"); PASS 2 = weryfikacja
   źródłami i poprawki W TYM SAMYM pliku. Plik twórz wcześnie i aktualizuj w miejscu (crash-safe).
 - **Karta programu = 10 pól** (ARCHITECTURE § Parametry), w tym beneficjent rozbity na osobę
-  fizyczną/prawną + wielkość oraz **pole 10: link do źródła + data dostępu**.
+  fizyczną/prawną + wielkość oraz **pole 10: link do źródła + data dostępu**. Format karty: tabela
+  2-kolumnowa `| Parametr | Wartość |` (nazwy pól, nie numeracja) — jednolicie w całym raporcie.
 - **„Dostępne do końca 2026"** = nabór otwarty teraz / planowany do 31.12.2026 / ciągły; zakończone nabory
   NIE liczą się jako dostępne (co najwyżej oznaczone jako zakończone).
 - **Źródła oficjalne first** (PARP, NCBR, PFR, serwisy funduszowe, portale wojewódzkie); brak potwierdzenia
   = „do ustalenia" — nie zmyślać liczb ani terminów.
-- **Brak narzędzia git** w środowisku — akceptacja = plik zapisany na dysku (`write_file`), nie commit.
+- **git jest dostępny** (CLI działa); akceptacja kroku = plik zapisany na dysku (`write_file`) + commit/push.
